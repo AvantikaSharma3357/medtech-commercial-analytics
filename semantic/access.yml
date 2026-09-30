@@ -1,0 +1,17 @@
+# Role-based access control with row-level security.
+# Every query through the semantic layer is filtered by the viewing user's role.
+# Every cube must expose the dimensions referenced here.
+roles:
+  admin:
+    description: Full access to all rows.
+    row_filter: null
+  regional_manager:
+    description: Sees accounts in their own region.
+    row_filter:
+      dimension: region
+      user_field: Region
+  rep:
+    description: Sees only the accounts they own.
+    row_filter:
+      dimension: account_owner
+      user_field: Id

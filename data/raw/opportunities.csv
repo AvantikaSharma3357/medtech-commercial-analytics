@@ -1,0 +1,1201 @@
+Id,AccountId,Name,StageName,Product,Amount,CreatedDate,CloseDate,IsClosed,IsWon
+O00001,A0281,Lakeview Imaging 281 - Stenosis Mapping,Closed Won,Stenosis Mapping,42000.0,2024-09-17,2024-12-19,True,True
+O00002,A0067,Valley Heart Associates 67 - Plaque Quantification,Closed Won,Plaque Quantification,65700.0,2025-07-25,2025-10-05,True,True
+O00003,A0020,Harbor Imaging 20 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,77900.0,2026-08-14,2026-11-30,False,False
+O00004,A0140,Valley Heart Associates 140 - Stenosis Mapping,Closed Won,Stenosis Mapping,21300.0,2025-05-07,2025-09-08,True,True
+O00005,A0201,Summit Imaging 201 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,36200.0,2024-05-09,2024-09-03,True,False
+O00006,A0139,Union Imaging 139 - Stenosis Mapping,Closed Won,Stenosis Mapping,25600.0,2026-01-23,2026-05-19,True,True
+O00007,A0057,Pioneer Medical Center 57 - Stenosis Mapping,Evaluation,Stenosis Mapping,38600.0,2026-08-31,2026-10-30,False,False
+O00008,A0125,Mesa Imaging 125 - Plaque Quantification,Closed Lost,Plaque Quantification,75500.0,2025-01-13,2025-02-24,True,False
+O00009,A0266,Lakeview Medical Center 266 - Stenosis Mapping,Closed Lost,Stenosis Mapping,38800.0,2026-03-15,2026-06-17,True,False
+O00010,A0062,Pioneer Medical Center 62 - Stenosis Mapping,Closed Lost,Stenosis Mapping,37900.0,2026-02-09,2026-08-08,True,False
+O00011,A0062,Pioneer Medical Center 62 - Plaque Quantification,Closed Lost,Plaque Quantification,42200.0,2026-04-12,2026-06-26,True,False
+O00012,A0094,Pioneer Heart Associates 94 - Plaque Quantification,Closed Won,Plaque Quantification,53100.0,2026-01-28,2026-07-03,True,True
+O00013,A0002,Maple Heart Associates 2 - Plaque Quantification,Closed Lost,Plaque Quantification,39300.0,2026-07-26,2026-09-17,True,False
+O00014,A0262,Bayside Heart Associates 262 - Stenosis Mapping,Closed Lost,Stenosis Mapping,43000.0,2026-05-06,2026-08-03,True,False
+O00015,A0052,Harbor Medical Center 52 - Plaque Quantification,Closed Won,Plaque Quantification,49200.0,2025-08-19,2025-11-03,True,True
+O00016,A0060,Lakeview Medical Center 60 - Plaque Quantification,Closed Lost,Plaque Quantification,55800.0,2024-07-29,2024-09-11,True,False
+O00017,A0163,Maple Imaging 163 - Plaque Quantification,Closed Lost,Plaque Quantification,26900.0,2025-10-31,2026-04-26,True,False
+O00018,A0188,Maple Medical Center 188 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,62700.0,2026-07-29,2026-12-26,False,False
+O00019,A0164,Summit Medical Center 164 - Plaque Quantification,Closed Lost,Plaque Quantification,12700.0,2026-06-27,2026-08-28,True,False
+O00020,A0292,Summit Imaging 292 - Stenosis Mapping,Closed Won,Stenosis Mapping,35800.0,2025-09-01,2026-02-08,True,True
+O00021,A0116,Harbor Medical Center 116 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,46300.0,2024-12-31,2025-05-19,True,False
+O00022,A0024,Granite Heart Associates 24 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,51900.0,2026-07-27,2026-12-30,False,False
+O00023,A0095,Valley Medical Center 95 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,69000.0,2026-05-29,2026-07-29,True,False
+O00024,A0116,Harbor Medical Center 116 - Stenosis Mapping,Closed Lost,Stenosis Mapping,45300.0,2026-02-01,2026-07-22,True,False
+O00025,A0169,Pioneer Medical Center 169 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,51300.0,2025-01-10,2025-03-04,True,True
+O00026,A0045,Union Medical Center 45 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34900.0,2025-08-16,2026-01-30,True,False
+O00027,A0239,Union Heart Associates 239 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,36500.0,2025-07-21,2025-12-18,True,False
+O00028,A0188,Maple Medical Center 188 - Plaque Quantification,Closed Won,Plaque Quantification,70100.0,2025-01-21,2025-04-13,True,True
+O00029,A0123,Mesa Imaging 123 - Stenosis Mapping,Closed Won,Stenosis Mapping,33100.0,2025-10-29,2026-04-19,True,True
+O00030,A0038,Pioneer Heart Associates 38 - Stenosis Mapping,Closed Won,Stenosis Mapping,36600.0,2025-06-26,2025-08-22,True,True
+O00031,A0053,Harbor Heart Associates 53 - Plaque Quantification,Closed Won,Plaque Quantification,52400.0,2025-11-10,2026-02-13,True,True
+O00032,A0271,Pioneer Medical Center 271 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,47000.0,2026-02-15,2026-08-05,True,True
+O00033,A0177,Pioneer Imaging 177 - Stenosis Mapping,Closed Lost,Stenosis Mapping,31200.0,2025-06-21,2025-10-07,True,False
+O00034,A0084,Lakeview Medical Center 84 - Plaque Quantification,Closed Lost,Plaque Quantification,37500.0,2025-01-21,2025-05-04,True,False
+O00035,A0292,Summit Imaging 292 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,57800.0,2026-03-16,2026-07-13,True,True
+O00036,A0184,Valley Medical Center 184 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,55400.0,2025-08-22,2026-02-16,True,False
+O00037,A0085,Lakeview Imaging 85 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34100.0,2026-02-26,2026-04-06,True,False
+O00038,A0225,Harbor Medical Center 225 - Plaque Quantification,Evaluation,Plaque Quantification,70900.0,2026-07-08,2026-10-10,False,False
+O00039,A0192,Mesa Medical Center 192 - Plaque Quantification,Closed Lost,Plaque Quantification,55800.0,2026-04-04,2026-06-18,True,False
+O00040,A0105,Mesa Medical Center 105 - Plaque Quantification,Qualification,Plaque Quantification,50200.0,2026-08-26,2027-01-09,False,False
+O00041,A0189,Valley Heart Associates 189 - Plaque Quantification,Closed Lost,Plaque Quantification,29700.0,2025-08-05,2025-11-19,True,False
+O00042,A0160,Northgate Medical Center 160 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,76900.0,2026-02-25,2026-07-17,True,True
+O00043,A0113,Maple Imaging 113 - Stenosis Mapping,Closed Lost,Stenosis Mapping,33600.0,2025-10-17,2026-03-08,True,False
+O00044,A0169,Pioneer Medical Center 169 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,85600.0,2024-05-10,2024-10-31,True,True
+O00045,A0119,Cedar Imaging 119 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,64900.0,2024-11-26,2025-03-15,True,False
+O00046,A0051,Northgate Medical Center 51 - Plaque Quantification,Closed Won,Plaque Quantification,29600.0,2026-07-20,2026-09-14,True,True
+O00047,A0241,Coastal Medical Center 241 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,59700.0,2026-03-23,2026-06-02,True,True
+O00048,A0213,Summit Medical Center 213 - Stenosis Mapping,Closed Won,Stenosis Mapping,25300.0,2026-04-04,2026-08-18,True,True
+O00049,A0073,Bayside Imaging 73 - Plaque Quantification,Closed Lost,Plaque Quantification,31700.0,2026-03-23,2026-08-12,True,False
+O00050,A0132,Granite Heart Associates 132 - Plaque Quantification,Closed Won,Plaque Quantification,48700.0,2024-12-16,2025-02-20,True,True
+O00051,A0070,Bayside Imaging 70 - Stenosis Mapping,Closed Won,Stenosis Mapping,34600.0,2025-05-31,2025-08-28,True,True
+O00052,A0053,Harbor Heart Associates 53 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,68200.0,2025-11-18,2026-01-28,True,True
+O00053,A0211,Lakeview Imaging 211 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,63200.0,2026-05-18,2026-08-11,True,True
+O00054,A0018,Northgate Imaging 18 - Plaque Quantification,Closed Lost,Plaque Quantification,23200.0,2025-11-01,2026-02-14,True,False
+O00055,A0188,Maple Medical Center 188 - Plaque Quantification,Closed Lost,Plaque Quantification,42900.0,2025-09-18,2026-01-18,True,False
+O00056,A0152,Riverside Medical Center 152 - Plaque Quantification,Closed Won,Plaque Quantification,43100.0,2024-12-30,2025-04-08,True,True
+O00057,A0175,Valley Imaging 175 - Stenosis Mapping,Closed Lost,Stenosis Mapping,37700.0,2025-08-29,2025-12-11,True,False
+O00058,A0230,Northgate Imaging 230 - Stenosis Mapping,Closed Won,Stenosis Mapping,26600.0,2026-02-10,2026-07-16,True,True
+O00059,A0060,Lakeview Medical Center 60 - Plaque Quantification,Closed Lost,Plaque Quantification,62100.0,2024-03-23,2024-08-28,True,False
+O00060,A0036,Maple Imaging 36 - Plaque Quantification,Closed Lost,Plaque Quantification,43800.0,2025-12-22,2026-03-09,True,False
+O00061,A0247,Riverside Medical Center 247 - Stenosis Mapping,Closed Won,Stenosis Mapping,28000.0,2025-12-03,2026-05-23,True,True
+O00062,A0185,Coastal Medical Center 185 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,49100.0,2025-07-22,2025-09-15,True,True
+O00063,A0189,Valley Heart Associates 189 - Plaque Quantification,Closed Lost,Plaque Quantification,37900.0,2026-04-21,2026-07-20,True,False
+O00064,A0202,Union Imaging 202 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,57800.0,2026-04-09,2026-06-04,True,False
+O00065,A0277,Lakeview Heart Associates 277 - Plaque Quantification,Closed Lost,Plaque Quantification,32100.0,2026-03-16,2026-05-06,True,False
+O00066,A0127,Cedar Medical Center 127 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,62400.0,2026-08-22,2026-11-01,False,False
+O00067,A0290,Cedar Imaging 290 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,56700.0,2025-10-23,2026-04-19,True,True
+O00068,A0130,Mesa Imaging 130 - Stenosis Mapping,Qualification,Stenosis Mapping,22300.0,2026-07-22,2026-11-16,False,False
+O00069,A0253,Riverside Imaging 253 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,26800.0,2026-01-12,2026-02-11,True,False
+O00070,A0265,Union Medical Center 265 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,68300.0,2025-08-07,2025-10-07,True,False
+O00071,A0231,Lakeview Imaging 231 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,24800.0,2025-07-31,2025-10-28,True,False
+O00072,A0071,Lakeview Medical Center 71 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,39200.0,2025-10-12,2025-12-10,True,False
+O00073,A0223,Pioneer Heart Associates 223 - Plaque Quantification,Closed Lost,Plaque Quantification,49300.0,2025-10-22,2026-02-25,True,False
+O00074,A0050,Valley Imaging 50 - Stenosis Mapping,Closed Lost,Stenosis Mapping,48800.0,2025-12-22,2026-03-22,True,False
+O00075,A0298,Coastal Heart Associates 298 - Plaque Quantification,Closed Won,Plaque Quantification,59200.0,2025-04-27,2025-09-17,True,True
+O00076,A0040,Union Imaging 40 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,67600.0,2025-09-16,2025-11-12,True,False
+O00077,A0058,Summit Medical Center 58 - Plaque Quantification,Closed Lost,Plaque Quantification,48200.0,2024-10-21,2025-04-06,True,False
+O00078,A0181,Summit Heart Associates 181 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,49800.0,2025-04-18,2025-06-25,True,True
+O00079,A0155,Prairie Medical Center 155 - Stenosis Mapping,Evaluation,Stenosis Mapping,37800.0,2026-09-01,2026-11-03,False,False
+O00080,A0255,Prairie Heart Associates 255 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,71400.0,2024-11-08,2024-12-20,True,False
+O00081,A0049,Northgate Medical Center 49 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,24800.0,2026-02-09,2026-05-09,True,False
+O00082,A0276,Bayside Medical Center 276 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,41700.0,2024-11-21,2025-03-09,True,False
+O00083,A0016,Harbor Medical Center 16 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,64200.0,2025-12-29,2026-04-19,True,True
+O00084,A0228,Maple Heart Associates 228 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,60100.0,2026-08-14,2026-09-28,True,False
+O00085,A0219,Lakeview Heart Associates 219 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,23800.0,2025-10-14,2026-04-10,True,False
+O00086,A0224,Lakeview Medical Center 224 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34000.0,2025-01-05,2025-07-03,True,False
+O00087,A0072,Mesa Heart Associates 72 - Stenosis Mapping,Closed Lost,Stenosis Mapping,30600.0,2026-01-12,2026-06-20,True,False
+O00088,A0119,Cedar Imaging 119 - Plaque Quantification,Closed Lost,Plaque Quantification,42300.0,2024-09-07,2025-01-31,True,False
+O00089,A0221,Valley Heart Associates 221 - Plaque Quantification,Closed Lost,Plaque Quantification,53500.0,2025-07-18,2025-10-06,True,False
+O00090,A0239,Union Heart Associates 239 - Plaque Quantification,Closed Won,Plaque Quantification,43800.0,2026-07-11,2026-09-02,True,True
+O00091,A0296,Cedar Heart Associates 296 - Stenosis Mapping,Closed Won,Stenosis Mapping,37000.0,2025-07-28,2025-09-06,True,True
+O00092,A0296,Cedar Heart Associates 296 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34200.0,2026-06-13,2026-07-27,True,False
+O00093,A0086,Cedar Imaging 86 - Stenosis Mapping,Negotiation,Stenosis Mapping,38900.0,2026-09-11,2026-12-22,False,False
+O00094,A0075,Union Medical Center 75 - Plaque Quantification,Closed Lost,Plaque Quantification,49100.0,2025-07-20,2025-10-08,True,False
+O00095,A0281,Lakeview Imaging 281 - Plaque Quantification,Closed Won,Plaque Quantification,33500.0,2026-08-08,2026-09-10,True,True
+O00096,A0097,Coastal Imaging 97 - Stenosis Mapping,Closed Won,Stenosis Mapping,40600.0,2025-10-21,2026-02-02,True,True
+O00097,A0246,Maple Medical Center 246 - Plaque Quantification,Closed Lost,Plaque Quantification,54800.0,2026-02-10,2026-03-16,True,False
+O00098,A0261,Riverside Heart Associates 261 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,39300.0,2025-12-03,2026-04-25,True,True
+O00099,A0067,Valley Heart Associates 67 - Plaque Quantification,Qualification,Plaque Quantification,49600.0,2026-05-23,2026-11-02,False,False
+O00100,A0065,Riverside Medical Center 65 - Stenosis Mapping,Closed Won,Stenosis Mapping,36800.0,2026-04-19,2026-09-16,True,True
+O00101,A0074,Maple Medical Center 74 - Stenosis Mapping,Proposal,Stenosis Mapping,36200.0,2026-08-31,2026-12-05,False,False
+O00102,A0112,Northgate Imaging 112 - Plaque Quantification,Prospecting,Plaque Quantification,39900.0,2026-08-25,2026-12-13,False,False
+O00103,A0143,Maple Heart Associates 143 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,51300.0,2025-10-11,2025-12-26,True,False
+O00104,A0061,Coastal Medical Center 61 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,44800.0,2025-08-15,2026-02-07,True,True
+O00105,A0174,Union Heart Associates 174 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,52100.0,2026-07-04,2026-11-13,False,False
+O00106,A0249,Union Medical Center 249 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,39000.0,2025-02-22,2025-04-24,True,True
+O00107,A0115,Cedar Medical Center 115 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,61500.0,2024-10-02,2025-03-30,True,True
+O00108,A0159,Bayside Imaging 159 - Plaque Quantification,Closed Lost,Plaque Quantification,45400.0,2026-02-21,2026-06-18,True,False
+O00109,A0123,Mesa Imaging 123 - Plaque Quantification,Closed Lost,Plaque Quantification,28800.0,2025-02-01,2025-06-07,True,False
+O00110,A0125,Mesa Imaging 125 - Stenosis Mapping,Closed Lost,Stenosis Mapping,33300.0,2026-01-22,2026-04-14,True,False
+O00111,A0127,Cedar Medical Center 127 - Plaque Quantification,Closed Won,Plaque Quantification,61600.0,2026-04-10,2026-06-18,True,True
+O00112,A0240,Pioneer Heart Associates 240 - Plaque Quantification,Closed Lost,Plaque Quantification,36300.0,2026-03-07,2026-05-25,True,False
+O00113,A0265,Union Medical Center 265 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,73400.0,2026-07-21,2026-12-13,False,False
+O00114,A0093,Bayside Medical Center 93 - Stenosis Mapping,Closed Won,Stenosis Mapping,30100.0,2026-05-11,2026-09-16,True,True
+O00115,A0273,Maple Heart Associates 273 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,94000.0,2025-12-24,2026-03-15,True,False
+O00116,A0167,Harbor Medical Center 167 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,42400.0,2026-04-30,2026-10-16,False,False
+O00117,A0186,Cedar Imaging 186 - Plaque Quantification,Closed Won,Plaque Quantification,33200.0,2026-02-28,2026-07-11,True,True
+O00118,A0016,Harbor Medical Center 16 - Stenosis Mapping,Closed Won,Stenosis Mapping,27000.0,2025-08-23,2025-10-05,True,True
+O00119,A0250,Valley Heart Associates 250 - Plaque Quantification,Closed Lost,Plaque Quantification,39900.0,2026-06-24,2026-08-28,True,False
+O00120,A0012,Summit Medical Center 12 - Plaque Quantification,Evaluation,Plaque Quantification,57600.0,2026-09-01,2026-12-11,False,False
+O00121,A0150,Northgate Medical Center 150 - Plaque Quantification,Evaluation,Plaque Quantification,47400.0,2026-08-17,2027-02-03,False,False
+O00122,A0193,Harbor Imaging 193 - Stenosis Mapping,Prospecting,Stenosis Mapping,35800.0,2026-09-20,2027-02-08,False,False
+O00123,A0022,Cedar Imaging 22 - Plaque Quantification,Closed Lost,Plaque Quantification,58600.0,2025-06-07,2025-09-22,True,False
+O00124,A0277,Lakeview Heart Associates 277 - Plaque Quantification,Evaluation,Plaque Quantification,48400.0,2026-08-21,2026-12-06,False,False
+O00125,A0128,Mesa Imaging 128 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,64100.0,2025-01-09,2025-02-22,True,True
+O00126,A0110,Northgate Imaging 110 - Plaque Quantification,Closed Won,Plaque Quantification,41300.0,2025-09-10,2026-01-28,True,True
+O00127,A0293,Union Imaging 293 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,59400.0,2025-12-16,2026-06-06,True,True
+O00128,A0059,Prairie Medical Center 59 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,61400.0,2025-10-19,2026-02-22,True,False
+O00129,A0046,Summit Medical Center 46 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,60600.0,2024-11-16,2025-05-01,True,False
+O00130,A0148,Lakeview Heart Associates 148 - Plaque Quantification,Closed Won,Plaque Quantification,48100.0,2025-06-01,2025-11-28,True,True
+O00131,A0105,Mesa Medical Center 105 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,70000.0,2026-02-27,2026-05-07,True,False
+O00132,A0003,Lakeview Medical Center 3 - Plaque Quantification,Closed Lost,Plaque Quantification,21300.0,2025-01-05,2025-04-24,True,False
+O00133,A0121,Northgate Heart Associates 121 - Plaque Quantification,Closed Lost,Plaque Quantification,35100.0,2026-03-21,2026-05-20,True,False
+O00134,A0068,Mesa Imaging 68 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,46900.0,2026-08-11,2026-11-15,False,False
+O00135,A0296,Cedar Heart Associates 296 - Plaque Quantification,Proposal,Plaque Quantification,45600.0,2026-07-08,2026-11-02,False,False
+O00136,A0012,Summit Medical Center 12 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,61300.0,2026-03-20,2026-07-10,True,False
+O00137,A0173,Summit Heart Associates 173 - Stenosis Mapping,Closed Lost,Stenosis Mapping,27100.0,2025-11-06,2026-02-05,True,False
+O00138,A0128,Mesa Imaging 128 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,37500.0,2025-10-13,2025-12-01,True,True
+O00139,A0296,Cedar Heart Associates 296 - Stenosis Mapping,Closed Lost,Stenosis Mapping,25200.0,2024-08-29,2024-11-01,True,False
+O00140,A0054,Coastal Medical Center 54 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,63500.0,2026-09-01,2026-11-17,False,False
+O00141,A0054,Coastal Medical Center 54 - Plaque Quantification,Closed Won,Plaque Quantification,37200.0,2025-01-31,2025-06-13,True,True
+O00142,A0020,Harbor Imaging 20 - Plaque Quantification,Closed Won,Plaque Quantification,29300.0,2025-01-14,2025-02-16,True,True
+O00143,A0255,Prairie Heart Associates 255 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,75400.0,2025-08-24,2026-01-02,True,True
+O00144,A0133,Pioneer Medical Center 133 - Stenosis Mapping,Closed Won,Stenosis Mapping,40900.0,2026-07-26,2026-09-13,True,True
+O00145,A0004,Bayside Imaging 4 - Stenosis Mapping,Closed Won,Stenosis Mapping,30100.0,2025-07-20,2025-11-29,True,True
+O00146,A0046,Summit Medical Center 46 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,32600.0,2026-01-16,2026-03-16,True,False
+O00147,A0180,Granite Medical Center 180 - Stenosis Mapping,Closed Won,Stenosis Mapping,20800.0,2025-12-05,2026-05-23,True,True
+O00148,A0144,Bayside Imaging 144 - Plaque Quantification,Closed Lost,Plaque Quantification,46100.0,2025-10-05,2025-11-19,True,False
+O00149,A0106,Union Medical Center 106 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,63000.0,2025-11-19,2026-03-11,True,False
+O00150,A0194,Riverside Heart Associates 194 - Stenosis Mapping,Closed Won,Stenosis Mapping,28100.0,2026-06-27,2026-08-29,True,True
+O00151,A0214,Mesa Imaging 214 - Stenosis Mapping,Closed Won,Stenosis Mapping,29900.0,2026-01-25,2026-06-08,True,True
+O00152,A0074,Maple Medical Center 74 - Stenosis Mapping,Closed Won,Stenosis Mapping,25600.0,2025-12-29,2026-02-21,True,True
+O00153,A0125,Mesa Imaging 125 - Stenosis Mapping,Qualification,Stenosis Mapping,40300.0,2026-07-22,2026-10-25,False,False
+O00154,A0160,Northgate Medical Center 160 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,60500.0,2025-09-25,2026-03-13,True,False
+O00155,A0262,Bayside Heart Associates 262 - Plaque Quantification,Prospecting,Plaque Quantification,36200.0,2026-05-09,2026-11-01,False,False
+O00156,A0272,Coastal Imaging 272 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,77900.0,2025-07-22,2025-12-18,True,False
+O00157,A0024,Granite Heart Associates 24 - Plaque Quantification,Closed Lost,Plaque Quantification,41400.0,2025-11-18,2026-02-28,True,False
+O00158,A0126,Northgate Imaging 126 - Stenosis Mapping,Prospecting,Stenosis Mapping,44000.0,2026-06-05,2026-10-20,False,False
+O00159,A0056,Harbor Medical Center 56 - Plaque Quantification,Closed Lost,Plaque Quantification,31600.0,2026-04-02,2026-07-12,True,False
+O00160,A0279,Granite Heart Associates 279 - Plaque Quantification,Closed Won,Plaque Quantification,53200.0,2024-06-10,2024-10-28,True,True
+O00161,A0114,Summit Medical Center 114 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,79400.0,2026-06-05,2026-09-13,True,False
+O00162,A0030,Northgate Heart Associates 30 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,42600.0,2026-08-22,2027-01-28,False,False
+O00163,A0114,Summit Medical Center 114 - Plaque Quantification,Closed Lost,Plaque Quantification,46100.0,2025-11-26,2026-03-25,True,False
+O00164,A0186,Cedar Imaging 186 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,33000.0,2026-05-01,2026-09-05,True,True
+O00165,A0297,Lakeview Heart Associates 297 - Plaque Quantification,Closed Won,Plaque Quantification,67500.0,2025-12-28,2026-06-05,True,True
+O00166,A0102,Cedar Medical Center 102 - Plaque Quantification,Closed Won,Plaque Quantification,37600.0,2026-04-26,2026-06-16,True,True
+O00167,A0086,Cedar Imaging 86 - Plaque Quantification,Closed Lost,Plaque Quantification,31500.0,2026-02-07,2026-04-25,True,False
+O00168,A0253,Riverside Imaging 253 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,50400.0,2025-12-23,2026-02-19,True,False
+O00169,A0035,Valley Medical Center 35 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,67300.0,2024-10-20,2024-12-29,True,False
+O00170,A0046,Summit Medical Center 46 - Stenosis Mapping,Closed Lost,Stenosis Mapping,42000.0,2024-12-19,2025-03-27,True,False
+O00171,A0042,Cedar Imaging 42 - Stenosis Mapping,Closed Won,Stenosis Mapping,49800.0,2026-02-18,2026-04-29,True,True
+O00172,A0084,Lakeview Medical Center 84 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,63300.0,2025-07-25,2025-10-12,True,True
+O00173,A0196,Pioneer Medical Center 196 - Stenosis Mapping,Closed Lost,Stenosis Mapping,30100.0,2025-07-19,2025-10-07,True,False
+O00174,A0137,Union Heart Associates 137 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,55700.0,2025-12-10,2026-05-16,True,False
+O00175,A0160,Northgate Medical Center 160 - Stenosis Mapping,Closed Lost,Stenosis Mapping,23100.0,2026-01-13,2026-06-06,True,False
+O00176,A0104,Northgate Imaging 104 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,74500.0,2026-04-28,2026-09-30,True,True
+O00177,A0283,Pioneer Heart Associates 283 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,58600.0,2026-03-20,2026-09-02,True,False
+O00178,A0086,Cedar Imaging 86 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,53200.0,2026-08-18,2027-02-12,False,False
+O00179,A0110,Northgate Imaging 110 - Stenosis Mapping,Evaluation,Stenosis Mapping,22700.0,2026-08-19,2026-12-09,False,False
+O00180,A0045,Union Medical Center 45 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,43300.0,2026-09-13,2026-11-10,False,False
+O00181,A0031,Harbor Heart Associates 31 - Plaque Quantification,Closed Lost,Plaque Quantification,65000.0,2025-06-16,2025-09-02,True,False
+O00182,A0088,Granite Imaging 88 - Stenosis Mapping,Closed Won,Stenosis Mapping,48900.0,2024-03-27,2024-05-15,True,True
+O00183,A0296,Cedar Heart Associates 296 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,68700.0,2026-04-05,2026-07-20,True,True
+O00184,A0003,Lakeview Medical Center 3 - Plaque Quantification,Closed Lost,Plaque Quantification,46500.0,2026-03-16,2026-06-29,True,False
+O00185,A0265,Union Medical Center 265 - Stenosis Mapping,Prospecting,Stenosis Mapping,39900.0,2026-05-02,2026-10-08,False,False
+O00186,A0135,Union Imaging 135 - Stenosis Mapping,Qualification,Stenosis Mapping,30800.0,2026-07-30,2027-01-06,False,False
+O00187,A0274,Mesa Imaging 274 - Plaque Quantification,Closed Won,Plaque Quantification,40500.0,2024-09-15,2024-11-12,True,True
+O00188,A0121,Northgate Heart Associates 121 - Stenosis Mapping,Closed Lost,Stenosis Mapping,43700.0,2026-05-25,2026-07-24,True,False
+O00189,A0153,Prairie Imaging 153 - Plaque Quantification,Closed Won,Plaque Quantification,52400.0,2026-02-15,2026-04-25,True,True
+O00190,A0092,Lakeview Imaging 92 - Plaque Quantification,Closed Won,Plaque Quantification,33800.0,2025-12-26,2026-04-05,True,True
+O00191,A0017,Coastal Medical Center 17 - Stenosis Mapping,Closed Lost,Stenosis Mapping,25200.0,2026-01-26,2026-03-29,True,False
+O00192,A0223,Pioneer Heart Associates 223 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,102900.0,2025-11-18,2026-03-02,True,True
+O00193,A0204,Union Heart Associates 204 - Plaque Quantification,Closed Lost,Plaque Quantification,39500.0,2026-03-09,2026-04-27,True,False
+O00194,A0068,Mesa Imaging 68 - Stenosis Mapping,Closed Lost,Stenosis Mapping,22300.0,2025-03-13,2025-07-28,True,False
+O00195,A0147,Granite Medical Center 147 - Stenosis Mapping,Closed Lost,Stenosis Mapping,32300.0,2025-07-16,2025-09-08,True,False
+O00196,A0235,Maple Medical Center 235 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,68000.0,2025-07-13,2025-11-12,True,True
+O00197,A0182,Riverside Imaging 182 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,30300.0,2026-01-03,2026-02-07,True,True
+O00198,A0101,Prairie Medical Center 101 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,40700.0,2026-04-21,2026-05-25,True,True
+O00199,A0274,Mesa Imaging 274 - Stenosis Mapping,Closed Won,Stenosis Mapping,27000.0,2025-03-16,2025-06-12,True,True
+O00200,A0099,Maple Medical Center 99 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,62400.0,2025-11-09,2025-12-12,True,True
+O00201,A0180,Granite Medical Center 180 - Plaque Quantification,Closed Lost,Plaque Quantification,39700.0,2025-12-26,2026-06-14,True,False
+O00202,A0280,Riverside Imaging 280 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,69400.0,2025-07-19,2025-12-12,True,False
+O00203,A0144,Bayside Imaging 144 - Plaque Quantification,Closed Lost,Plaque Quantification,53800.0,2025-11-20,2026-02-23,True,False
+O00204,A0230,Northgate Imaging 230 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,83200.0,2025-02-18,2025-08-07,True,True
+O00205,A0134,Prairie Imaging 134 - Plaque Quantification,Closed Lost,Plaque Quantification,53700.0,2025-05-08,2025-06-21,True,False
+O00206,A0201,Summit Imaging 201 - Plaque Quantification,Closed Lost,Plaque Quantification,33200.0,2026-01-29,2026-06-28,True,False
+O00207,A0105,Mesa Medical Center 105 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,67400.0,2026-04-13,2026-06-23,True,False
+O00208,A0198,Cedar Medical Center 198 - Stenosis Mapping,Closed Lost,Stenosis Mapping,32700.0,2025-06-07,2025-08-16,True,False
+O00209,A0015,Northgate Imaging 15 - Plaque Quantification,Closed Lost,Plaque Quantification,53700.0,2025-10-19,2025-12-28,True,False
+O00210,A0228,Maple Heart Associates 228 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,61000.0,2026-04-16,2026-07-30,True,False
+O00211,A0113,Maple Imaging 113 - Stenosis Mapping,Closed Won,Stenosis Mapping,30400.0,2025-09-22,2025-11-13,True,True
+O00212,A0166,Lakeview Heart Associates 166 - Stenosis Mapping,Closed Won,Stenosis Mapping,55500.0,2025-08-06,2026-01-07,True,True
+O00213,A0003,Lakeview Medical Center 3 - Plaque Quantification,Closed Lost,Plaque Quantification,41000.0,2025-10-03,2026-03-28,True,False
+O00214,A0278,Bayside Medical Center 278 - Stenosis Mapping,Closed Lost,Stenosis Mapping,46000.0,2025-09-13,2025-11-07,True,False
+O00215,A0095,Valley Medical Center 95 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,65900.0,2024-11-06,2025-04-25,True,True
+O00216,A0115,Cedar Medical Center 115 - Plaque Quantification,Closed Lost,Plaque Quantification,55500.0,2025-03-04,2025-04-11,True,False
+O00217,A0004,Bayside Imaging 4 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,71000.0,2025-06-12,2025-09-27,True,True
+O00218,A0114,Summit Medical Center 114 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,69000.0,2026-01-27,2026-07-17,True,False
+O00219,A0079,Summit Imaging 79 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,48800.0,2025-07-10,2025-11-05,True,False
+O00220,A0142,Prairie Medical Center 142 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,68700.0,2026-04-26,2026-06-10,True,False
+O00221,A0095,Valley Medical Center 95 - Plaque Quantification,Closed Lost,Plaque Quantification,59000.0,2025-01-19,2025-05-01,True,False
+O00222,A0270,Bayside Imaging 270 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,50800.0,2025-11-17,2026-05-06,True,False
+O00223,A0098,Northgate Imaging 98 - Stenosis Mapping,Closed Lost,Stenosis Mapping,24400.0,2025-11-29,2026-03-07,True,False
+O00224,A0166,Lakeview Heart Associates 166 - Plaque Quantification,Closed Lost,Plaque Quantification,50700.0,2026-06-01,2026-08-08,True,False
+O00225,A0178,Granite Medical Center 178 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,63500.0,2025-10-22,2026-02-27,True,True
+O00226,A0134,Prairie Imaging 134 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,60300.0,2026-06-08,2026-11-28,False,False
+O00227,A0225,Harbor Medical Center 225 - Stenosis Mapping,Closed Won,Stenosis Mapping,39800.0,2024-11-22,2025-04-29,True,True
+O00228,A0097,Coastal Imaging 97 - Stenosis Mapping,Closed Won,Stenosis Mapping,35300.0,2025-02-02,2025-07-08,True,True
+O00229,A0019,Pioneer Heart Associates 19 - Stenosis Mapping,Closed Won,Stenosis Mapping,35100.0,2025-03-06,2025-05-03,True,True
+O00230,A0060,Lakeview Medical Center 60 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,57300.0,2025-01-30,2025-04-06,True,False
+O00231,A0104,Northgate Imaging 104 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,55600.0,2025-07-31,2025-10-12,True,False
+O00232,A0177,Pioneer Imaging 177 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,69200.0,2026-06-25,2026-12-09,False,False
+O00233,A0214,Mesa Imaging 214 - Stenosis Mapping,Evaluation,Stenosis Mapping,46300.0,2026-09-15,2027-01-28,False,False
+O00234,A0297,Lakeview Heart Associates 297 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,60200.0,2024-09-07,2024-12-13,True,True
+O00235,A0169,Pioneer Medical Center 169 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,61400.0,2025-06-05,2025-07-17,True,False
+O00236,A0218,Harbor Imaging 218 - Plaque Quantification,Closed Lost,Plaque Quantification,32600.0,2026-01-29,2026-05-06,True,False
+O00237,A0227,Union Imaging 227 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,92800.0,2026-01-01,2026-02-14,True,True
+O00238,A0167,Harbor Medical Center 167 - Plaque Quantification,Closed Won,Plaque Quantification,30500.0,2026-05-10,2026-08-21,True,True
+O00239,A0127,Cedar Medical Center 127 - Plaque Quantification,Closed Won,Plaque Quantification,44600.0,2026-02-11,2026-04-28,True,True
+O00240,A0062,Pioneer Medical Center 62 - Plaque Quantification,Closed Won,Plaque Quantification,58800.0,2026-06-29,2026-08-10,True,True
+O00241,A0060,Lakeview Medical Center 60 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,67400.0,2025-12-09,2026-04-06,True,True
+O00242,A0184,Valley Medical Center 184 - Plaque Quantification,Closed Won,Plaque Quantification,44400.0,2024-02-21,2024-04-01,True,True
+O00243,A0219,Lakeview Heart Associates 219 - Plaque Quantification,Closed Lost,Plaque Quantification,52600.0,2026-03-09,2026-09-04,True,False
+O00244,A0285,Union Medical Center 285 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,65000.0,2025-05-09,2025-10-17,True,True
+O00245,A0131,Lakeview Imaging 131 - Stenosis Mapping,Closed Lost,Stenosis Mapping,14200.0,2025-05-23,2025-08-05,True,False
+O00246,A0180,Granite Medical Center 180 - Plaque Quantification,Closed Won,Plaque Quantification,50400.0,2025-09-04,2025-12-02,True,True
+O00247,A0116,Harbor Medical Center 116 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,32300.0,2025-05-16,2025-07-26,True,False
+O00248,A0053,Harbor Heart Associates 53 - Stenosis Mapping,Prospecting,Stenosis Mapping,25500.0,2026-08-21,2027-01-25,False,False
+O00249,A0008,Cedar Medical Center 8 - Stenosis Mapping,Closed Won,Stenosis Mapping,8200.0,2026-02-15,2026-03-29,True,True
+O00250,A0100,Maple Heart Associates 100 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,30200.0,2024-06-15,2024-08-13,True,False
+O00251,A0250,Valley Heart Associates 250 - Stenosis Mapping,Closed Lost,Stenosis Mapping,37400.0,2025-10-29,2026-01-23,True,False
+O00252,A0221,Valley Heart Associates 221 - Stenosis Mapping,Closed Lost,Stenosis Mapping,54900.0,2025-05-30,2025-10-11,True,False
+O00253,A0167,Harbor Medical Center 167 - Stenosis Mapping,Closed Won,Stenosis Mapping,45000.0,2026-05-12,2026-06-21,True,True
+O00254,A0156,Valley Imaging 156 - Plaque Quantification,Prospecting,Plaque Quantification,55400.0,2026-08-09,2026-10-21,False,False
+O00255,A0218,Harbor Imaging 218 - Plaque Quantification,Negotiation,Plaque Quantification,39300.0,2026-06-29,2026-11-12,False,False
+O00256,A0091,Pioneer Heart Associates 91 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,18600.0,2026-06-10,2026-07-18,True,False
+O00257,A0142,Prairie Medical Center 142 - Stenosis Mapping,Closed Lost,Stenosis Mapping,51900.0,2026-05-24,2026-08-26,True,False
+O00258,A0009,Pioneer Imaging 9 - Stenosis Mapping,Evaluation,Stenosis Mapping,42200.0,2026-08-18,2027-02-13,False,False
+O00259,A0046,Summit Medical Center 46 - Plaque Quantification,Closed Lost,Plaque Quantification,50600.0,2024-05-22,2024-08-03,True,False
+O00260,A0144,Bayside Imaging 144 - Plaque Quantification,Qualification,Plaque Quantification,49600.0,2026-05-28,2026-10-20,False,False
+O00261,A0019,Pioneer Heart Associates 19 - Stenosis Mapping,Closed Lost,Stenosis Mapping,46000.0,2025-02-01,2025-05-20,True,False
+O00262,A0209,Valley Medical Center 209 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,67800.0,2026-03-12,2026-05-18,True,True
+O00263,A0242,Union Heart Associates 242 - Plaque Quantification,Closed Won,Plaque Quantification,56200.0,2025-10-12,2026-02-09,True,True
+O00264,A0291,Mesa Medical Center 291 - Plaque Quantification,Closed Won,Plaque Quantification,44600.0,2024-08-04,2024-10-08,True,True
+O00265,A0035,Valley Medical Center 35 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,72500.0,2025-02-23,2025-07-18,True,False
+O00266,A0101,Prairie Medical Center 101 - Plaque Quantification,Closed Lost,Plaque Quantification,42900.0,2024-08-06,2024-09-15,True,False
+O00267,A0254,Summit Imaging 254 - Stenosis Mapping,Closed Lost,Stenosis Mapping,26500.0,2025-11-02,2025-12-03,True,False
+O00268,A0292,Summit Imaging 292 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,71200.0,2025-07-20,2025-09-16,True,True
+O00269,A0184,Valley Medical Center 184 - Stenosis Mapping,Closed Lost,Stenosis Mapping,36700.0,2024-08-18,2025-01-14,True,False
+O00270,A0117,Valley Medical Center 117 - Plaque Quantification,Closed Lost,Plaque Quantification,48600.0,2025-02-18,2025-04-26,True,False
+O00271,A0262,Bayside Heart Associates 262 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,45000.0,2026-02-13,2026-08-02,True,False
+O00272,A0150,Northgate Medical Center 150 - Stenosis Mapping,Closed Lost,Stenosis Mapping,48000.0,2025-08-29,2025-12-18,True,False
+O00273,A0117,Valley Medical Center 117 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,71800.0,2026-09-04,2026-12-22,False,False
+O00274,A0021,Mesa Imaging 21 - Plaque Quantification,Closed Lost,Plaque Quantification,62900.0,2024-10-02,2024-11-15,True,False
+O00275,A0060,Lakeview Medical Center 60 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,67600.0,2026-06-15,2026-12-02,False,False
+O00276,A0017,Coastal Medical Center 17 - Plaque Quantification,Qualification,Plaque Quantification,41900.0,2026-08-02,2026-12-05,False,False
+O00277,A0228,Maple Heart Associates 228 - Plaque Quantification,Closed Won,Plaque Quantification,52700.0,2026-04-03,2026-09-12,True,True
+O00278,A0176,Northgate Medical Center 176 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,76800.0,2026-08-18,2026-09-25,True,False
+O00279,A0177,Pioneer Imaging 177 - Plaque Quantification,Closed Won,Plaque Quantification,26300.0,2026-01-26,2026-04-23,True,True
+O00280,A0300,Union Imaging 300 - Plaque Quantification,Closed Lost,Plaque Quantification,40000.0,2025-11-09,2026-01-29,True,False
+O00281,A0145,Mesa Imaging 145 - Stenosis Mapping,Closed Lost,Stenosis Mapping,31100.0,2025-12-07,2026-05-14,True,False
+O00282,A0175,Valley Imaging 175 - Stenosis Mapping,Closed Lost,Stenosis Mapping,27400.0,2026-02-28,2026-04-27,True,False
+O00283,A0193,Harbor Imaging 193 - Plaque Quantification,Closed Lost,Plaque Quantification,18300.0,2025-07-13,2025-08-27,True,False
+O00284,A0082,Maple Imaging 82 - Stenosis Mapping,Closed Lost,Stenosis Mapping,20100.0,2026-01-22,2026-04-11,True,False
+O00285,A0028,Harbor Medical Center 28 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,48800.0,2026-04-05,2026-09-17,True,False
+O00286,A0249,Union Medical Center 249 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,32100.0,2025-04-01,2025-08-18,True,False
+O00287,A0134,Prairie Imaging 134 - Stenosis Mapping,Closed Won,Stenosis Mapping,35900.0,2026-01-14,2026-03-24,True,True
+O00288,A0111,Harbor Imaging 111 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34900.0,2025-02-08,2025-04-03,True,False
+O00289,A0113,Maple Imaging 113 - Plaque Quantification,Closed Won,Plaque Quantification,33500.0,2025-12-02,2026-05-23,True,True
+O00290,A0032,Mesa Imaging 32 - Plaque Quantification,Closed Lost,Plaque Quantification,33900.0,2025-09-30,2026-03-05,True,False
+O00291,A0232,Riverside Imaging 232 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,61100.0,2025-11-21,2026-01-19,True,False
+O00292,A0016,Harbor Medical Center 16 - Stenosis Mapping,Closed Won,Stenosis Mapping,42200.0,2025-10-23,2026-04-20,True,True
+O00293,A0166,Lakeview Heart Associates 166 - Plaque Quantification,Closed Lost,Plaque Quantification,53700.0,2025-08-18,2025-10-16,True,False
+O00294,A0011,Prairie Medical Center 11 - Stenosis Mapping,Qualification,Stenosis Mapping,31500.0,2026-06-22,2026-11-07,False,False
+O00295,A0180,Granite Medical Center 180 - Plaque Quantification,Prospecting,Plaque Quantification,46000.0,2026-05-02,2026-10-20,False,False
+O00296,A0160,Northgate Medical Center 160 - Plaque Quantification,Closed Won,Plaque Quantification,23400.0,2025-12-17,2026-04-29,True,True
+O00297,A0126,Northgate Imaging 126 - Plaque Quantification,Closed Won,Plaque Quantification,31600.0,2025-11-07,2026-01-23,True,True
+O00298,A0251,Mesa Imaging 251 - Plaque Quantification,Closed Won,Plaque Quantification,59900.0,2025-10-04,2026-04-02,True,True
+O00299,A0065,Riverside Medical Center 65 - Plaque Quantification,Closed Lost,Plaque Quantification,40100.0,2025-07-06,2025-11-29,True,False
+O00300,A0188,Maple Medical Center 188 - Plaque Quantification,Closed Lost,Plaque Quantification,45400.0,2026-07-22,2026-08-28,True,False
+O00301,A0271,Pioneer Medical Center 271 - Stenosis Mapping,Closed Lost,Stenosis Mapping,32500.0,2025-12-04,2026-04-06,True,False
+O00302,A0192,Mesa Medical Center 192 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,63300.0,2026-09-01,2027-02-15,False,False
+O00303,A0043,Union Heart Associates 43 - Stenosis Mapping,Closed Lost,Stenosis Mapping,35900.0,2024-12-26,2025-01-26,True,False
+O00304,A0001,Harbor Imaging 1 - Stenosis Mapping,Closed Won,Stenosis Mapping,37000.0,2025-08-10,2025-10-30,True,True
+O00305,A0267,Bayside Medical Center 267 - Stenosis Mapping,Closed Won,Stenosis Mapping,41700.0,2024-09-04,2025-02-27,True,True
+O00306,A0282,Union Medical Center 282 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,58200.0,2026-03-22,2026-07-12,True,False
+O00307,A0228,Maple Heart Associates 228 - Plaque Quantification,Closed Lost,Plaque Quantification,51200.0,2025-08-08,2025-10-20,True,False
+O00308,A0072,Mesa Heart Associates 72 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,78300.0,2025-06-28,2025-10-06,True,True
+O00309,A0185,Coastal Medical Center 185 - Plaque Quantification,Closed Lost,Plaque Quantification,55200.0,2025-05-29,2025-10-18,True,False
+O00310,A0097,Coastal Imaging 97 - Stenosis Mapping,Closed Won,Stenosis Mapping,36900.0,2025-07-04,2025-08-09,True,True
+O00311,A0025,Riverside Heart Associates 25 - Plaque Quantification,Closed Lost,Plaque Quantification,45100.0,2025-12-04,2026-01-05,True,False
+O00312,A0143,Maple Heart Associates 143 - Plaque Quantification,Closed Lost,Plaque Quantification,42600.0,2025-01-24,2025-05-16,True,False
+O00313,A0241,Coastal Medical Center 241 - Plaque Quantification,Prospecting,Plaque Quantification,42600.0,2026-08-30,2026-10-17,False,False
+O00314,A0278,Bayside Medical Center 278 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,58900.0,2026-05-05,2026-07-27,True,True
+O00315,A0024,Granite Heart Associates 24 - Stenosis Mapping,Closed Won,Stenosis Mapping,45000.0,2025-07-06,2025-12-13,True,True
+O00316,A0101,Prairie Medical Center 101 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,57400.0,2025-04-20,2025-09-26,True,False
+O00317,A0231,Lakeview Imaging 231 - Plaque Quantification,Closed Lost,Plaque Quantification,26800.0,2025-07-23,2025-12-23,True,False
+O00318,A0089,Pioneer Heart Associates 89 - Stenosis Mapping,Closed Lost,Stenosis Mapping,38600.0,2025-08-19,2026-02-06,True,False
+O00319,A0283,Pioneer Heart Associates 283 - Plaque Quantification,Closed Lost,Plaque Quantification,39500.0,2026-01-03,2026-04-21,True,False
+O00320,A0138,Summit Medical Center 138 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,67500.0,2025-04-05,2025-07-13,True,True
+O00321,A0185,Coastal Medical Center 185 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,28700.0,2025-10-04,2025-12-18,True,False
+O00322,A0266,Lakeview Medical Center 266 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,72600.0,2026-07-15,2026-08-27,True,False
+O00323,A0082,Maple Imaging 82 - Stenosis Mapping,Closed Lost,Stenosis Mapping,35400.0,2026-06-08,2026-09-30,True,False
+O00324,A0247,Riverside Medical Center 247 - Plaque Quantification,Qualification,Plaque Quantification,57800.0,2026-08-20,2026-11-11,False,False
+O00325,A0271,Pioneer Medical Center 271 - Stenosis Mapping,Closed Lost,Stenosis Mapping,19200.0,2024-12-10,2025-03-13,True,False
+O00326,A0018,Northgate Imaging 18 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,82100.0,2026-04-05,2026-06-10,True,True
+O00327,A0250,Valley Heart Associates 250 - Plaque Quantification,Closed Lost,Plaque Quantification,35800.0,2026-03-28,2026-07-31,True,False
+O00328,A0073,Bayside Imaging 73 - Stenosis Mapping,Closed Lost,Stenosis Mapping,26300.0,2026-04-06,2026-06-06,True,False
+O00329,A0214,Mesa Imaging 214 - Plaque Quantification,Negotiation,Plaque Quantification,50200.0,2026-06-08,2026-10-30,False,False
+O00330,A0173,Summit Heart Associates 173 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,64600.0,2025-09-01,2026-02-03,True,False
+O00331,A0265,Union Medical Center 265 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,67000.0,2026-03-31,2026-05-25,True,False
+O00332,A0254,Summit Imaging 254 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,78600.0,2026-05-07,2026-08-04,True,False
+O00333,A0224,Lakeview Medical Center 224 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,51800.0,2025-07-19,2025-10-18,True,True
+O00334,A0170,Lakeview Imaging 170 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,63100.0,2026-05-22,2026-10-03,False,False
+O00335,A0170,Lakeview Imaging 170 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,57100.0,2025-01-07,2025-04-21,True,False
+O00336,A0183,Lakeview Imaging 183 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,72400.0,2026-03-30,2026-07-24,True,False
+O00337,A0171,Summit Heart Associates 171 - Stenosis Mapping,Closed Lost,Stenosis Mapping,29100.0,2024-10-26,2025-01-24,True,False
+O00338,A0068,Mesa Imaging 68 - Stenosis Mapping,Closed Lost,Stenosis Mapping,49500.0,2025-02-21,2025-06-02,True,False
+O00339,A0020,Harbor Imaging 20 - Stenosis Mapping,Closed Lost,Stenosis Mapping,36900.0,2026-02-15,2026-07-15,True,False
+O00340,A0026,Lakeview Imaging 26 - Stenosis Mapping,Closed Lost,Stenosis Mapping,47800.0,2026-04-26,2026-07-08,True,False
+O00341,A0223,Pioneer Heart Associates 223 - Plaque Quantification,Closed Lost,Plaque Quantification,33900.0,2025-02-14,2025-04-23,True,False
+O00342,A0117,Valley Medical Center 117 - Stenosis Mapping,Closed Lost,Stenosis Mapping,45600.0,2024-11-06,2025-04-17,True,False
+O00343,A0163,Maple Imaging 163 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,51200.0,2026-08-31,2026-11-28,False,False
+O00344,A0262,Bayside Heart Associates 262 - Plaque Quantification,Closed Lost,Plaque Quantification,34200.0,2026-02-12,2026-03-17,True,False
+O00345,A0117,Valley Medical Center 117 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,52300.0,2025-08-29,2025-12-13,True,True
+O00346,A0268,Maple Imaging 268 - Stenosis Mapping,Closed Won,Stenosis Mapping,18400.0,2026-01-05,2026-06-04,True,True
+O00347,A0292,Summit Imaging 292 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,59700.0,2026-06-14,2026-12-06,False,False
+O00348,A0158,Maple Heart Associates 158 - Plaque Quantification,Closed Lost,Plaque Quantification,43000.0,2025-09-01,2025-10-02,True,False
+O00349,A0277,Lakeview Heart Associates 277 - Plaque Quantification,Closed Lost,Plaque Quantification,41100.0,2025-01-18,2025-04-11,True,False
+O00350,A0077,Harbor Imaging 77 - Plaque Quantification,Qualification,Plaque Quantification,40500.0,2026-08-02,2026-12-28,False,False
+O00351,A0041,Riverside Heart Associates 41 - Stenosis Mapping,Prospecting,Stenosis Mapping,29300.0,2026-06-08,2026-11-20,False,False
+O00352,A0060,Lakeview Medical Center 60 - Stenosis Mapping,Closed Won,Stenosis Mapping,39200.0,2024-02-18,2024-05-08,True,True
+O00353,A0240,Pioneer Heart Associates 240 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,67600.0,2025-01-29,2025-05-18,True,False
+O00354,A0297,Lakeview Heart Associates 297 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,56700.0,2025-02-26,2025-08-02,True,True
+O00355,A0259,Summit Heart Associates 259 - Stenosis Mapping,Closed Won,Stenosis Mapping,36200.0,2026-02-26,2026-07-24,True,True
+O00356,A0232,Riverside Imaging 232 - Stenosis Mapping,Negotiation,Stenosis Mapping,18300.0,2026-09-15,2026-10-19,False,False
+O00357,A0068,Mesa Imaging 68 - Stenosis Mapping,Closed Lost,Stenosis Mapping,31800.0,2026-06-06,2026-07-22,True,False
+O00358,A0025,Riverside Heart Associates 25 - Plaque Quantification,Proposal,Plaque Quantification,50600.0,2026-07-22,2026-11-05,False,False
+O00359,A0171,Summit Heart Associates 171 - Stenosis Mapping,Closed Lost,Stenosis Mapping,42500.0,2025-03-22,2025-07-28,True,False
+O00360,A0177,Pioneer Imaging 177 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,63200.0,2024-02-17,2024-03-28,True,False
+O00361,A0027,Pioneer Imaging 27 - Plaque Quantification,Closed Lost,Plaque Quantification,48400.0,2024-04-30,2024-10-04,True,False
+O00362,A0090,Maple Heart Associates 90 - Plaque Quantification,Closed Won,Plaque Quantification,44200.0,2025-03-16,2025-08-27,True,True
+O00363,A0181,Summit Heart Associates 181 - Stenosis Mapping,Closed Lost,Stenosis Mapping,36000.0,2026-03-02,2026-07-07,True,False
+O00364,A0159,Bayside Imaging 159 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,62600.0,2025-07-29,2025-09-14,True,True
+O00365,A0067,Valley Heart Associates 67 - Stenosis Mapping,Closed Lost,Stenosis Mapping,29900.0,2025-11-13,2026-01-14,True,False
+O00366,A0215,Cedar Medical Center 215 - Stenosis Mapping,Closed Lost,Stenosis Mapping,51100.0,2025-08-25,2026-02-12,True,False
+O00367,A0213,Summit Medical Center 213 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,85900.0,2025-04-02,2025-08-21,True,False
+O00368,A0025,Riverside Heart Associates 25 - Stenosis Mapping,Closed Won,Stenosis Mapping,26700.0,2026-02-12,2026-06-16,True,True
+O00369,A0226,Mesa Imaging 226 - Plaque Quantification,Closed Lost,Plaque Quantification,35400.0,2025-05-15,2025-11-11,True,False
+O00370,A0136,Coastal Imaging 136 - Stenosis Mapping,Closed Won,Stenosis Mapping,43900.0,2026-05-29,2026-07-15,True,True
+O00371,A0172,Mesa Imaging 172 - Plaque Quantification,Closed Won,Plaque Quantification,43100.0,2026-04-06,2026-06-02,True,True
+O00372,A0061,Coastal Medical Center 61 - Plaque Quantification,Closed Won,Plaque Quantification,40600.0,2025-05-20,2025-10-01,True,True
+O00373,A0143,Maple Heart Associates 143 - Stenosis Mapping,Closed Lost,Stenosis Mapping,24500.0,2025-06-18,2025-08-29,True,False
+O00374,A0033,Union Medical Center 33 - Plaque Quantification,Closed Lost,Plaque Quantification,54800.0,2026-06-20,2026-09-01,True,False
+O00375,A0264,Cedar Medical Center 264 - Plaque Quantification,Negotiation,Plaque Quantification,55000.0,2026-08-27,2027-02-21,False,False
+O00376,A0222,Prairie Medical Center 222 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,86300.0,2025-08-05,2026-01-07,True,False
+O00377,A0244,Bayside Medical Center 244 - Plaque Quantification,Closed Lost,Plaque Quantification,51500.0,2025-09-04,2025-12-25,True,False
+O00378,A0139,Union Imaging 139 - Stenosis Mapping,Proposal,Stenosis Mapping,31300.0,2026-06-13,2026-12-03,False,False
+O00379,A0157,Cedar Medical Center 157 - Stenosis Mapping,Closed Lost,Stenosis Mapping,39100.0,2025-09-16,2025-10-22,True,False
+O00380,A0164,Summit Medical Center 164 - Stenosis Mapping,Closed Won,Stenosis Mapping,39400.0,2026-03-01,2026-05-07,True,True
+O00381,A0266,Lakeview Medical Center 266 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,60200.0,2026-05-21,2026-06-29,True,False
+O00382,A0187,Granite Heart Associates 187 - Stenosis Mapping,Closed Lost,Stenosis Mapping,47900.0,2026-02-02,2026-05-08,True,False
+O00383,A0161,Union Imaging 161 - Plaque Quantification,Closed Lost,Plaque Quantification,57400.0,2026-02-08,2026-07-29,True,False
+O00384,A0060,Lakeview Medical Center 60 - Plaque Quantification,Closed Lost,Plaque Quantification,42100.0,2024-01-22,2024-04-30,True,False
+O00385,A0065,Riverside Medical Center 65 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,74500.0,2025-10-22,2025-12-06,True,False
+O00386,A0253,Riverside Imaging 253 - Stenosis Mapping,Closed Lost,Stenosis Mapping,36000.0,2025-12-24,2026-04-17,True,False
+O00387,A0226,Mesa Imaging 226 - Stenosis Mapping,Prospecting,Stenosis Mapping,23000.0,2026-07-01,2026-10-08,False,False
+O00388,A0007,Maple Medical Center 7 - Plaque Quantification,Closed Lost,Plaque Quantification,39000.0,2025-03-01,2025-04-18,True,False
+O00389,A0083,Valley Heart Associates 83 - Stenosis Mapping,Closed Won,Stenosis Mapping,41800.0,2025-01-24,2025-03-13,True,True
+O00390,A0049,Northgate Medical Center 49 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,64500.0,2026-03-15,2026-06-23,True,True
+O00391,A0165,Bayside Medical Center 165 - Stenosis Mapping,Prospecting,Stenosis Mapping,35100.0,2026-08-11,2026-11-09,False,False
+O00392,A0059,Prairie Medical Center 59 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,35000.0,2026-07-18,2027-01-12,False,False
+O00393,A0186,Cedar Imaging 186 - Stenosis Mapping,Prospecting,Stenosis Mapping,43600.0,2026-09-14,2027-02-01,False,False
+O00394,A0122,Coastal Imaging 122 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,58400.0,2026-08-01,2026-12-03,False,False
+O00395,A0127,Cedar Medical Center 127 - Stenosis Mapping,Prospecting,Stenosis Mapping,45500.0,2026-07-31,2026-10-15,False,False
+O00396,A0145,Mesa Imaging 145 - Stenosis Mapping,Closed Lost,Stenosis Mapping,40100.0,2026-04-13,2026-08-18,True,False
+O00397,A0123,Mesa Imaging 123 - Plaque Quantification,Closed Lost,Plaque Quantification,38600.0,2025-04-16,2025-08-09,True,False
+O00398,A0156,Valley Imaging 156 - Stenosis Mapping,Closed Lost,Stenosis Mapping,33600.0,2024-10-27,2025-03-07,True,False
+O00399,A0247,Riverside Medical Center 247 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,47700.0,2025-02-13,2025-07-22,True,True
+O00400,A0234,Coastal Heart Associates 234 - Plaque Quantification,Closed Won,Plaque Quantification,41200.0,2026-02-07,2026-03-10,True,True
+O00401,A0182,Riverside Imaging 182 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,48200.0,2025-12-03,2026-04-01,True,False
+O00402,A0143,Maple Heart Associates 143 - Stenosis Mapping,Closed Lost,Stenosis Mapping,39500.0,2024-12-29,2025-05-13,True,False
+O00403,A0274,Mesa Imaging 274 - Stenosis Mapping,Closed Lost,Stenosis Mapping,18900.0,2025-12-26,2026-06-07,True,False
+O00404,A0222,Prairie Medical Center 222 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,61800.0,2026-04-22,2026-06-03,True,True
+O00405,A0047,Pioneer Medical Center 47 - Plaque Quantification,Closed Lost,Plaque Quantification,35600.0,2026-07-10,2026-09-11,True,False
+O00406,A0200,Prairie Heart Associates 200 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,71300.0,2026-02-16,2026-05-20,True,True
+O00407,A0007,Maple Medical Center 7 - Plaque Quantification,Closed Won,Plaque Quantification,50800.0,2026-01-09,2026-06-20,True,True
+O00408,A0057,Pioneer Medical Center 57 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,47700.0,2026-03-03,2026-08-17,True,False
+O00409,A0207,Riverside Medical Center 207 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,50400.0,2025-12-04,2026-01-04,True,True
+O00410,A0044,Lakeview Medical Center 44 - Plaque Quantification,Negotiation,Plaque Quantification,56000.0,2026-05-21,2026-11-13,False,False
+O00411,A0031,Harbor Heart Associates 31 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,51600.0,2024-10-17,2025-04-04,True,True
+O00412,A0163,Maple Imaging 163 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,51900.0,2026-04-15,2026-10-11,False,False
+O00413,A0060,Lakeview Medical Center 60 - Stenosis Mapping,Closed Lost,Stenosis Mapping,35200.0,2024-09-20,2024-11-08,True,False
+O00414,A0121,Northgate Heart Associates 121 - Plaque Quantification,Closed Lost,Plaque Quantification,66200.0,2026-02-14,2026-06-22,True,False
+O00415,A0184,Valley Medical Center 184 - Plaque Quantification,Closed Won,Plaque Quantification,66900.0,2024-07-03,2024-11-02,True,True
+O00416,A0216,Lakeview Heart Associates 216 - Stenosis Mapping,Closed Won,Stenosis Mapping,43000.0,2024-11-09,2024-12-19,True,True
+O00417,A0290,Cedar Imaging 290 - Stenosis Mapping,Qualification,Stenosis Mapping,29400.0,2026-08-12,2026-10-05,False,False
+O00418,A0184,Valley Medical Center 184 - Plaque Quantification,Closed Lost,Plaque Quantification,48100.0,2026-03-30,2026-05-20,True,False
+O00419,A0093,Bayside Medical Center 93 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,73000.0,2026-02-07,2026-07-11,True,True
+O00420,A0197,Northgate Imaging 197 - Plaque Quantification,Closed Lost,Plaque Quantification,14200.0,2024-05-21,2024-09-21,True,False
+O00421,A0249,Union Medical Center 249 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,48700.0,2026-02-26,2026-04-07,True,False
+O00422,A0026,Lakeview Imaging 26 - Stenosis Mapping,Closed Lost,Stenosis Mapping,32400.0,2025-08-25,2025-11-13,True,False
+O00423,A0024,Granite Heart Associates 24 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,84000.0,2026-06-24,2026-10-05,False,False
+O00424,A0159,Bayside Imaging 159 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,42500.0,2026-06-14,2026-10-29,False,False
+O00425,A0285,Union Medical Center 285 - Stenosis Mapping,Closed Lost,Stenosis Mapping,13000.0,2024-12-05,2025-03-10,True,False
+O00426,A0071,Lakeview Medical Center 71 - Stenosis Mapping,Closed Won,Stenosis Mapping,36000.0,2026-02-14,2026-04-02,True,True
+O00427,A0172,Mesa Imaging 172 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34800.0,2025-01-23,2025-06-30,True,False
+O00428,A0258,Summit Medical Center 258 - Stenosis Mapping,Closed Won,Stenosis Mapping,21000.0,2026-03-09,2026-06-04,True,True
+O00429,A0020,Harbor Imaging 20 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,90500.0,2026-09-11,2026-10-30,False,False
+O00430,A0274,Mesa Imaging 274 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,59500.0,2024-11-25,2025-01-21,True,False
+O00431,A0071,Lakeview Medical Center 71 - Plaque Quantification,Closed Lost,Plaque Quantification,36200.0,2026-05-08,2026-09-30,True,False
+O00432,A0095,Valley Medical Center 95 - Stenosis Mapping,Closed Won,Stenosis Mapping,34200.0,2026-01-02,2026-06-19,True,True
+O00433,A0147,Granite Medical Center 147 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,40200.0,2026-04-14,2026-08-19,True,False
+O00434,A0260,Summit Medical Center 260 - Stenosis Mapping,Closed Won,Stenosis Mapping,48900.0,2025-11-07,2026-03-10,True,True
+O00435,A0152,Riverside Medical Center 152 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,84400.0,2024-08-26,2024-12-24,True,False
+O00436,A0050,Valley Imaging 50 - Plaque Quantification,Closed Lost,Plaque Quantification,36400.0,2025-04-04,2025-06-29,True,False
+O00437,A0196,Pioneer Medical Center 196 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,55000.0,2025-05-20,2025-10-07,True,False
+O00438,A0160,Northgate Medical Center 160 - Plaque Quantification,Closed Lost,Plaque Quantification,27600.0,2025-05-27,2025-10-27,True,False
+O00439,A0004,Bayside Imaging 4 - Plaque Quantification,Closed Lost,Plaque Quantification,56900.0,2025-10-31,2026-01-19,True,False
+O00440,A0232,Riverside Imaging 232 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,54700.0,2025-08-31,2025-11-02,True,True
+O00441,A0091,Pioneer Heart Associates 91 - Plaque Quantification,Closed Won,Plaque Quantification,38600.0,2026-04-08,2026-08-30,True,True
+O00442,A0140,Valley Heart Associates 140 - Stenosis Mapping,Closed Lost,Stenosis Mapping,17100.0,2026-04-21,2026-08-11,True,False
+O00443,A0118,Harbor Heart Associates 118 - Plaque Quantification,Closed Won,Plaque Quantification,36400.0,2025-09-10,2025-12-19,True,True
+O00444,A0097,Coastal Imaging 97 - Stenosis Mapping,Closed Won,Stenosis Mapping,41400.0,2025-11-02,2026-01-09,True,True
+O00445,A0067,Valley Heart Associates 67 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,58500.0,2025-07-18,2026-01-08,True,False
+O00446,A0018,Northgate Imaging 18 - Plaque Quantification,Closed Lost,Plaque Quantification,57300.0,2026-02-19,2026-05-10,True,False
+O00447,A0008,Cedar Medical Center 8 - Plaque Quantification,Closed Won,Plaque Quantification,35600.0,2025-01-13,2025-03-29,True,True
+O00448,A0179,Pioneer Imaging 179 - Stenosis Mapping,Closed Lost,Stenosis Mapping,27200.0,2025-03-12,2025-06-18,True,False
+O00449,A0229,Cedar Medical Center 229 - Plaque Quantification,Closed Won,Plaque Quantification,50500.0,2026-06-26,2026-09-04,True,True
+O00450,A0276,Bayside Medical Center 276 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,74900.0,2026-04-02,2026-06-21,True,False
+O00451,A0206,Valley Heart Associates 206 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,53200.0,2024-12-26,2025-04-16,True,True
+O00452,A0220,Prairie Medical Center 220 - Plaque Quantification,Closed Lost,Plaque Quantification,37400.0,2024-06-04,2024-09-06,True,False
+O00453,A0208,Cedar Medical Center 208 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,97100.0,2025-11-06,2026-03-24,True,False
+O00454,A0169,Pioneer Medical Center 169 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,63800.0,2024-04-13,2024-09-07,True,True
+O00455,A0179,Pioneer Imaging 179 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,72900.0,2025-11-26,2026-05-25,True,True
+O00456,A0122,Coastal Imaging 122 - Stenosis Mapping,Closed Lost,Stenosis Mapping,46100.0,2025-09-15,2026-02-02,True,False
+O00457,A0089,Pioneer Heart Associates 89 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,41100.0,2025-07-02,2025-08-01,True,False
+O00458,A0243,Valley Imaging 243 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,63400.0,2025-10-23,2025-12-20,True,True
+O00459,A0256,Coastal Imaging 256 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,42600.0,2026-07-08,2026-12-23,False,False
+O00460,A0094,Pioneer Heart Associates 94 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,74500.0,2026-08-16,2027-02-04,False,False
+O00461,A0024,Granite Heart Associates 24 - Stenosis Mapping,Closed Won,Stenosis Mapping,28100.0,2024-09-07,2025-01-19,True,True
+O00462,A0163,Maple Imaging 163 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,50200.0,2026-07-09,2026-11-07,False,False
+O00463,A0296,Cedar Heart Associates 296 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,52200.0,2026-02-02,2026-05-27,True,False
+O00464,A0296,Cedar Heart Associates 296 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,58900.0,2026-06-07,2026-10-26,False,False
+O00465,A0012,Summit Medical Center 12 - Stenosis Mapping,Closed Won,Stenosis Mapping,23700.0,2026-03-14,2026-09-01,True,True
+O00466,A0248,Harbor Medical Center 248 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,84200.0,2025-11-20,2025-12-28,True,True
+O00467,A0044,Lakeview Medical Center 44 - Plaque Quantification,Closed Won,Plaque Quantification,37500.0,2025-11-21,2026-01-11,True,True
+O00468,A0183,Lakeview Imaging 183 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,65000.0,2025-05-04,2025-08-25,True,False
+O00469,A0228,Maple Heart Associates 228 - Stenosis Mapping,Closed Won,Stenosis Mapping,37100.0,2025-06-27,2025-10-18,True,True
+O00470,A0171,Summit Heart Associates 171 - Plaque Quantification,Closed Lost,Plaque Quantification,36800.0,2025-06-28,2025-11-19,True,False
+O00471,A0223,Pioneer Heart Associates 223 - Stenosis Mapping,Closed Lost,Stenosis Mapping,35500.0,2025-10-21,2026-04-09,True,False
+O00472,A0071,Lakeview Medical Center 71 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,79000.0,2025-10-28,2025-12-13,True,True
+O00473,A0053,Harbor Heart Associates 53 - Plaque Quantification,Negotiation,Plaque Quantification,42900.0,2026-09-09,2027-02-05,False,False
+O00474,A0178,Granite Medical Center 178 - Plaque Quantification,Closed Won,Plaque Quantification,47900.0,2026-06-17,2026-08-24,True,True
+O00475,A0107,Valley Imaging 107 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,58300.0,2025-06-12,2025-11-15,True,False
+O00476,A0083,Valley Heart Associates 83 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,46400.0,2026-03-20,2026-05-17,True,False
+O00477,A0042,Cedar Imaging 42 - Stenosis Mapping,Closed Lost,Stenosis Mapping,28200.0,2025-09-24,2025-12-07,True,False
+O00478,A0195,Union Heart Associates 195 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,49500.0,2025-12-16,2026-02-03,True,True
+O00479,A0156,Valley Imaging 156 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,70100.0,2024-10-11,2025-01-16,True,True
+O00480,A0287,Granite Heart Associates 287 - Plaque Quantification,Closed Lost,Plaque Quantification,38000.0,2025-03-30,2025-08-06,True,False
+O00481,A0270,Bayside Imaging 270 - Plaque Quantification,Closed Lost,Plaque Quantification,52700.0,2025-04-20,2025-06-08,True,False
+O00482,A0035,Valley Medical Center 35 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,33600.0,2026-04-12,2026-08-12,True,False
+O00483,A0264,Cedar Medical Center 264 - Stenosis Mapping,Closed Lost,Stenosis Mapping,38300.0,2025-07-17,2025-10-17,True,False
+O00484,A0082,Maple Imaging 82 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,68500.0,2026-04-26,2026-06-08,True,True
+O00485,A0031,Harbor Heart Associates 31 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,49200.0,2024-03-28,2024-04-27,True,False
+O00486,A0024,Granite Heart Associates 24 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,47700.0,2025-08-01,2026-01-04,True,True
+O00487,A0102,Cedar Medical Center 102 - Plaque Quantification,Closed Won,Plaque Quantification,56900.0,2026-05-02,2026-07-23,True,True
+O00488,A0286,Harbor Medical Center 286 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,53700.0,2026-02-17,2026-04-14,True,False
+O00489,A0193,Harbor Imaging 193 - Stenosis Mapping,Closed Lost,Stenosis Mapping,44700.0,2026-06-25,2026-08-21,True,False
+O00490,A0146,Bayside Imaging 146 - Plaque Quantification,Closed Won,Plaque Quantification,48600.0,2024-11-27,2025-04-01,True,True
+O00491,A0200,Prairie Heart Associates 200 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,59100.0,2024-08-14,2024-10-07,True,False
+O00492,A0058,Summit Medical Center 58 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,67000.0,2025-04-24,2025-05-29,True,False
+O00493,A0028,Harbor Medical Center 28 - Stenosis Mapping,Closed Lost,Stenosis Mapping,43800.0,2026-03-28,2026-08-15,True,False
+O00494,A0174,Union Heart Associates 174 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,35100.0,2026-08-24,2026-11-17,False,False
+O00495,A0259,Summit Heart Associates 259 - Stenosis Mapping,Closed Lost,Stenosis Mapping,27000.0,2025-10-14,2025-11-16,True,False
+O00496,A0134,Prairie Imaging 134 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,69200.0,2026-07-15,2027-01-11,False,False
+O00497,A0216,Lakeview Heart Associates 216 - Plaque Quantification,Closed Lost,Plaque Quantification,32900.0,2024-07-22,2024-09-21,True,False
+O00498,A0008,Cedar Medical Center 8 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,68200.0,2026-07-25,2026-12-23,False,False
+O00499,A0236,Bayside Heart Associates 236 - Stenosis Mapping,Closed Won,Stenosis Mapping,24900.0,2025-12-23,2026-03-07,True,True
+O00500,A0261,Riverside Heart Associates 261 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,63900.0,2025-08-06,2025-09-17,True,True
+O00501,A0292,Summit Imaging 292 - Stenosis Mapping,Closed Lost,Stenosis Mapping,23200.0,2026-04-30,2026-09-13,True,False
+O00502,A0061,Coastal Medical Center 61 - Plaque Quantification,Prospecting,Plaque Quantification,44500.0,2026-08-09,2026-11-08,False,False
+O00503,A0255,Prairie Heart Associates 255 - Stenosis Mapping,Closed Won,Stenosis Mapping,38000.0,2025-03-21,2025-04-30,True,True
+O00504,A0284,Cedar Medical Center 284 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,54900.0,2024-11-07,2025-02-13,True,True
+O00505,A0111,Harbor Imaging 111 - Stenosis Mapping,Qualification,Stenosis Mapping,37900.0,2026-06-27,2026-11-25,False,False
+O00506,A0057,Pioneer Medical Center 57 - Stenosis Mapping,Qualification,Stenosis Mapping,10900.0,2026-06-14,2026-11-15,False,False
+O00507,A0048,Coastal Medical Center 48 - Plaque Quantification,Closed Lost,Plaque Quantification,57200.0,2026-02-07,2026-05-16,True,False
+O00508,A0202,Union Imaging 202 - Plaque Quantification,Closed Won,Plaque Quantification,23400.0,2026-05-01,2026-07-19,True,True
+O00509,A0118,Harbor Heart Associates 118 - Plaque Quantification,Closed Lost,Plaque Quantification,36400.0,2025-08-02,2025-09-04,True,False
+O00510,A0099,Maple Medical Center 99 - Stenosis Mapping,Closed Lost,Stenosis Mapping,30100.0,2025-10-05,2026-03-25,True,False
+O00511,A0145,Mesa Imaging 145 - Plaque Quantification,Closed Lost,Plaque Quantification,29700.0,2025-10-26,2025-12-21,True,False
+O00512,A0104,Northgate Imaging 104 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,56700.0,2025-06-18,2025-10-30,True,False
+O00513,A0100,Maple Heart Associates 100 - Stenosis Mapping,Closed Lost,Stenosis Mapping,29900.0,2024-06-27,2024-09-21,True,False
+O00514,A0133,Pioneer Medical Center 133 - Plaque Quantification,Closed Lost,Plaque Quantification,40000.0,2026-07-06,2026-08-06,True,False
+O00515,A0049,Northgate Medical Center 49 - Stenosis Mapping,Closed Lost,Stenosis Mapping,43200.0,2025-12-14,2026-04-22,True,False
+O00516,A0275,Harbor Imaging 275 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,67300.0,2024-10-25,2024-12-14,True,False
+O00517,A0260,Summit Medical Center 260 - Stenosis Mapping,Closed Lost,Stenosis Mapping,30600.0,2025-06-07,2025-09-29,True,False
+O00518,A0206,Valley Heart Associates 206 - Stenosis Mapping,Closed Won,Stenosis Mapping,44500.0,2025-05-18,2025-07-08,True,True
+O00519,A0081,Maple Medical Center 81 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,50000.0,2026-09-04,2027-01-10,False,False
+O00520,A0259,Summit Heart Associates 259 - Plaque Quantification,Closed Won,Plaque Quantification,41500.0,2026-07-24,2026-09-03,True,True
+O00521,A0144,Bayside Imaging 144 - Stenosis Mapping,Closed Lost,Stenosis Mapping,37500.0,2026-07-28,2026-09-06,True,False
+O00522,A0150,Northgate Medical Center 150 - Plaque Quantification,Closed Lost,Plaque Quantification,42100.0,2025-06-20,2025-11-29,True,False
+O00523,A0111,Harbor Imaging 111 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,54000.0,2026-06-21,2026-10-05,False,False
+O00524,A0031,Harbor Heart Associates 31 - Plaque Quantification,Closed Won,Plaque Quantification,50500.0,2024-06-22,2024-10-11,True,True
+O00525,A0154,Northgate Heart Associates 154 - Stenosis Mapping,Closed Lost,Stenosis Mapping,41700.0,2026-01-03,2026-04-08,True,False
+O00526,A0187,Granite Heart Associates 187 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,38000.0,2026-08-04,2026-10-15,False,False
+O00527,A0083,Valley Heart Associates 83 - Stenosis Mapping,Closed Won,Stenosis Mapping,39700.0,2025-03-31,2025-06-29,True,True
+O00528,A0204,Union Heart Associates 204 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,72400.0,2026-08-13,2027-01-22,False,False
+O00529,A0278,Bayside Medical Center 278 - Plaque Quantification,Closed Lost,Plaque Quantification,38000.0,2025-09-16,2025-11-12,True,False
+O00530,A0168,Northgate Medical Center 168 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,62500.0,2026-04-14,2026-10-10,False,False
+O00531,A0133,Pioneer Medical Center 133 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,46100.0,2026-02-17,2026-06-17,True,True
+O00532,A0015,Northgate Imaging 15 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,55800.0,2026-08-03,2026-10-27,False,False
+O00533,A0264,Cedar Medical Center 264 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,37000.0,2025-11-16,2026-03-31,True,True
+O00534,A0227,Union Imaging 227 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,59900.0,2026-06-29,2026-11-28,False,False
+O00535,A0010,Granite Heart Associates 10 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,45500.0,2025-10-31,2026-04-28,True,False
+O00536,A0060,Lakeview Medical Center 60 - Plaque Quantification,Closed Lost,Plaque Quantification,66100.0,2024-02-15,2024-03-19,True,False
+O00537,A0142,Prairie Medical Center 142 - Plaque Quantification,Closed Won,Plaque Quantification,44700.0,2025-10-21,2025-11-21,True,True
+O00538,A0028,Harbor Medical Center 28 - Plaque Quantification,Closed Won,Plaque Quantification,32900.0,2025-02-09,2025-06-12,True,True
+O00539,A0239,Union Heart Associates 239 - Plaque Quantification,Closed Lost,Plaque Quantification,51600.0,2026-04-14,2026-07-19,True,False
+O00540,A0141,Coastal Heart Associates 141 - Stenosis Mapping,Closed Lost,Stenosis Mapping,18700.0,2025-06-26,2025-10-17,True,False
+O00541,A0129,Northgate Heart Associates 129 - Plaque Quantification,Closed Lost,Plaque Quantification,37000.0,2025-01-12,2025-07-01,True,False
+O00542,A0103,Northgate Imaging 103 - Plaque Quantification,Closed Lost,Plaque Quantification,53000.0,2025-12-16,2026-05-21,True,False
+O00543,A0060,Lakeview Medical Center 60 - Plaque Quantification,Closed Lost,Plaque Quantification,50600.0,2024-08-17,2024-12-27,True,False
+O00544,A0186,Cedar Imaging 186 - Stenosis Mapping,Closed Won,Stenosis Mapping,15800.0,2025-10-28,2026-02-23,True,True
+O00545,A0159,Bayside Imaging 159 - Stenosis Mapping,Closed Lost,Stenosis Mapping,25300.0,2025-05-04,2025-06-22,True,False
+O00546,A0225,Harbor Medical Center 225 - Plaque Quantification,Closed Lost,Plaque Quantification,46500.0,2025-04-28,2025-07-26,True,False
+O00547,A0291,Mesa Medical Center 291 - Stenosis Mapping,Closed Lost,Stenosis Mapping,44300.0,2025-04-08,2025-05-08,True,False
+O00548,A0009,Pioneer Imaging 9 - Stenosis Mapping,Evaluation,Stenosis Mapping,38300.0,2026-07-04,2026-10-16,False,False
+O00549,A0243,Valley Imaging 243 - Stenosis Mapping,Closed Lost,Stenosis Mapping,21000.0,2025-08-19,2025-12-05,True,False
+O00550,A0288,Harbor Imaging 288 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,61600.0,2026-09-04,2026-12-10,False,False
+O00551,A0275,Harbor Imaging 275 - Stenosis Mapping,Closed Lost,Stenosis Mapping,35900.0,2026-04-26,2026-06-20,True,False
+O00552,A0159,Bayside Imaging 159 - Stenosis Mapping,Closed Won,Stenosis Mapping,35400.0,2025-11-13,2026-04-23,True,True
+O00553,A0240,Pioneer Heart Associates 240 - Stenosis Mapping,Proposal,Stenosis Mapping,32100.0,2026-09-15,2026-12-19,False,False
+O00554,A0033,Union Medical Center 33 - Stenosis Mapping,Evaluation,Stenosis Mapping,30300.0,2026-07-22,2027-01-14,False,False
+O00555,A0294,Summit Imaging 294 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,89100.0,2025-09-23,2026-01-02,True,True
+O00556,A0090,Maple Heart Associates 90 - Plaque Quantification,Closed Lost,Plaque Quantification,47700.0,2025-12-16,2026-02-18,True,False
+O00557,A0070,Bayside Imaging 70 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,61500.0,2025-05-30,2025-11-10,True,False
+O00558,A0135,Union Imaging 135 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,67400.0,2025-11-13,2026-01-31,True,False
+O00559,A0293,Union Imaging 293 - Plaque Quantification,Closed Lost,Plaque Quantification,61000.0,2026-01-03,2026-02-19,True,False
+O00560,A0195,Union Heart Associates 195 - Stenosis Mapping,Closed Lost,Stenosis Mapping,44600.0,2026-02-07,2026-04-29,True,False
+O00561,A0012,Summit Medical Center 12 - Plaque Quantification,Evaluation,Plaque Quantification,21000.0,2026-08-21,2026-12-04,False,False
+O00562,A0278,Bayside Medical Center 278 - Stenosis Mapping,Closed Lost,Stenosis Mapping,30600.0,2025-08-07,2025-11-23,True,False
+O00563,A0214,Mesa Imaging 214 - Plaque Quantification,Closed Lost,Plaque Quantification,54800.0,2025-05-18,2025-07-31,True,False
+O00564,A0293,Union Imaging 293 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,61300.0,2026-04-13,2026-08-06,True,True
+O00565,A0252,Union Imaging 252 - Plaque Quantification,Closed Lost,Plaque Quantification,41800.0,2025-04-08,2025-06-12,True,False
+O00566,A0093,Bayside Medical Center 93 - Stenosis Mapping,Closed Won,Stenosis Mapping,43800.0,2026-01-02,2026-02-22,True,True
+O00567,A0247,Riverside Medical Center 247 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,56300.0,2024-09-23,2024-10-29,True,False
+O00568,A0230,Northgate Imaging 230 - Stenosis Mapping,Closed Lost,Stenosis Mapping,36400.0,2026-04-01,2026-06-30,True,False
+O00569,A0275,Harbor Imaging 275 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,68200.0,2025-05-06,2025-09-25,True,True
+O00570,A0234,Coastal Heart Associates 234 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,50600.0,2025-10-16,2025-12-19,True,True
+O00571,A0242,Union Heart Associates 242 - Stenosis Mapping,Negotiation,Stenosis Mapping,33900.0,2026-09-19,2027-01-12,False,False
+O00572,A0094,Pioneer Heart Associates 94 - Plaque Quantification,Closed Won,Plaque Quantification,44300.0,2024-08-28,2024-12-02,True,True
+O00573,A0002,Maple Heart Associates 2 - Stenosis Mapping,Evaluation,Stenosis Mapping,35400.0,2026-09-09,2026-11-11,False,False
+O00574,A0281,Lakeview Imaging 281 - Stenosis Mapping,Closed Won,Stenosis Mapping,48700.0,2024-09-30,2024-12-06,True,True
+O00575,A0074,Maple Medical Center 74 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34000.0,2026-04-06,2026-07-05,True,False
+O00576,A0099,Maple Medical Center 99 - Plaque Quantification,Closed Won,Plaque Quantification,49000.0,2025-11-08,2026-03-04,True,True
+O00577,A0209,Valley Medical Center 209 - Plaque Quantification,Closed Lost,Plaque Quantification,41200.0,2025-03-10,2025-05-21,True,False
+O00578,A0290,Cedar Imaging 290 - Plaque Quantification,Closed Lost,Plaque Quantification,49000.0,2025-11-04,2025-12-26,True,False
+O00579,A0251,Mesa Imaging 251 - Plaque Quantification,Closed Lost,Plaque Quantification,37700.0,2026-06-23,2026-08-23,True,False
+O00580,A0202,Union Imaging 202 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,68500.0,2025-03-05,2025-07-26,True,False
+O00581,A0290,Cedar Imaging 290 - Stenosis Mapping,Closed Lost,Stenosis Mapping,20100.0,2026-01-24,2026-04-10,True,False
+O00582,A0019,Pioneer Heart Associates 19 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,66100.0,2026-03-25,2026-07-09,True,True
+O00583,A0161,Union Imaging 161 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,70800.0,2026-07-26,2026-12-02,False,False
+O00584,A0202,Union Imaging 202 - Plaque Quantification,Closed Lost,Plaque Quantification,60500.0,2025-06-21,2025-09-11,True,False
+O00585,A0130,Mesa Imaging 130 - Plaque Quantification,Negotiation,Plaque Quantification,50500.0,2026-07-20,2026-10-02,False,False
+O00586,A0064,Harbor Imaging 64 - Stenosis Mapping,Closed Won,Stenosis Mapping,38200.0,2025-02-23,2025-07-18,True,True
+O00587,A0096,Granite Medical Center 96 - Plaque Quantification,Closed Won,Plaque Quantification,23600.0,2025-04-10,2025-08-19,True,True
+O00588,A0264,Cedar Medical Center 264 - Plaque Quantification,Negotiation,Plaque Quantification,51300.0,2026-06-24,2026-10-04,False,False
+O00589,A0118,Harbor Heart Associates 118 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,61200.0,2025-11-01,2026-02-02,True,True
+O00590,A0291,Mesa Medical Center 291 - Stenosis Mapping,Closed Won,Stenosis Mapping,26000.0,2024-08-12,2024-12-06,True,True
+O00591,A0222,Prairie Medical Center 222 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,59300.0,2025-05-01,2025-07-22,True,False
+O00592,A0112,Northgate Imaging 112 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,54400.0,2026-08-24,2026-12-18,False,False
+O00593,A0084,Lakeview Medical Center 84 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,33400.0,2026-03-28,2026-04-27,True,False
+O00594,A0052,Harbor Medical Center 52 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,39200.0,2025-06-22,2025-11-13,True,True
+O00595,A0029,Granite Medical Center 29 - Stenosis Mapping,Closed Won,Stenosis Mapping,20600.0,2026-04-14,2026-07-05,True,True
+O00596,A0115,Cedar Medical Center 115 - Stenosis Mapping,Closed Lost,Stenosis Mapping,40600.0,2024-10-26,2025-03-23,True,False
+O00597,A0163,Maple Imaging 163 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,32200.0,2026-01-03,2026-05-02,True,True
+O00598,A0015,Northgate Imaging 15 - Stenosis Mapping,Closed Won,Stenosis Mapping,38000.0,2026-03-29,2026-09-24,True,True
+O00599,A0206,Valley Heart Associates 206 - Stenosis Mapping,Closed Lost,Stenosis Mapping,27300.0,2025-02-13,2025-04-20,True,False
+O00600,A0202,Union Imaging 202 - Plaque Quantification,Closed Lost,Plaque Quantification,45500.0,2026-06-29,2026-08-25,True,False
+O00601,A0228,Maple Heart Associates 228 - Plaque Quantification,Negotiation,Plaque Quantification,52100.0,2026-06-23,2026-12-05,False,False
+O00602,A0124,Valley Medical Center 124 - Plaque Quantification,Closed Lost,Plaque Quantification,43600.0,2026-04-12,2026-09-30,True,False
+O00603,A0170,Lakeview Imaging 170 - Stenosis Mapping,Closed Lost,Stenosis Mapping,46700.0,2026-01-17,2026-06-24,True,False
+O00604,A0234,Coastal Heart Associates 234 - Plaque Quantification,Proposal,Plaque Quantification,63700.0,2026-07-09,2026-12-31,False,False
+O00605,A0075,Union Medical Center 75 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,37800.0,2026-05-12,2026-09-01,True,False
+O00606,A0281,Lakeview Imaging 281 - Stenosis Mapping,Closed Lost,Stenosis Mapping,35500.0,2025-10-02,2026-03-17,True,False
+O00607,A0051,Northgate Medical Center 51 - Stenosis Mapping,Proposal,Stenosis Mapping,42500.0,2026-06-08,2026-11-29,False,False
+O00608,A0194,Riverside Heart Associates 194 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,56500.0,2026-01-21,2026-03-20,True,False
+O00609,A0005,Lakeview Imaging 5 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,60200.0,2024-06-03,2024-10-19,True,True
+O00610,A0229,Cedar Medical Center 229 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,57500.0,2026-03-13,2026-05-12,True,True
+O00611,A0228,Maple Heart Associates 228 - Stenosis Mapping,Closed Lost,Stenosis Mapping,19800.0,2025-04-28,2025-09-18,True,False
+O00612,A0145,Mesa Imaging 145 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,68500.0,2025-10-09,2025-12-20,True,False
+O00613,A0046,Summit Medical Center 46 - Plaque Quantification,Closed Won,Plaque Quantification,33200.0,2025-06-08,2025-08-26,True,True
+O00614,A0241,Coastal Medical Center 241 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,50500.0,2026-04-03,2026-08-30,True,False
+O00615,A0067,Valley Heart Associates 67 - Stenosis Mapping,Closed Lost,Stenosis Mapping,25800.0,2025-11-03,2026-03-08,True,False
+O00616,A0121,Northgate Heart Associates 121 - Plaque Quantification,Evaluation,Plaque Quantification,74500.0,2026-06-21,2026-11-21,False,False
+O00617,A0238,Cedar Heart Associates 238 - Stenosis Mapping,Closed Lost,Stenosis Mapping,18000.0,2025-12-05,2026-04-07,True,False
+O00618,A0024,Granite Heart Associates 24 - Stenosis Mapping,Closed Lost,Stenosis Mapping,28900.0,2024-09-23,2025-01-05,True,False
+O00619,A0251,Mesa Imaging 251 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34600.0,2025-09-15,2026-01-26,True,False
+O00620,A0279,Granite Heart Associates 279 - Plaque Quantification,Closed Won,Plaque Quantification,50900.0,2025-01-05,2025-05-08,True,True
+O00621,A0210,Bayside Medical Center 210 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,57900.0,2024-05-31,2024-11-01,True,False
+O00622,A0047,Pioneer Medical Center 47 - Stenosis Mapping,Closed Lost,Stenosis Mapping,33700.0,2026-04-21,2026-08-03,True,False
+O00623,A0234,Coastal Heart Associates 234 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,71500.0,2025-05-10,2025-07-20,True,True
+O00624,A0062,Pioneer Medical Center 62 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,60700.0,2025-10-08,2025-11-14,True,False
+O00625,A0048,Coastal Medical Center 48 - Stenosis Mapping,Proposal,Stenosis Mapping,43000.0,2026-08-22,2026-10-29,False,False
+O00626,A0253,Riverside Imaging 253 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,69500.0,2026-06-18,2026-10-11,False,False
+O00627,A0019,Pioneer Heart Associates 19 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,70500.0,2025-03-10,2025-09-05,True,True
+O00628,A0129,Northgate Heart Associates 129 - Plaque Quantification,Closed Lost,Plaque Quantification,40000.0,2026-05-25,2026-09-27,True,False
+O00629,A0231,Lakeview Imaging 231 - Stenosis Mapping,Closed Lost,Stenosis Mapping,30900.0,2025-06-08,2025-09-28,True,False
+O00630,A0217,Cedar Medical Center 217 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,69500.0,2024-11-22,2025-04-22,True,False
+O00631,A0281,Lakeview Imaging 281 - Stenosis Mapping,Closed Lost,Stenosis Mapping,42900.0,2025-11-06,2026-04-03,True,False
+O00632,A0125,Mesa Imaging 125 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,50500.0,2025-06-20,2025-11-04,True,True
+O00633,A0206,Valley Heart Associates 206 - Stenosis Mapping,Closed Lost,Stenosis Mapping,30700.0,2025-01-02,2025-03-26,True,False
+O00634,A0205,Union Medical Center 205 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,40900.0,2025-12-26,2026-01-31,True,False
+O00635,A0288,Harbor Imaging 288 - Stenosis Mapping,Closed Won,Stenosis Mapping,41600.0,2026-03-31,2026-07-16,True,True
+O00636,A0071,Lakeview Medical Center 71 - Stenosis Mapping,Closed Lost,Stenosis Mapping,45200.0,2025-11-25,2026-05-15,True,False
+O00637,A0111,Harbor Imaging 111 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,71300.0,2025-02-27,2025-05-25,True,False
+O00638,A0242,Union Heart Associates 242 - Stenosis Mapping,Closed Won,Stenosis Mapping,39800.0,2025-08-16,2025-09-17,True,True
+O00639,A0141,Coastal Heart Associates 141 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,66900.0,2025-06-04,2025-08-06,True,True
+O00640,A0285,Union Medical Center 285 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,32200.0,2024-09-29,2024-11-22,True,False
+O00641,A0187,Granite Heart Associates 187 - Plaque Quantification,Closed Won,Plaque Quantification,31300.0,2026-01-09,2026-03-04,True,True
+O00642,A0034,Coastal Medical Center 34 - Stenosis Mapping,Closed Lost,Stenosis Mapping,30700.0,2025-04-14,2025-06-14,True,False
+O00643,A0001,Harbor Imaging 1 - Plaque Quantification,Closed Lost,Plaque Quantification,53100.0,2025-05-16,2025-08-07,True,False
+O00644,A0216,Lakeview Heart Associates 216 - Plaque Quantification,Closed Won,Plaque Quantification,26300.0,2025-06-25,2025-09-05,True,True
+O00645,A0293,Union Imaging 293 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,59300.0,2026-08-05,2027-01-07,False,False
+O00646,A0154,Northgate Heart Associates 154 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,64500.0,2026-07-29,2026-12-06,False,False
+O00647,A0155,Prairie Medical Center 155 - Plaque Quantification,Proposal,Plaque Quantification,35600.0,2026-08-31,2027-02-20,False,False
+O00648,A0012,Summit Medical Center 12 - Stenosis Mapping,Closed Won,Stenosis Mapping,37300.0,2026-07-17,2026-09-05,True,True
+O00649,A0221,Valley Heart Associates 221 - Plaque Quantification,Closed Lost,Plaque Quantification,57900.0,2026-05-16,2026-09-29,True,False
+O00650,A0030,Northgate Heart Associates 30 - Plaque Quantification,Closed Lost,Plaque Quantification,62600.0,2025-11-20,2026-05-02,True,False
+O00651,A0048,Coastal Medical Center 48 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34400.0,2025-07-07,2025-10-16,True,False
+O00652,A0166,Lakeview Heart Associates 166 - Stenosis Mapping,Closed Lost,Stenosis Mapping,42500.0,2024-12-07,2025-02-21,True,False
+O00653,A0117,Valley Medical Center 117 - Stenosis Mapping,Closed Won,Stenosis Mapping,26500.0,2026-04-08,2026-07-12,True,True
+O00654,A0053,Harbor Heart Associates 53 - Stenosis Mapping,Closed Won,Stenosis Mapping,47500.0,2025-12-21,2026-06-08,True,True
+O00655,A0075,Union Medical Center 75 - Stenosis Mapping,Prospecting,Stenosis Mapping,32200.0,2026-05-07,2026-10-09,False,False
+O00656,A0042,Cedar Imaging 42 - Stenosis Mapping,Closed Lost,Stenosis Mapping,37600.0,2026-02-22,2026-07-21,True,False
+O00657,A0176,Northgate Medical Center 176 - Stenosis Mapping,Closed Won,Stenosis Mapping,34200.0,2025-08-25,2025-10-04,True,True
+O00658,A0080,Maple Heart Associates 80 - Stenosis Mapping,Closed Won,Stenosis Mapping,40200.0,2025-12-15,2026-05-14,True,True
+O00659,A0028,Harbor Medical Center 28 - Plaque Quantification,Closed Won,Plaque Quantification,46000.0,2025-04-26,2025-07-13,True,True
+O00660,A0183,Lakeview Imaging 183 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,53900.0,2025-04-11,2025-08-31,True,False
+O00661,A0028,Harbor Medical Center 28 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,42200.0,2025-09-22,2025-12-11,True,False
+O00662,A0288,Harbor Imaging 288 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,66300.0,2025-03-21,2025-04-27,True,False
+O00663,A0179,Pioneer Imaging 179 - Plaque Quantification,Closed Won,Plaque Quantification,45200.0,2025-05-08,2025-06-15,True,True
+O00664,A0119,Cedar Imaging 119 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,40800.0,2025-11-23,2026-05-21,True,True
+O00665,A0083,Valley Heart Associates 83 - Stenosis Mapping,Closed Lost,Stenosis Mapping,37800.0,2025-11-21,2026-03-31,True,False
+O00666,A0048,Coastal Medical Center 48 - Stenosis Mapping,Prospecting,Stenosis Mapping,30700.0,2026-08-31,2026-12-25,False,False
+O00667,A0216,Lakeview Heart Associates 216 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,48700.0,2025-09-30,2025-11-10,True,True
+O00668,A0196,Pioneer Medical Center 196 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,56100.0,2026-03-26,2026-07-08,True,False
+O00669,A0179,Pioneer Imaging 179 - Stenosis Mapping,Closed Won,Stenosis Mapping,14500.0,2025-04-08,2025-08-03,True,True
+O00670,A0066,Coastal Medical Center 66 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,39500.0,2026-04-16,2026-06-18,True,False
+O00671,A0142,Prairie Medical Center 142 - Plaque Quantification,Evaluation,Plaque Quantification,52200.0,2026-07-22,2027-01-15,False,False
+O00672,A0127,Cedar Medical Center 127 - Plaque Quantification,Closed Won,Plaque Quantification,26800.0,2025-05-03,2025-06-03,True,True
+O00673,A0072,Mesa Heart Associates 72 - Plaque Quantification,Closed Won,Plaque Quantification,33300.0,2025-10-26,2026-03-13,True,True
+O00674,A0102,Cedar Medical Center 102 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,52900.0,2025-09-01,2026-02-20,True,True
+O00675,A0256,Coastal Imaging 256 - Stenosis Mapping,Closed Won,Stenosis Mapping,32200.0,2025-12-15,2026-01-23,True,True
+O00676,A0149,Northgate Heart Associates 149 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,64800.0,2026-04-08,2026-06-20,True,True
+O00677,A0080,Maple Heart Associates 80 - Stenosis Mapping,Closed Lost,Stenosis Mapping,35100.0,2025-04-06,2025-07-09,True,False
+O00678,A0170,Lakeview Imaging 170 - Plaque Quantification,Closed Lost,Plaque Quantification,28900.0,2025-07-31,2026-01-22,True,False
+O00679,A0027,Pioneer Imaging 27 - Plaque Quantification,Closed Lost,Plaque Quantification,49000.0,2024-09-04,2024-12-05,True,False
+O00680,A0095,Valley Medical Center 95 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,63100.0,2026-08-08,2026-11-11,False,False
+O00681,A0181,Summit Heart Associates 181 - Stenosis Mapping,Closed Lost,Stenosis Mapping,48000.0,2026-02-25,2026-08-10,True,False
+O00682,A0232,Riverside Imaging 232 - Stenosis Mapping,Closed Won,Stenosis Mapping,36700.0,2025-08-17,2025-12-07,True,True
+O00683,A0197,Northgate Imaging 197 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,79600.0,2026-04-04,2026-09-08,True,True
+O00684,A0269,Summit Medical Center 269 - Stenosis Mapping,Closed Won,Stenosis Mapping,28600.0,2025-11-16,2026-04-08,True,True
+O00685,A0226,Mesa Imaging 226 - Stenosis Mapping,Closed Won,Stenosis Mapping,35200.0,2025-10-01,2025-12-09,True,True
+O00686,A0025,Riverside Heart Associates 25 - Plaque Quantification,Closed Lost,Plaque Quantification,37900.0,2026-01-02,2026-06-24,True,False
+O00687,A0148,Lakeview Heart Associates 148 - Stenosis Mapping,Closed Lost,Stenosis Mapping,39500.0,2026-01-06,2026-06-10,True,False
+O00688,A0094,Pioneer Heart Associates 94 - Plaque Quantification,Closed Lost,Plaque Quantification,33800.0,2024-05-01,2024-07-29,True,False
+O00689,A0223,Pioneer Heart Associates 223 - Plaque Quantification,Closed Lost,Plaque Quantification,27400.0,2026-03-31,2026-05-24,True,False
+O00690,A0041,Riverside Heart Associates 41 - Plaque Quantification,Closed Lost,Plaque Quantification,37500.0,2025-10-20,2025-12-31,True,False
+O00691,A0265,Union Medical Center 265 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,71200.0,2026-05-24,2026-08-21,True,False
+O00692,A0300,Union Imaging 300 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,54600.0,2025-01-11,2025-02-14,True,False
+O00693,A0131,Lakeview Imaging 131 - Stenosis Mapping,Closed Lost,Stenosis Mapping,25200.0,2024-07-08,2024-08-30,True,False
+O00694,A0101,Prairie Medical Center 101 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,64300.0,2025-01-15,2025-06-04,True,True
+O00695,A0265,Union Medical Center 265 - Plaque Quantification,Closed Lost,Plaque Quantification,51800.0,2025-09-22,2026-01-11,True,False
+O00696,A0202,Union Imaging 202 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,50300.0,2025-10-25,2025-12-09,True,False
+O00697,A0132,Granite Heart Associates 132 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,64100.0,2024-08-26,2024-10-28,True,True
+O00698,A0045,Union Medical Center 45 - Stenosis Mapping,Closed Lost,Stenosis Mapping,32200.0,2025-07-28,2025-12-08,True,False
+O00699,A0177,Pioneer Imaging 177 - Stenosis Mapping,Closed Won,Stenosis Mapping,38200.0,2025-03-24,2025-07-16,True,True
+O00700,A0203,Lakeview Medical Center 203 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,62600.0,2026-08-22,2027-01-06,False,False
+O00701,A0219,Lakeview Heart Associates 219 - Stenosis Mapping,Closed Lost,Stenosis Mapping,32200.0,2025-10-07,2025-12-23,True,False
+O00702,A0097,Coastal Imaging 97 - Stenosis Mapping,Closed Won,Stenosis Mapping,23100.0,2025-07-24,2025-10-13,True,True
+O00703,A0231,Lakeview Imaging 231 - Stenosis Mapping,Qualification,Stenosis Mapping,26600.0,2026-07-17,2027-01-08,False,False
+O00704,A0211,Lakeview Imaging 211 - Plaque Quantification,Closed Lost,Plaque Quantification,47200.0,2025-08-12,2026-01-09,True,False
+O00705,A0127,Cedar Medical Center 127 - Plaque Quantification,Closed Lost,Plaque Quantification,51700.0,2025-12-04,2026-01-26,True,False
+O00706,A0169,Pioneer Medical Center 169 - Plaque Quantification,Closed Lost,Plaque Quantification,44800.0,2025-06-14,2025-11-28,True,False
+O00707,A0016,Harbor Medical Center 16 - Stenosis Mapping,Closed Lost,Stenosis Mapping,33700.0,2025-01-31,2025-05-18,True,False
+O00708,A0038,Pioneer Heart Associates 38 - Stenosis Mapping,Closed Lost,Stenosis Mapping,33700.0,2024-09-30,2025-03-08,True,False
+O00709,A0191,Cedar Medical Center 191 - Stenosis Mapping,Closed Won,Stenosis Mapping,35500.0,2025-04-16,2025-08-03,True,True
+O00710,A0154,Northgate Heart Associates 154 - Stenosis Mapping,Closed Won,Stenosis Mapping,30300.0,2026-03-10,2026-05-17,True,True
+O00711,A0236,Bayside Heart Associates 236 - Stenosis Mapping,Closed Won,Stenosis Mapping,31600.0,2025-07-03,2025-10-03,True,True
+O00712,A0099,Maple Medical Center 99 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34100.0,2025-07-26,2025-11-04,True,False
+O00713,A0124,Valley Medical Center 124 - Plaque Quantification,Closed Lost,Plaque Quantification,37900.0,2024-06-22,2024-08-01,True,False
+O00714,A0200,Prairie Heart Associates 200 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34300.0,2025-11-18,2026-01-29,True,False
+O00715,A0050,Valley Imaging 50 - Stenosis Mapping,Closed Won,Stenosis Mapping,33600.0,2024-08-22,2024-10-28,True,True
+O00716,A0120,Mesa Imaging 120 - Stenosis Mapping,Closed Lost,Stenosis Mapping,27800.0,2026-01-15,2026-04-24,True,False
+O00717,A0091,Pioneer Heart Associates 91 - Plaque Quantification,Closed Lost,Plaque Quantification,39300.0,2024-11-05,2025-01-18,True,False
+O00718,A0104,Northgate Imaging 104 - Stenosis Mapping,Closed Lost,Stenosis Mapping,31800.0,2025-11-27,2026-05-24,True,False
+O00719,A0056,Harbor Medical Center 56 - Plaque Quantification,Closed Lost,Plaque Quantification,25700.0,2026-06-30,2026-08-18,True,False
+O00720,A0147,Granite Medical Center 147 - Plaque Quantification,Proposal,Plaque Quantification,45700.0,2026-08-23,2027-01-21,False,False
+O00721,A0032,Mesa Imaging 32 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,33500.0,2025-04-02,2025-09-22,True,True
+O00722,A0148,Lakeview Heart Associates 148 - Plaque Quantification,Closed Won,Plaque Quantification,42500.0,2025-10-22,2026-02-20,True,True
+O00723,A0251,Mesa Imaging 251 - Plaque Quantification,Closed Won,Plaque Quantification,65800.0,2024-11-02,2024-12-16,True,True
+O00724,A0266,Lakeview Medical Center 266 - Plaque Quantification,Closed Won,Plaque Quantification,59400.0,2026-01-28,2026-03-09,True,True
+O00725,A0242,Union Heart Associates 242 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,68400.0,2026-06-02,2026-11-17,False,False
+O00726,A0205,Union Medical Center 205 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,47900.0,2025-11-08,2026-02-13,True,True
+O00727,A0072,Mesa Heart Associates 72 - Stenosis Mapping,Closed Won,Stenosis Mapping,28800.0,2025-03-06,2025-06-11,True,True
+O00728,A0026,Lakeview Imaging 26 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,45000.0,2025-08-13,2025-12-23,True,True
+O00729,A0077,Harbor Imaging 77 - Plaque Quantification,Closed Won,Plaque Quantification,56400.0,2026-04-07,2026-06-03,True,True
+O00730,A0150,Northgate Medical Center 150 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,75300.0,2026-06-28,2026-08-29,True,False
+O00731,A0267,Bayside Medical Center 267 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,44200.0,2026-08-23,2026-12-15,False,False
+O00732,A0077,Harbor Imaging 77 - Plaque Quantification,Closed Lost,Plaque Quantification,33600.0,2025-11-21,2026-03-01,True,False
+O00733,A0220,Prairie Medical Center 220 - Stenosis Mapping,Closed Lost,Stenosis Mapping,33200.0,2024-07-19,2024-10-30,True,False
+O00734,A0116,Harbor Medical Center 116 - Stenosis Mapping,Closed Lost,Stenosis Mapping,18900.0,2026-01-25,2026-05-30,True,False
+O00735,A0235,Maple Medical Center 235 - Stenosis Mapping,Closed Won,Stenosis Mapping,19800.0,2025-08-29,2025-12-16,True,True
+O00736,A0216,Lakeview Heart Associates 216 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,47400.0,2024-06-17,2024-12-11,True,False
+O00737,A0059,Prairie Medical Center 59 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,80100.0,2025-06-04,2025-07-27,True,False
+O00738,A0057,Pioneer Medical Center 57 - Plaque Quantification,Closed Lost,Plaque Quantification,30100.0,2025-10-02,2026-03-08,True,False
+O00739,A0010,Granite Heart Associates 10 - Plaque Quantification,Closed Lost,Plaque Quantification,48400.0,2025-12-16,2026-04-12,True,False
+O00740,A0288,Harbor Imaging 288 - Stenosis Mapping,Proposal,Stenosis Mapping,34200.0,2026-06-05,2026-11-22,False,False
+O00741,A0096,Granite Medical Center 96 - Stenosis Mapping,Closed Lost,Stenosis Mapping,35600.0,2025-06-22,2025-11-22,True,False
+O00742,A0153,Prairie Imaging 153 - Plaque Quantification,Closed Lost,Plaque Quantification,33000.0,2026-03-22,2026-07-02,True,False
+O00743,A0028,Harbor Medical Center 28 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,28500.0,2026-07-05,2026-08-10,True,False
+O00744,A0270,Bayside Imaging 270 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,38700.0,2025-11-19,2026-04-03,True,True
+O00745,A0039,Union Medical Center 39 - Stenosis Mapping,Closed Lost,Stenosis Mapping,38500.0,2026-05-11,2026-06-29,True,False
+O00746,A0272,Coastal Imaging 272 - Plaque Quantification,Evaluation,Plaque Quantification,56300.0,2026-09-18,2026-11-19,False,False
+O00747,A0299,Riverside Medical Center 299 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,79200.0,2025-02-25,2025-05-05,True,True
+O00748,A0020,Harbor Imaging 20 - Stenosis Mapping,Closed Lost,Stenosis Mapping,17100.0,2026-05-24,2026-08-24,True,False
+O00749,A0121,Northgate Heart Associates 121 - Plaque Quantification,Closed Lost,Plaque Quantification,51100.0,2026-05-17,2026-07-31,True,False
+O00750,A0207,Riverside Medical Center 207 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,56100.0,2026-09-19,2026-12-05,False,False
+O00751,A0061,Coastal Medical Center 61 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,54800.0,2025-09-10,2026-01-01,True,True
+O00752,A0005,Lakeview Imaging 5 - Stenosis Mapping,Closed Lost,Stenosis Mapping,33800.0,2024-03-14,2024-06-30,True,False
+O00753,A0236,Bayside Heart Associates 236 - Plaque Quantification,Closed Lost,Plaque Quantification,58600.0,2025-10-09,2025-11-08,True,False
+O00754,A0245,Pioneer Heart Associates 245 - Plaque Quantification,Closed Lost,Plaque Quantification,63300.0,2024-10-08,2025-03-15,True,False
+O00755,A0272,Coastal Imaging 272 - Stenosis Mapping,Closed Won,Stenosis Mapping,29000.0,2024-03-28,2024-07-29,True,True
+O00756,A0268,Maple Imaging 268 - Stenosis Mapping,Closed Lost,Stenosis Mapping,29200.0,2025-05-18,2025-06-25,True,False
+O00757,A0070,Bayside Imaging 70 - Plaque Quantification,Closed Lost,Plaque Quantification,34200.0,2026-08-09,2026-09-23,True,False
+O00758,A0263,Bayside Medical Center 263 - Stenosis Mapping,Closed Won,Stenosis Mapping,36800.0,2025-07-15,2025-12-18,True,True
+O00759,A0287,Granite Heart Associates 287 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,60500.0,2026-04-11,2026-07-27,True,False
+O00760,A0006,Maple Heart Associates 6 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,44300.0,2026-02-25,2026-06-20,True,True
+O00761,A0104,Northgate Imaging 104 - Plaque Quantification,Evaluation,Plaque Quantification,47400.0,2026-09-15,2027-02-07,False,False
+O00762,A0264,Cedar Medical Center 264 - Stenosis Mapping,Closed Won,Stenosis Mapping,32700.0,2026-04-12,2026-08-04,True,True
+O00763,A0055,Prairie Imaging 55 - Stenosis Mapping,Closed Lost,Stenosis Mapping,28100.0,2024-09-08,2024-12-21,True,False
+O00764,A0268,Maple Imaging 268 - Stenosis Mapping,Closed Lost,Stenosis Mapping,48200.0,2025-05-12,2025-09-24,True,False
+O00765,A0146,Bayside Imaging 146 - Plaque Quantification,Closed Lost,Plaque Quantification,39700.0,2025-10-16,2026-04-04,True,False
+O00766,A0198,Cedar Medical Center 198 - Stenosis Mapping,Closed Won,Stenosis Mapping,28000.0,2025-06-18,2025-11-12,True,True
+O00767,A0177,Pioneer Imaging 177 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,40900.0,2024-10-24,2025-04-04,True,False
+O00768,A0036,Maple Imaging 36 - Plaque Quantification,Closed Lost,Plaque Quantification,49400.0,2026-05-10,2026-07-10,True,False
+O00769,A0051,Northgate Medical Center 51 - Plaque Quantification,Prospecting,Plaque Quantification,42300.0,2026-08-12,2026-10-15,False,False
+O00770,A0233,Pioneer Imaging 233 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,21900.0,2025-12-10,2026-02-11,True,False
+O00771,A0154,Northgate Heart Associates 154 - Plaque Quantification,Closed Won,Plaque Quantification,64000.0,2026-04-05,2026-06-19,True,True
+O00772,A0045,Union Medical Center 45 - Stenosis Mapping,Closed Lost,Stenosis Mapping,38600.0,2025-12-03,2026-02-01,True,False
+O00773,A0075,Union Medical Center 75 - Stenosis Mapping,Closed Lost,Stenosis Mapping,46200.0,2025-04-25,2025-07-18,True,False
+O00774,A0133,Pioneer Medical Center 133 - Plaque Quantification,Closed Lost,Plaque Quantification,37600.0,2025-10-02,2025-11-24,True,False
+O00775,A0234,Coastal Heart Associates 234 - Plaque Quantification,Closed Won,Plaque Quantification,57300.0,2026-01-15,2026-02-16,True,True
+O00776,A0272,Coastal Imaging 272 - Stenosis Mapping,Closed Won,Stenosis Mapping,35000.0,2025-07-22,2026-01-06,True,True
+O00777,A0227,Union Imaging 227 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,24300.0,2026-05-05,2026-07-30,True,True
+O00778,A0068,Mesa Imaging 68 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,65600.0,2026-01-19,2026-03-28,True,False
+O00779,A0282,Union Medical Center 282 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,69200.0,2025-12-07,2026-01-06,True,False
+O00780,A0194,Riverside Heart Associates 194 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,49300.0,2026-02-14,2026-06-16,True,True
+O00781,A0077,Harbor Imaging 77 - Stenosis Mapping,Closed Won,Stenosis Mapping,26800.0,2026-04-30,2026-06-27,True,True
+O00782,A0086,Cedar Imaging 86 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,68500.0,2026-09-02,2026-11-17,False,False
+O00783,A0271,Pioneer Medical Center 271 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,82900.0,2025-05-29,2025-10-18,True,False
+O00784,A0173,Summit Heart Associates 173 - Stenosis Mapping,Closed Won,Stenosis Mapping,36300.0,2025-08-03,2025-10-18,True,True
+O00785,A0089,Pioneer Heart Associates 89 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,29400.0,2025-06-18,2025-08-10,True,False
+O00786,A0264,Cedar Medical Center 264 - Plaque Quantification,Closed Lost,Plaque Quantification,38700.0,2025-04-17,2025-08-28,True,False
+O00787,A0115,Cedar Medical Center 115 - Plaque Quantification,Closed Lost,Plaque Quantification,49600.0,2024-09-01,2024-10-20,True,False
+O00788,A0253,Riverside Imaging 253 - Plaque Quantification,Closed Won,Plaque Quantification,46000.0,2025-12-31,2026-03-20,True,True
+O00789,A0159,Bayside Imaging 159 - Plaque Quantification,Closed Lost,Plaque Quantification,54500.0,2025-10-23,2026-01-07,True,False
+O00790,A0014,Granite Medical Center 14 - Stenosis Mapping,Closed Lost,Stenosis Mapping,38100.0,2025-10-15,2026-01-07,True,False
+O00791,A0099,Maple Medical Center 99 - Plaque Quantification,Closed Lost,Plaque Quantification,20400.0,2024-11-13,2025-03-12,True,False
+O00792,A0050,Valley Imaging 50 - Plaque Quantification,Closed Won,Plaque Quantification,43500.0,2025-01-28,2025-03-13,True,True
+O00793,A0272,Coastal Imaging 272 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,43000.0,2024-03-27,2024-09-14,True,False
+O00794,A0149,Northgate Heart Associates 149 - Plaque Quantification,Closed Lost,Plaque Quantification,28000.0,2025-10-29,2026-03-05,True,False
+O00795,A0249,Union Medical Center 249 - Plaque Quantification,Closed Won,Plaque Quantification,66900.0,2025-11-29,2026-05-09,True,True
+O00796,A0238,Cedar Heart Associates 238 - Stenosis Mapping,Closed Won,Stenosis Mapping,41300.0,2024-10-17,2025-01-04,True,True
+O00797,A0233,Pioneer Imaging 233 - Plaque Quantification,Closed Lost,Plaque Quantification,26700.0,2026-03-15,2026-09-11,True,False
+O00798,A0158,Maple Heart Associates 158 - Plaque Quantification,Closed Won,Plaque Quantification,32900.0,2025-02-21,2025-03-23,True,True
+O00799,A0082,Maple Imaging 82 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,61000.0,2025-09-05,2025-11-07,True,False
+O00800,A0257,Prairie Heart Associates 257 - Plaque Quantification,Closed Lost,Plaque Quantification,44500.0,2025-07-28,2025-12-21,True,False
+O00801,A0186,Cedar Imaging 186 - Stenosis Mapping,Closed Won,Stenosis Mapping,34300.0,2025-12-15,2026-05-13,True,True
+O00802,A0124,Valley Medical Center 124 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,59200.0,2025-02-19,2025-07-12,True,False
+O00803,A0177,Pioneer Imaging 177 - Plaque Quantification,Closed Won,Plaque Quantification,53400.0,2024-05-19,2024-09-15,True,True
+O00804,A0035,Valley Medical Center 35 - Plaque Quantification,Closed Won,Plaque Quantification,58900.0,2025-02-25,2025-06-28,True,True
+O00805,A0229,Cedar Medical Center 229 - Stenosis Mapping,Closed Lost,Stenosis Mapping,45100.0,2025-12-27,2026-06-19,True,False
+O00806,A0233,Pioneer Imaging 233 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,44900.0,2026-03-25,2026-05-01,True,False
+O00807,A0218,Harbor Imaging 218 - Plaque Quantification,Closed Won,Plaque Quantification,42900.0,2025-12-22,2026-05-02,True,True
+O00808,A0232,Riverside Imaging 232 - Plaque Quantification,Closed Won,Plaque Quantification,50900.0,2026-01-01,2026-04-16,True,True
+O00809,A0151,Mesa Medical Center 151 - Stenosis Mapping,Prospecting,Stenosis Mapping,51700.0,2026-06-13,2026-10-27,False,False
+O00810,A0277,Lakeview Heart Associates 277 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,39000.0,2024-11-26,2024-12-30,True,False
+O00811,A0044,Lakeview Medical Center 44 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34700.0,2026-04-05,2026-06-15,True,False
+O00812,A0038,Pioneer Heart Associates 38 - Plaque Quantification,Closed Won,Plaque Quantification,49800.0,2025-07-27,2025-10-07,True,True
+O00813,A0071,Lakeview Medical Center 71 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,48500.0,2026-02-14,2026-06-26,True,True
+O00814,A0259,Summit Heart Associates 259 - Plaque Quantification,Closed Won,Plaque Quantification,51600.0,2026-03-15,2026-08-01,True,True
+O00815,A0195,Union Heart Associates 195 - Plaque Quantification,Prospecting,Plaque Quantification,38500.0,2026-09-20,2026-11-25,False,False
+O00816,A0083,Valley Heart Associates 83 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,76300.0,2025-05-01,2025-08-24,True,False
+O00817,A0199,Summit Medical Center 199 - Stenosis Mapping,Closed Won,Stenosis Mapping,34900.0,2025-09-06,2026-02-22,True,True
+O00818,A0173,Summit Heart Associates 173 - Plaque Quantification,Closed Lost,Plaque Quantification,48400.0,2025-06-24,2025-11-07,True,False
+O00819,A0110,Northgate Imaging 110 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,73300.0,2026-04-28,2026-10-13,False,False
+O00820,A0178,Granite Medical Center 178 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,52300.0,2026-05-23,2026-10-02,False,False
+O00821,A0238,Cedar Heart Associates 238 - Plaque Quantification,Proposal,Plaque Quantification,47400.0,2026-09-02,2027-01-11,False,False
+O00822,A0022,Cedar Imaging 22 - Stenosis Mapping,Closed Lost,Stenosis Mapping,35500.0,2025-04-17,2025-10-01,True,False
+O00823,A0256,Coastal Imaging 256 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,66400.0,2026-08-08,2026-11-21,False,False
+O00824,A0219,Lakeview Heart Associates 219 - Stenosis Mapping,Closed Lost,Stenosis Mapping,28600.0,2025-02-27,2025-04-17,True,False
+O00825,A0294,Summit Imaging 294 - Plaque Quantification,Closed Lost,Plaque Quantification,39600.0,2026-01-15,2026-02-15,True,False
+O00826,A0120,Mesa Imaging 120 - Stenosis Mapping,Proposal,Stenosis Mapping,30600.0,2026-09-11,2026-12-05,False,False
+O00827,A0224,Lakeview Medical Center 224 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,72000.0,2026-08-07,2027-01-13,False,False
+O00828,A0066,Coastal Medical Center 66 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,71200.0,2026-09-13,2026-11-05,False,False
+O00829,A0023,Mesa Heart Associates 23 - Plaque Quantification,Closed Won,Plaque Quantification,42000.0,2026-05-22,2026-08-30,True,True
+O00830,A0175,Valley Imaging 175 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,61400.0,2025-09-03,2025-12-24,True,False
+O00831,A0085,Lakeview Imaging 85 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,55700.0,2026-01-06,2026-06-26,True,False
+O00832,A0152,Riverside Medical Center 152 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,44200.0,2025-09-26,2026-01-28,True,False
+O00833,A0144,Bayside Imaging 144 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,75600.0,2025-11-23,2026-02-01,True,True
+O00834,A0188,Maple Medical Center 188 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,49400.0,2025-10-31,2026-01-09,True,False
+O00835,A0256,Coastal Imaging 256 - Stenosis Mapping,Closed Won,Stenosis Mapping,50700.0,2025-11-05,2026-03-19,True,True
+O00836,A0165,Bayside Medical Center 165 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,46300.0,2025-01-24,2025-02-23,True,False
+O00837,A0105,Mesa Medical Center 105 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,75900.0,2025-12-17,2026-06-15,True,False
+O00838,A0226,Mesa Imaging 226 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,68500.0,2026-05-31,2026-09-08,True,False
+O00839,A0136,Coastal Imaging 136 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,78600.0,2026-06-19,2026-08-06,True,False
+O00840,A0123,Mesa Imaging 123 - Plaque Quantification,Closed Lost,Plaque Quantification,37400.0,2024-08-15,2024-09-30,True,False
+O00841,A0087,Pioneer Medical Center 87 - Plaque Quantification,Closed Lost,Plaque Quantification,63300.0,2026-04-12,2026-09-27,True,False
+O00842,A0132,Granite Heart Associates 132 - Stenosis Mapping,Closed Lost,Stenosis Mapping,24000.0,2024-07-15,2024-10-14,True,False
+O00843,A0118,Harbor Heart Associates 118 - Plaque Quantification,Closed Won,Plaque Quantification,36700.0,2026-05-11,2026-07-21,True,True
+O00844,A0298,Coastal Heart Associates 298 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,61800.0,2026-07-02,2026-09-12,True,False
+O00845,A0012,Summit Medical Center 12 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,66700.0,2025-11-24,2026-01-12,True,True
+O00846,A0103,Northgate Imaging 103 - Plaque Quantification,Closed Lost,Plaque Quantification,29900.0,2026-03-04,2026-07-23,True,False
+O00847,A0008,Cedar Medical Center 8 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,65400.0,2025-01-13,2025-04-21,True,False
+O00848,A0002,Maple Heart Associates 2 - Stenosis Mapping,Closed Lost,Stenosis Mapping,41700.0,2026-01-20,2026-03-27,True,False
+O00849,A0129,Northgate Heart Associates 129 - Stenosis Mapping,Closed Lost,Stenosis Mapping,46300.0,2025-06-17,2025-10-25,True,False
+O00850,A0072,Mesa Heart Associates 72 - Stenosis Mapping,Evaluation,Stenosis Mapping,48100.0,2026-07-15,2026-12-09,False,False
+O00851,A0294,Summit Imaging 294 - Plaque Quantification,Closed Won,Plaque Quantification,54500.0,2026-01-19,2026-06-30,True,True
+O00852,A0113,Maple Imaging 113 - Plaque Quantification,Closed Won,Plaque Quantification,53500.0,2025-10-07,2026-01-20,True,True
+O00853,A0129,Northgate Heart Associates 129 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,77700.0,2025-12-05,2026-03-10,True,False
+O00854,A0271,Pioneer Medical Center 271 - Plaque Quantification,Closed Lost,Plaque Quantification,44400.0,2025-05-08,2025-08-09,True,False
+O00855,A0178,Granite Medical Center 178 - Stenosis Mapping,Closed Won,Stenosis Mapping,25700.0,2026-02-24,2026-04-23,True,True
+O00856,A0163,Maple Imaging 163 - Plaque Quantification,Closed Lost,Plaque Quantification,46100.0,2025-10-10,2026-03-04,True,False
+O00857,A0101,Prairie Medical Center 101 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,51700.0,2025-10-13,2026-03-08,True,True
+O00858,A0124,Valley Medical Center 124 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,101000.0,2025-03-10,2025-07-14,True,False
+O00859,A0072,Mesa Heart Associates 72 - Plaque Quantification,Closed Won,Plaque Quantification,45800.0,2026-03-13,2026-05-10,True,True
+O00860,A0015,Northgate Imaging 15 - Stenosis Mapping,Closed Lost,Stenosis Mapping,30300.0,2025-10-29,2025-11-30,True,False
+O00861,A0068,Mesa Imaging 68 - Stenosis Mapping,Closed Lost,Stenosis Mapping,19600.0,2025-01-19,2025-03-24,True,False
+O00862,A0011,Prairie Medical Center 11 - Stenosis Mapping,Prospecting,Stenosis Mapping,24700.0,2026-07-13,2026-12-28,False,False
+O00863,A0075,Union Medical Center 75 - Stenosis Mapping,Closed Lost,Stenosis Mapping,25900.0,2025-04-14,2025-07-07,True,False
+O00864,A0064,Harbor Imaging 64 - Stenosis Mapping,Closed Lost,Stenosis Mapping,29600.0,2025-09-07,2025-12-08,True,False
+O00865,A0275,Harbor Imaging 275 - Plaque Quantification,Closed Lost,Plaque Quantification,35600.0,2024-11-29,2025-03-14,True,False
+O00866,A0249,Union Medical Center 249 - Stenosis Mapping,Closed Won,Stenosis Mapping,32900.0,2024-11-09,2025-02-13,True,True
+O00867,A0026,Lakeview Imaging 26 - Stenosis Mapping,Closed Lost,Stenosis Mapping,31100.0,2026-05-28,2026-07-29,True,False
+O00868,A0078,Northgate Medical Center 78 - Stenosis Mapping,Closed Lost,Stenosis Mapping,35600.0,2026-03-13,2026-04-12,True,False
+O00869,A0237,Maple Imaging 237 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,54600.0,2025-05-24,2025-08-27,True,True
+O00870,A0232,Riverside Imaging 232 - Stenosis Mapping,Closed Lost,Stenosis Mapping,42700.0,2026-02-05,2026-04-22,True,False
+O00871,A0066,Coastal Medical Center 66 - Stenosis Mapping,Closed Lost,Stenosis Mapping,28100.0,2026-04-06,2026-09-29,True,False
+O00872,A0214,Mesa Imaging 214 - Plaque Quantification,Closed Lost,Plaque Quantification,51300.0,2025-08-25,2025-10-14,True,False
+O00873,A0245,Pioneer Heart Associates 245 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,65700.0,2026-03-26,2026-06-05,True,False
+O00874,A0070,Bayside Imaging 70 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,84200.0,2026-09-20,2026-11-17,False,False
+O00875,A0144,Bayside Imaging 144 - Stenosis Mapping,Evaluation,Stenosis Mapping,29600.0,2026-06-24,2026-10-17,False,False
+O00876,A0130,Mesa Imaging 130 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,37500.0,2026-03-23,2026-06-30,True,False
+O00877,A0024,Granite Heart Associates 24 - Stenosis Mapping,Closed Lost,Stenosis Mapping,37600.0,2026-02-18,2026-06-17,True,False
+O00878,A0054,Coastal Medical Center 54 - Stenosis Mapping,Closed Lost,Stenosis Mapping,38200.0,2024-12-05,2025-04-16,True,False
+O00879,A0198,Cedar Medical Center 198 - Stenosis Mapping,Closed Won,Stenosis Mapping,35100.0,2024-05-24,2024-06-25,True,True
+O00880,A0300,Union Imaging 300 - Stenosis Mapping,Qualification,Stenosis Mapping,37300.0,2026-07-16,2026-11-06,False,False
+O00881,A0215,Cedar Medical Center 215 - Stenosis Mapping,Closed Lost,Stenosis Mapping,31900.0,2025-11-13,2026-02-07,True,False
+O00882,A0212,Cedar Heart Associates 212 - Plaque Quantification,Closed Lost,Plaque Quantification,38700.0,2024-11-22,2025-05-18,True,False
+O00883,A0125,Mesa Imaging 125 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,84500.0,2025-10-24,2025-12-07,True,False
+O00884,A0090,Maple Heart Associates 90 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,62300.0,2025-06-04,2025-10-14,True,True
+O00885,A0248,Harbor Medical Center 248 - Plaque Quantification,Closed Lost,Plaque Quantification,41000.0,2025-12-20,2026-05-23,True,False
+O00886,A0047,Pioneer Medical Center 47 - Stenosis Mapping,Closed Lost,Stenosis Mapping,25700.0,2025-11-10,2026-03-24,True,False
+O00887,A0129,Northgate Heart Associates 129 - Stenosis Mapping,Closed Won,Stenosis Mapping,32400.0,2024-12-16,2025-02-01,True,True
+O00888,A0197,Northgate Imaging 197 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,59900.0,2024-08-27,2024-11-20,True,False
+O00889,A0220,Prairie Medical Center 220 - Plaque Quantification,Closed Lost,Plaque Quantification,44500.0,2024-04-29,2024-06-17,True,False
+O00890,A0285,Union Medical Center 285 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34300.0,2024-02-14,2024-06-06,True,False
+O00891,A0084,Lakeview Medical Center 84 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,41500.0,2025-05-17,2025-11-04,True,False
+O00892,A0233,Pioneer Imaging 233 - Stenosis Mapping,Closed Lost,Stenosis Mapping,37200.0,2025-12-08,2026-03-08,True,False
+O00893,A0072,Mesa Heart Associates 72 - Stenosis Mapping,Closed Lost,Stenosis Mapping,29700.0,2025-10-14,2026-02-01,True,False
+O00894,A0074,Maple Medical Center 74 - Plaque Quantification,Closed Won,Plaque Quantification,38900.0,2026-01-29,2026-04-13,True,True
+O00895,A0167,Harbor Medical Center 167 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,84100.0,2026-01-31,2026-07-14,True,True
+O00896,A0110,Northgate Imaging 110 - Plaque Quantification,Closed Lost,Plaque Quantification,56900.0,2025-11-01,2026-01-23,True,False
+O00897,A0103,Northgate Imaging 103 - Plaque Quantification,Closed Lost,Plaque Quantification,15200.0,2025-12-25,2026-02-09,True,False
+O00898,A0209,Valley Medical Center 209 - Plaque Quantification,Closed Won,Plaque Quantification,53000.0,2025-02-05,2025-05-17,True,True
+O00899,A0133,Pioneer Medical Center 133 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,60500.0,2025-12-19,2026-01-26,True,False
+O00900,A0067,Valley Heart Associates 67 - Plaque Quantification,Evaluation,Plaque Quantification,35400.0,2026-06-18,2026-11-02,False,False
+O00901,A0268,Maple Imaging 268 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,40200.0,2026-06-29,2026-12-08,False,False
+O00902,A0214,Mesa Imaging 214 - Stenosis Mapping,Prospecting,Stenosis Mapping,40100.0,2026-07-10,2026-10-25,False,False
+O00903,A0137,Union Heart Associates 137 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,58600.0,2026-06-20,2026-08-07,True,False
+O00904,A0273,Maple Heart Associates 273 - Plaque Quantification,Prospecting,Plaque Quantification,54500.0,2026-08-03,2026-10-20,False,False
+O00905,A0245,Pioneer Heart Associates 245 - Stenosis Mapping,Closed Lost,Stenosis Mapping,38600.0,2026-07-25,2026-09-08,True,False
+O00906,A0123,Mesa Imaging 123 - Plaque Quantification,Closed Lost,Plaque Quantification,39800.0,2025-01-04,2025-04-30,True,False
+O00907,A0264,Cedar Medical Center 264 - Plaque Quantification,Closed Lost,Plaque Quantification,38600.0,2024-08-27,2025-01-03,True,False
+O00908,A0146,Bayside Imaging 146 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34800.0,2026-03-25,2026-09-01,True,False
+O00909,A0189,Valley Heart Associates 189 - Stenosis Mapping,Closed Won,Stenosis Mapping,51500.0,2026-01-23,2026-05-30,True,True
+O00910,A0047,Pioneer Medical Center 47 - Plaque Quantification,Closed Lost,Plaque Quantification,39700.0,2026-04-14,2026-08-01,True,False
+O00911,A0057,Pioneer Medical Center 57 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,71400.0,2026-04-20,2026-08-22,True,False
+O00912,A0296,Cedar Heart Associates 296 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,79300.0,2025-11-02,2026-02-11,True,False
+O00913,A0235,Maple Medical Center 235 - Stenosis Mapping,Closed Won,Stenosis Mapping,25500.0,2025-01-19,2025-04-01,True,True
+O00914,A0223,Pioneer Heart Associates 223 - Stenosis Mapping,Closed Lost,Stenosis Mapping,17400.0,2025-03-26,2025-09-13,True,False
+O00915,A0072,Mesa Heart Associates 72 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,62800.0,2025-08-31,2026-01-09,True,True
+O00916,A0215,Cedar Medical Center 215 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,59400.0,2025-05-31,2025-09-24,True,True
+O00917,A0074,Maple Medical Center 74 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,48900.0,2025-11-18,2025-12-21,True,True
+O00918,A0096,Granite Medical Center 96 - Stenosis Mapping,Closed Won,Stenosis Mapping,52800.0,2025-10-17,2026-03-18,True,True
+O00919,A0022,Cedar Imaging 22 - Plaque Quantification,Closed Lost,Plaque Quantification,28500.0,2025-09-06,2025-12-06,True,False
+O00920,A0124,Valley Medical Center 124 - Plaque Quantification,Closed Lost,Plaque Quantification,27000.0,2026-04-13,2026-06-27,True,False
+O00921,A0275,Harbor Imaging 275 - Stenosis Mapping,Closed Won,Stenosis Mapping,27400.0,2024-11-17,2025-04-16,True,True
+O00922,A0049,Northgate Medical Center 49 - Stenosis Mapping,Closed Lost,Stenosis Mapping,53800.0,2026-06-09,2026-09-30,True,False
+O00923,A0057,Pioneer Medical Center 57 - Stenosis Mapping,Closed Lost,Stenosis Mapping,23200.0,2025-09-08,2025-11-28,True,False
+O00924,A0257,Prairie Heart Associates 257 - Stenosis Mapping,Closed Won,Stenosis Mapping,43200.0,2025-11-13,2026-01-30,True,True
+O00925,A0068,Mesa Imaging 68 - Plaque Quantification,Closed Won,Plaque Quantification,38900.0,2025-07-23,2025-11-15,True,True
+O00926,A0185,Coastal Medical Center 185 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,66600.0,2026-05-17,2026-09-20,True,True
+O00927,A0050,Valley Imaging 50 - Stenosis Mapping,Closed Lost,Stenosis Mapping,33500.0,2026-03-27,2026-08-07,True,False
+O00928,A0196,Pioneer Medical Center 196 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,43500.0,2025-07-11,2025-11-10,True,True
+O00929,A0160,Northgate Medical Center 160 - Plaque Quantification,Closed Lost,Plaque Quantification,51900.0,2025-08-01,2025-09-09,True,False
+O00930,A0088,Granite Imaging 88 - Stenosis Mapping,Closed Lost,Stenosis Mapping,16800.0,2025-09-16,2026-03-09,True,False
+O00931,A0132,Granite Heart Associates 132 - Stenosis Mapping,Closed Lost,Stenosis Mapping,53400.0,2026-06-05,2026-09-13,True,False
+O00932,A0189,Valley Heart Associates 189 - Plaque Quantification,Closed Lost,Plaque Quantification,39200.0,2025-09-17,2025-12-20,True,False
+O00933,A0097,Coastal Imaging 97 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,65400.0,2024-06-02,2024-11-07,True,True
+O00934,A0256,Coastal Imaging 256 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,34100.0,2026-05-12,2026-07-16,True,False
+O00935,A0060,Lakeview Medical Center 60 - Stenosis Mapping,Proposal,Stenosis Mapping,43500.0,2026-05-30,2026-11-19,False,False
+O00936,A0066,Coastal Medical Center 66 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,40300.0,2026-02-03,2026-04-21,True,False
+O00937,A0046,Summit Medical Center 46 - Plaque Quantification,Closed Lost,Plaque Quantification,48600.0,2025-09-25,2025-11-28,True,False
+O00938,A0192,Mesa Medical Center 192 - Plaque Quantification,Closed Lost,Plaque Quantification,34700.0,2026-06-24,2026-08-27,True,False
+O00939,A0232,Riverside Imaging 232 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,50000.0,2026-01-30,2026-07-02,True,True
+O00940,A0212,Cedar Heart Associates 212 - Stenosis Mapping,Evaluation,Stenosis Mapping,26700.0,2026-09-04,2027-01-02,False,False
+O00941,A0017,Coastal Medical Center 17 - Plaque Quantification,Closed Won,Plaque Quantification,36500.0,2025-12-23,2026-06-07,True,True
+O00942,A0091,Pioneer Heart Associates 91 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,65300.0,2025-07-01,2025-12-26,True,True
+O00943,A0188,Maple Medical Center 188 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,47600.0,2025-10-10,2026-01-04,True,True
+O00944,A0089,Pioneer Heart Associates 89 - Plaque Quantification,Closed Won,Plaque Quantification,68200.0,2025-10-24,2026-02-21,True,True
+O00945,A0296,Cedar Heart Associates 296 - Stenosis Mapping,Closed Lost,Stenosis Mapping,27100.0,2024-11-12,2024-12-27,True,False
+O00946,A0105,Mesa Medical Center 105 - Stenosis Mapping,Closed Won,Stenosis Mapping,30700.0,2025-12-23,2026-03-28,True,True
+O00947,A0126,Northgate Imaging 126 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,43400.0,2026-01-21,2026-05-09,True,False
+O00948,A0236,Bayside Heart Associates 236 - Plaque Quantification,Closed Lost,Plaque Quantification,29100.0,2025-10-14,2026-03-16,True,False
+O00949,A0124,Valley Medical Center 124 - Stenosis Mapping,Closed Lost,Stenosis Mapping,29600.0,2025-03-28,2025-05-14,True,False
+O00950,A0299,Riverside Medical Center 299 - Plaque Quantification,Closed Lost,Plaque Quantification,37000.0,2026-02-10,2026-06-11,True,False
+O00951,A0249,Union Medical Center 249 - Plaque Quantification,Closed Lost,Plaque Quantification,66400.0,2025-02-25,2025-07-06,True,False
+O00952,A0007,Maple Medical Center 7 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,64100.0,2025-08-18,2026-01-24,True,True
+O00953,A0050,Valley Imaging 50 - Plaque Quantification,Closed Lost,Plaque Quantification,44300.0,2026-05-15,2026-08-05,True,False
+O00954,A0052,Harbor Medical Center 52 - Stenosis Mapping,Closed Lost,Stenosis Mapping,44400.0,2026-08-16,2026-09-27,True,False
+O00955,A0036,Maple Imaging 36 - Plaque Quantification,Prospecting,Plaque Quantification,45600.0,2026-07-07,2026-12-27,False,False
+O00956,A0209,Valley Medical Center 209 - Stenosis Mapping,Closed Lost,Stenosis Mapping,28900.0,2025-09-23,2025-12-08,True,False
+O00957,A0240,Pioneer Heart Associates 240 - Stenosis Mapping,Closed Lost,Stenosis Mapping,20500.0,2025-12-29,2026-02-03,True,False
+O00958,A0235,Maple Medical Center 235 - Plaque Quantification,Closed Won,Plaque Quantification,53800.0,2025-08-28,2026-02-21,True,True
+O00959,A0198,Cedar Medical Center 198 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,60000.0,2025-02-12,2025-05-25,True,False
+O00960,A0158,Maple Heart Associates 158 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,52300.0,2025-05-14,2025-06-19,True,True
+O00961,A0214,Mesa Imaging 214 - Stenosis Mapping,Closed Won,Stenosis Mapping,44600.0,2025-02-19,2025-06-14,True,True
+O00962,A0078,Northgate Medical Center 78 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,20600.0,2025-09-17,2026-02-20,True,False
+O00963,A0176,Northgate Medical Center 176 - Plaque Quantification,Closed Lost,Plaque Quantification,23800.0,2026-03-25,2026-06-04,True,False
+O00964,A0295,Harbor Imaging 295 - Stenosis Mapping,Closed Won,Stenosis Mapping,34500.0,2026-06-04,2026-08-05,True,True
+O00965,A0127,Cedar Medical Center 127 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,48400.0,2025-10-02,2026-01-29,True,False
+O00966,A0294,Summit Imaging 294 - Plaque Quantification,Closed Won,Plaque Quantification,35700.0,2026-03-13,2026-08-31,True,True
+O00967,A0184,Valley Medical Center 184 - Stenosis Mapping,Closed Won,Stenosis Mapping,47000.0,2024-11-11,2025-03-31,True,True
+O00968,A0075,Union Medical Center 75 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,60000.0,2026-07-19,2026-10-07,False,False
+O00969,A0215,Cedar Medical Center 215 - Plaque Quantification,Prospecting,Plaque Quantification,46700.0,2026-04-22,2026-10-11,False,False
+O00970,A0268,Maple Imaging 268 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,59700.0,2025-03-25,2025-05-23,True,True
+O00971,A0292,Summit Imaging 292 - Stenosis Mapping,Closed Lost,Stenosis Mapping,35300.0,2025-08-24,2025-12-31,True,False
+O00972,A0074,Maple Medical Center 74 - Plaque Quantification,Closed Lost,Plaque Quantification,42500.0,2025-11-04,2025-12-12,True,False
+O00973,A0219,Lakeview Heart Associates 219 - Stenosis Mapping,Closed Lost,Stenosis Mapping,42800.0,2025-08-20,2026-02-01,True,False
+O00974,A0063,Mesa Medical Center 63 - Plaque Quantification,Closed Lost,Plaque Quantification,44500.0,2026-02-20,2026-04-09,True,False
+O00975,A0033,Union Medical Center 33 - Plaque Quantification,Closed Won,Plaque Quantification,45400.0,2026-05-21,2026-08-25,True,True
+O00976,A0063,Mesa Medical Center 63 - Stenosis Mapping,Proposal,Stenosis Mapping,29000.0,2026-09-15,2026-11-22,False,False
+O00977,A0052,Harbor Medical Center 52 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,56700.0,2025-11-22,2026-02-15,True,True
+O00978,A0052,Harbor Medical Center 52 - Stenosis Mapping,Prospecting,Stenosis Mapping,26500.0,2026-08-12,2026-10-04,False,False
+O00979,A0270,Bayside Imaging 270 - Stenosis Mapping,Closed Lost,Stenosis Mapping,37700.0,2026-06-16,2026-08-22,True,False
+O00980,A0096,Granite Medical Center 96 - Stenosis Mapping,Closed Won,Stenosis Mapping,39500.0,2025-09-02,2025-12-08,True,True
+O00981,A0101,Prairie Medical Center 101 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,45800.0,2024-07-06,2024-08-23,True,True
+O00982,A0263,Bayside Medical Center 263 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,75600.0,2026-01-12,2026-02-26,True,False
+O00983,A0281,Lakeview Imaging 281 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,73400.0,2024-07-16,2024-08-15,True,True
+O00984,A0293,Union Imaging 293 - Plaque Quantification,Closed Lost,Plaque Quantification,42900.0,2025-11-19,2026-05-06,True,False
+O00985,A0229,Cedar Medical Center 229 - Plaque Quantification,Closed Won,Plaque Quantification,63500.0,2026-03-19,2026-07-21,True,True
+O00986,A0212,Cedar Heart Associates 212 - Stenosis Mapping,Closed Won,Stenosis Mapping,28800.0,2025-11-30,2026-03-25,True,True
+O00987,A0033,Union Medical Center 33 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,55100.0,2026-08-15,2026-10-23,False,False
+O00988,A0139,Union Imaging 139 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,67200.0,2026-05-06,2026-08-06,True,True
+O00989,A0061,Coastal Medical Center 61 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,46000.0,2025-11-03,2026-03-11,True,True
+O00990,A0019,Pioneer Heart Associates 19 - Stenosis Mapping,Closed Lost,Stenosis Mapping,30300.0,2026-02-05,2026-06-03,True,False
+O00991,A0263,Bayside Medical Center 263 - Plaque Quantification,Closed Lost,Plaque Quantification,38500.0,2026-01-08,2026-04-26,True,False
+O00992,A0059,Prairie Medical Center 59 - Stenosis Mapping,Closed Won,Stenosis Mapping,30800.0,2025-06-07,2025-11-16,True,True
+O00993,A0266,Lakeview Medical Center 266 - Plaque Quantification,Closed Lost,Plaque Quantification,62800.0,2026-03-06,2026-08-17,True,False
+O00994,A0261,Riverside Heart Associates 261 - Stenosis Mapping,Negotiation,Stenosis Mapping,23600.0,2026-09-01,2027-01-08,False,False
+O00995,A0256,Coastal Imaging 256 - Plaque Quantification,Closed Lost,Plaque Quantification,60200.0,2026-03-03,2026-05-29,True,False
+O00996,A0279,Granite Heart Associates 279 - Plaque Quantification,Closed Lost,Plaque Quantification,50600.0,2026-01-17,2026-03-14,True,False
+O00997,A0099,Maple Medical Center 99 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,37800.0,2026-08-27,2027-02-21,False,False
+O00998,A0114,Summit Medical Center 114 - Plaque Quantification,Closed Lost,Plaque Quantification,37100.0,2025-10-06,2025-12-01,True,False
+O00999,A0236,Bayside Heart Associates 236 - Stenosis Mapping,Closed Lost,Stenosis Mapping,54500.0,2026-03-16,2026-08-04,True,False
+O01000,A0100,Maple Heart Associates 100 - Stenosis Mapping,Closed Lost,Stenosis Mapping,26600.0,2025-11-12,2026-05-03,True,False
+O01001,A0229,Cedar Medical Center 229 - Stenosis Mapping,Closed Won,Stenosis Mapping,47200.0,2025-10-09,2025-12-25,True,True
+O01002,A0079,Summit Imaging 79 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,58800.0,2026-03-12,2026-08-02,True,True
+O01003,A0218,Harbor Imaging 218 - Stenosis Mapping,Closed Won,Stenosis Mapping,25600.0,2026-02-10,2026-03-17,True,True
+O01004,A0300,Union Imaging 300 - Plaque Quantification,Closed Won,Plaque Quantification,53500.0,2025-05-17,2025-08-12,True,True
+O01005,A0128,Mesa Imaging 128 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,67700.0,2026-01-02,2026-05-16,True,False
+O01006,A0104,Northgate Imaging 104 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,74100.0,2026-07-27,2026-08-31,True,True
+O01007,A0123,Mesa Imaging 123 - Plaque Quantification,Closed Won,Plaque Quantification,42500.0,2025-11-09,2026-04-16,True,True
+O01008,A0260,Summit Medical Center 260 - Stenosis Mapping,Closed Lost,Stenosis Mapping,24600.0,2025-05-05,2025-10-21,True,False
+O01009,A0181,Summit Heart Associates 181 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,45000.0,2025-08-29,2025-12-25,True,False
+O01010,A0230,Northgate Imaging 230 - Stenosis Mapping,Closed Lost,Stenosis Mapping,41500.0,2025-04-17,2025-07-17,True,False
+O01011,A0108,Valley Imaging 108 - Plaque Quantification,Closed Won,Plaque Quantification,37000.0,2026-01-04,2026-03-15,True,True
+O01012,A0249,Union Medical Center 249 - Plaque Quantification,Closed Lost,Plaque Quantification,51800.0,2024-08-04,2024-12-04,True,False
+O01013,A0261,Riverside Heart Associates 261 - Stenosis Mapping,Closed Lost,Stenosis Mapping,38400.0,2025-07-24,2025-12-06,True,False
+O01014,A0218,Harbor Imaging 218 - Plaque Quantification,Closed Lost,Plaque Quantification,41900.0,2025-05-26,2025-09-04,True,False
+O01015,A0274,Mesa Imaging 274 - Stenosis Mapping,Closed Lost,Stenosis Mapping,21100.0,2025-10-24,2026-03-20,True,False
+O01016,A0272,Coastal Imaging 272 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,56400.0,2025-03-18,2025-07-24,True,False
+O01017,A0110,Northgate Imaging 110 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,57200.0,2024-08-30,2025-02-04,True,False
+O01018,A0043,Union Heart Associates 43 - Stenosis Mapping,Evaluation,Stenosis Mapping,41900.0,2026-08-06,2026-10-10,False,False
+O01019,A0014,Granite Medical Center 14 - Plaque Quantification,Closed Won,Plaque Quantification,81500.0,2025-03-02,2025-05-18,True,True
+O01020,A0178,Granite Medical Center 178 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34200.0,2025-10-04,2026-02-09,True,False
+O01021,A0221,Valley Heart Associates 221 - Plaque Quantification,Closed Lost,Plaque Quantification,53800.0,2025-07-04,2025-09-04,True,False
+O01022,A0243,Valley Imaging 243 - Plaque Quantification,Negotiation,Plaque Quantification,28300.0,2026-07-29,2026-12-24,False,False
+O01023,A0057,Pioneer Medical Center 57 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,73600.0,2026-06-29,2026-11-05,False,False
+O01024,A0121,Northgate Heart Associates 121 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34100.0,2026-03-12,2026-08-29,True,False
+O01025,A0248,Harbor Medical Center 248 - Plaque Quantification,Closed Lost,Plaque Quantification,36500.0,2025-11-13,2026-02-21,True,False
+O01026,A0093,Bayside Medical Center 93 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,68900.0,2025-11-26,2026-02-13,True,False
+O01027,A0156,Valley Imaging 156 - Plaque Quantification,Closed Lost,Plaque Quantification,39700.0,2025-01-22,2025-03-23,True,False
+O01028,A0037,Lakeview Medical Center 37 - Stenosis Mapping,Closed Won,Stenosis Mapping,38400.0,2025-06-11,2025-10-29,True,True
+O01029,A0227,Union Imaging 227 - Coronary Flow Analysis,Negotiation,Coronary Flow Analysis,65700.0,2026-05-08,2026-10-08,False,False
+O01030,A0081,Maple Medical Center 81 - Plaque Quantification,Closed Lost,Plaque Quantification,64900.0,2025-07-21,2025-11-17,True,False
+O01031,A0057,Pioneer Medical Center 57 - Stenosis Mapping,Closed Won,Stenosis Mapping,56200.0,2025-09-17,2025-11-05,True,True
+O01032,A0288,Harbor Imaging 288 - Plaque Quantification,Closed Lost,Plaque Quantification,44500.0,2025-09-23,2026-03-22,True,False
+O01033,A0147,Granite Medical Center 147 - Plaque Quantification,Closed Lost,Plaque Quantification,35900.0,2026-07-21,2026-09-09,True,False
+O01034,A0194,Riverside Heart Associates 194 - Stenosis Mapping,Proposal,Stenosis Mapping,48200.0,2026-08-19,2026-10-10,False,False
+O01035,A0004,Bayside Imaging 4 - Stenosis Mapping,Closed Lost,Stenosis Mapping,46800.0,2026-03-25,2026-08-01,True,False
+O01036,A0080,Maple Heart Associates 80 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,67400.0,2025-12-20,2026-05-24,True,True
+O01037,A0229,Cedar Medical Center 229 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,71400.0,2025-07-24,2025-09-11,True,False
+O01038,A0001,Harbor Imaging 1 - Plaque Quantification,Closed Won,Plaque Quantification,52800.0,2025-01-21,2025-07-15,True,True
+O01039,A0121,Northgate Heart Associates 121 - Stenosis Mapping,Proposal,Stenosis Mapping,35200.0,2026-07-11,2026-10-30,False,False
+O01040,A0134,Prairie Imaging 134 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,67900.0,2026-02-12,2026-05-30,True,True
+O01041,A0225,Harbor Medical Center 225 - Stenosis Mapping,Closed Lost,Stenosis Mapping,37700.0,2025-09-22,2025-11-17,True,False
+O01042,A0054,Coastal Medical Center 54 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,71900.0,2024-08-10,2024-12-14,True,True
+O01043,A0206,Valley Heart Associates 206 - Plaque Quantification,Closed Lost,Plaque Quantification,47100.0,2026-02-05,2026-04-20,True,False
+O01044,A0017,Coastal Medical Center 17 - Stenosis Mapping,Closed Won,Stenosis Mapping,34300.0,2025-12-16,2026-06-05,True,True
+O01045,A0156,Valley Imaging 156 - Stenosis Mapping,Closed Won,Stenosis Mapping,39400.0,2024-08-15,2024-12-14,True,True
+O01046,A0284,Cedar Medical Center 284 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,74900.0,2024-07-27,2025-01-12,True,False
+O01047,A0063,Mesa Medical Center 63 - Stenosis Mapping,Prospecting,Stenosis Mapping,35000.0,2026-09-20,2027-02-11,False,False
+O01048,A0119,Cedar Imaging 119 - Stenosis Mapping,Prospecting,Stenosis Mapping,31200.0,2026-07-17,2026-10-10,False,False
+O01049,A0266,Lakeview Medical Center 266 - Plaque Quantification,Prospecting,Plaque Quantification,46500.0,2026-08-16,2027-01-16,False,False
+O01050,A0189,Valley Heart Associates 189 - Plaque Quantification,Closed Lost,Plaque Quantification,67400.0,2025-10-30,2026-01-15,True,False
+O01051,A0252,Union Imaging 252 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,86700.0,2025-10-23,2026-03-31,True,True
+O01052,A0094,Pioneer Heart Associates 94 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,50600.0,2024-08-17,2024-09-19,True,True
+O01053,A0191,Cedar Medical Center 191 - Stenosis Mapping,Closed Lost,Stenosis Mapping,32200.0,2026-03-02,2026-04-18,True,False
+O01054,A0143,Maple Heart Associates 143 - Stenosis Mapping,Prospecting,Stenosis Mapping,29200.0,2026-05-20,2026-10-15,False,False
+O01055,A0178,Granite Medical Center 178 - Stenosis Mapping,Closed Won,Stenosis Mapping,45000.0,2026-03-30,2026-05-12,True,True
+O01056,A0141,Coastal Heart Associates 141 - Coronary Flow Analysis,Prospecting,Coronary Flow Analysis,46000.0,2026-09-07,2027-01-08,False,False
+O01057,A0133,Pioneer Medical Center 133 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,35700.0,2026-03-02,2026-06-26,True,False
+O01058,A0136,Coastal Imaging 136 - Plaque Quantification,Closed Lost,Plaque Quantification,49900.0,2025-12-18,2026-02-28,True,False
+O01059,A0042,Cedar Imaging 42 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,33600.0,2025-08-27,2026-02-17,True,False
+O01060,A0143,Maple Heart Associates 143 - Plaque Quantification,Closed Won,Plaque Quantification,30100.0,2026-03-26,2026-07-12,True,True
+O01061,A0113,Maple Imaging 113 - Plaque Quantification,Closed Lost,Plaque Quantification,27200.0,2026-02-24,2026-05-09,True,False
+O01062,A0223,Pioneer Heart Associates 223 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,71700.0,2024-12-20,2025-06-13,True,False
+O01063,A0131,Lakeview Imaging 131 - Stenosis Mapping,Closed Won,Stenosis Mapping,46900.0,2024-06-24,2024-10-15,True,True
+O01064,A0213,Summit Medical Center 213 - Stenosis Mapping,Closed Lost,Stenosis Mapping,32700.0,2026-02-01,2026-06-12,True,False
+O01065,A0292,Summit Imaging 292 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,57300.0,2025-06-04,2025-08-25,True,True
+O01066,A0086,Cedar Imaging 86 - Plaque Quantification,Evaluation,Plaque Quantification,37300.0,2026-07-21,2026-10-04,False,False
+O01067,A0100,Maple Heart Associates 100 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,37400.0,2024-07-10,2024-09-17,True,True
+O01068,A0279,Granite Heart Associates 279 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,45900.0,2024-07-23,2025-01-08,True,True
+O01069,A0280,Riverside Imaging 280 - Plaque Quantification,Closed Lost,Plaque Quantification,48600.0,2025-09-12,2026-01-31,True,False
+O01070,A0059,Prairie Medical Center 59 - Plaque Quantification,Closed Lost,Plaque Quantification,53200.0,2025-03-23,2025-08-03,True,False
+O01071,A0151,Mesa Medical Center 151 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,36000.0,2024-12-12,2025-01-27,True,False
+O01072,A0295,Harbor Imaging 295 - Plaque Quantification,Proposal,Plaque Quantification,46800.0,2026-07-06,2026-10-14,False,False
+O01073,A0179,Pioneer Imaging 179 - Coronary Flow Analysis,Proposal,Coronary Flow Analysis,44600.0,2026-08-25,2027-01-10,False,False
+O01074,A0216,Lakeview Heart Associates 216 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,79100.0,2025-09-22,2025-11-01,True,False
+O01075,A0089,Pioneer Heart Associates 89 - Stenosis Mapping,Closed Lost,Stenosis Mapping,33600.0,2025-09-01,2026-01-01,True,False
+O01076,A0238,Cedar Heart Associates 238 - Plaque Quantification,Closed Lost,Plaque Quantification,50500.0,2025-07-27,2025-10-01,True,False
+O01077,A0191,Cedar Medical Center 191 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,73900.0,2026-02-10,2026-05-26,True,False
+O01078,A0143,Maple Heart Associates 143 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,54200.0,2026-06-14,2026-09-20,True,False
+O01079,A0274,Mesa Imaging 274 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,69500.0,2024-04-07,2024-07-17,True,False
+O01080,A0180,Granite Medical Center 180 - Stenosis Mapping,Closed Won,Stenosis Mapping,30300.0,2025-08-22,2025-11-28,True,True
+O01081,A0214,Mesa Imaging 214 - Stenosis Mapping,Closed Lost,Stenosis Mapping,42000.0,2026-02-08,2026-07-19,True,False
+O01082,A0069,Bayside Imaging 69 - Plaque Quantification,Closed Lost,Plaque Quantification,36900.0,2025-12-27,2026-06-22,True,False
+O01083,A0021,Mesa Imaging 21 - Stenosis Mapping,Closed Won,Stenosis Mapping,30200.0,2025-12-01,2026-01-24,True,True
+O01084,A0185,Coastal Medical Center 185 - Stenosis Mapping,Closed Won,Stenosis Mapping,40200.0,2026-04-30,2026-08-31,True,True
+O01085,A0231,Lakeview Imaging 231 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,26600.0,2025-12-14,2026-05-02,True,False
+O01086,A0054,Coastal Medical Center 54 - Plaque Quantification,Closed Won,Plaque Quantification,34400.0,2024-09-20,2024-12-22,True,True
+O01087,A0201,Summit Imaging 201 - Stenosis Mapping,Closed Lost,Stenosis Mapping,38700.0,2024-05-16,2024-07-12,True,False
+O01088,A0169,Pioneer Medical Center 169 - Stenosis Mapping,Closed Lost,Stenosis Mapping,46400.0,2026-02-25,2026-04-03,True,False
+O01089,A0113,Maple Imaging 113 - Plaque Quantification,Closed Lost,Plaque Quantification,40500.0,2026-04-13,2026-09-14,True,False
+O01090,A0025,Riverside Heart Associates 25 - Plaque Quantification,Closed Lost,Plaque Quantification,33900.0,2026-07-28,2026-09-15,True,False
+O01091,A0134,Prairie Imaging 134 - Stenosis Mapping,Closed Lost,Stenosis Mapping,42400.0,2025-09-16,2026-03-10,True,False
+O01092,A0061,Coastal Medical Center 61 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,63300.0,2025-04-04,2025-08-30,True,False
+O01093,A0225,Harbor Medical Center 225 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,69200.0,2025-09-21,2025-11-08,True,True
+O01094,A0040,Union Imaging 40 - Plaque Quantification,Closed Lost,Plaque Quantification,32000.0,2025-10-23,2026-02-20,True,False
+O01095,A0268,Maple Imaging 268 - Plaque Quantification,Closed Won,Plaque Quantification,31400.0,2025-12-16,2026-04-12,True,True
+O01096,A0261,Riverside Heart Associates 261 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,41900.0,2026-02-12,2026-06-16,True,True
+O01097,A0272,Coastal Imaging 272 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,74800.0,2026-01-31,2026-04-29,True,False
+O01098,A0112,Northgate Imaging 112 - Plaque Quantification,Closed Lost,Plaque Quantification,43200.0,2025-11-16,2026-04-07,True,False
+O01099,A0176,Northgate Medical Center 176 - Plaque Quantification,Closed Lost,Plaque Quantification,46800.0,2024-09-27,2025-02-01,True,False
+O01100,A0059,Prairie Medical Center 59 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,39900.0,2026-01-10,2026-02-21,True,False
+O01101,A0032,Mesa Imaging 32 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,66700.0,2026-04-29,2026-05-29,True,True
+O01102,A0088,Granite Imaging 88 - Plaque Quantification,Closed Lost,Plaque Quantification,60100.0,2026-05-09,2026-09-05,True,False
+O01103,A0017,Coastal Medical Center 17 - Plaque Quantification,Closed Lost,Plaque Quantification,54700.0,2025-11-21,2026-05-14,True,False
+O01104,A0228,Maple Heart Associates 228 - Plaque Quantification,Negotiation,Plaque Quantification,52000.0,2026-07-24,2026-10-29,False,False
+O01105,A0187,Granite Heart Associates 187 - Stenosis Mapping,Closed Lost,Stenosis Mapping,30800.0,2026-04-28,2026-09-21,True,False
+O01106,A0290,Cedar Imaging 290 - Plaque Quantification,Closed Won,Plaque Quantification,50500.0,2026-02-23,2026-04-09,True,True
+O01107,A0068,Mesa Imaging 68 - Plaque Quantification,Closed Won,Plaque Quantification,46800.0,2025-02-26,2025-04-11,True,True
+O01108,A0100,Maple Heart Associates 100 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,45100.0,2024-12-07,2025-01-16,True,False
+O01109,A0233,Pioneer Imaging 233 - Plaque Quantification,Negotiation,Plaque Quantification,49400.0,2026-06-19,2026-10-25,False,False
+O01110,A0097,Coastal Imaging 97 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,49300.0,2025-02-04,2025-03-28,True,False
+O01111,A0083,Valley Heart Associates 83 - Plaque Quantification,Prospecting,Plaque Quantification,64000.0,2026-07-19,2026-12-09,False,False
+O01112,A0273,Maple Heart Associates 273 - Stenosis Mapping,Prospecting,Stenosis Mapping,34200.0,2026-09-06,2027-01-14,False,False
+O01113,A0275,Harbor Imaging 275 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,63400.0,2025-12-21,2026-01-24,True,False
+O01114,A0193,Harbor Imaging 193 - Stenosis Mapping,Closed Won,Stenosis Mapping,29000.0,2026-04-19,2026-08-03,True,True
+O01115,A0021,Mesa Imaging 21 - Stenosis Mapping,Negotiation,Stenosis Mapping,31600.0,2026-08-26,2026-10-02,False,False
+O01116,A0228,Maple Heart Associates 228 - Stenosis Mapping,Closed Lost,Stenosis Mapping,39100.0,2025-07-19,2025-12-10,True,False
+O01117,A0098,Northgate Imaging 98 - Stenosis Mapping,Closed Lost,Stenosis Mapping,20200.0,2024-09-28,2024-11-18,True,False
+O01118,A0006,Maple Heart Associates 6 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,5000.0,2026-02-25,2026-04-08,True,False
+O01119,A0206,Valley Heart Associates 206 - Stenosis Mapping,Negotiation,Stenosis Mapping,48300.0,2026-08-03,2026-10-26,False,False
+O01120,A0185,Coastal Medical Center 185 - Plaque Quantification,Negotiation,Plaque Quantification,44900.0,2026-05-06,2026-10-06,False,False
+O01121,A0253,Riverside Imaging 253 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,65500.0,2026-09-06,2026-12-24,False,False
+O01122,A0068,Mesa Imaging 68 - Plaque Quantification,Closed Lost,Plaque Quantification,52800.0,2026-03-13,2026-07-21,True,False
+O01123,A0165,Bayside Medical Center 165 - Stenosis Mapping,Negotiation,Stenosis Mapping,17600.0,2026-09-17,2027-02-24,False,False
+O01124,A0040,Union Imaging 40 - Plaque Quantification,Closed Lost,Plaque Quantification,45500.0,2026-02-17,2026-04-24,True,False
+O01125,A0292,Summit Imaging 292 - Plaque Quantification,Closed Lost,Plaque Quantification,51800.0,2026-04-22,2026-09-21,True,False
+O01126,A0035,Valley Medical Center 35 - Plaque Quantification,Closed Won,Plaque Quantification,41300.0,2025-03-30,2025-05-19,True,True
+O01127,A0031,Harbor Heart Associates 31 - Stenosis Mapping,Closed Lost,Stenosis Mapping,37100.0,2025-11-03,2026-02-19,True,False
+O01128,A0172,Mesa Imaging 172 - Stenosis Mapping,Closed Lost,Stenosis Mapping,34200.0,2026-06-22,2026-09-22,True,False
+O01129,A0221,Valley Heart Associates 221 - Stenosis Mapping,Closed Lost,Stenosis Mapping,39600.0,2026-03-01,2026-06-15,True,False
+O01130,A0232,Riverside Imaging 232 - Plaque Quantification,Closed Lost,Plaque Quantification,41600.0,2025-11-04,2025-12-13,True,False
+O01131,A0234,Coastal Heart Associates 234 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,65700.0,2026-03-24,2026-08-03,True,False
+O01132,A0182,Riverside Imaging 182 - Plaque Quantification,Closed Won,Plaque Quantification,66300.0,2025-12-31,2026-03-16,True,True
+O01133,A0095,Valley Medical Center 95 - Stenosis Mapping,Closed Lost,Stenosis Mapping,19800.0,2025-08-10,2025-12-23,True,False
+O01134,A0035,Valley Medical Center 35 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,46600.0,2025-07-02,2025-09-25,True,True
+O01135,A0219,Lakeview Heart Associates 219 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,81600.0,2025-06-04,2025-09-21,True,False
+O01136,A0266,Lakeview Medical Center 266 - Coronary Flow Analysis,Qualification,Coronary Flow Analysis,54000.0,2026-07-30,2026-10-18,False,False
+O01137,A0197,Northgate Imaging 197 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,77200.0,2024-05-20,2024-11-03,True,False
+O01138,A0263,Bayside Medical Center 263 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,63400.0,2025-09-29,2025-12-09,True,True
+O01139,A0114,Summit Medical Center 114 - Stenosis Mapping,Closed Lost,Stenosis Mapping,28000.0,2026-04-03,2026-05-25,True,False
+O01140,A0139,Union Imaging 139 - Plaque Quantification,Closed Lost,Plaque Quantification,73900.0,2026-02-14,2026-06-30,True,False
+O01141,A0031,Harbor Heart Associates 31 - Plaque Quantification,Closed Won,Plaque Quantification,39800.0,2026-05-14,2026-06-28,True,True
+O01142,A0008,Cedar Medical Center 8 - Stenosis Mapping,Closed Lost,Stenosis Mapping,42000.0,2026-04-20,2026-09-24,True,False
+O01143,A0175,Valley Imaging 175 - Plaque Quantification,Closed Won,Plaque Quantification,47200.0,2025-03-24,2025-07-02,True,True
+O01144,A0181,Summit Heart Associates 181 - Plaque Quantification,Proposal,Plaque Quantification,57900.0,2026-04-17,2026-10-13,False,False
+O01145,A0112,Northgate Imaging 112 - Plaque Quantification,Closed Won,Plaque Quantification,60400.0,2026-03-06,2026-07-22,True,True
+O01146,A0183,Lakeview Imaging 183 - Stenosis Mapping,Closed Won,Stenosis Mapping,39000.0,2025-11-29,2026-02-10,True,True
+O01147,A0024,Granite Heart Associates 24 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,71500.0,2024-10-14,2025-01-24,True,False
+O01148,A0007,Maple Medical Center 7 - Plaque Quantification,Qualification,Plaque Quantification,50900.0,2026-09-08,2026-11-19,False,False
+O01149,A0094,Pioneer Heart Associates 94 - Stenosis Mapping,Closed Lost,Stenosis Mapping,28600.0,2026-02-20,2026-07-07,True,False
+O01150,A0288,Harbor Imaging 288 - Stenosis Mapping,Closed Lost,Stenosis Mapping,44800.0,2025-07-12,2025-10-22,True,False
+O01151,A0048,Coastal Medical Center 48 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,63600.0,2026-09-05,2027-02-10,False,False
+O01152,A0161,Union Imaging 161 - Plaque Quantification,Closed Lost,Plaque Quantification,6700.0,2026-04-28,2026-06-01,True,False
+O01153,A0043,Union Heart Associates 43 - Plaque Quantification,Closed Won,Plaque Quantification,66700.0,2025-04-16,2025-08-03,True,True
+O01154,A0163,Maple Imaging 163 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,84800.0,2026-06-02,2026-07-22,True,False
+O01155,A0081,Maple Medical Center 81 - Plaque Quantification,Closed Lost,Plaque Quantification,51600.0,2025-12-13,2026-04-17,True,False
+O01156,A0231,Lakeview Imaging 231 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,64800.0,2026-05-07,2026-10-29,False,False
+O01157,A0032,Mesa Imaging 32 - Stenosis Mapping,Closed Lost,Stenosis Mapping,29800.0,2025-07-28,2025-11-29,True,False
+O01158,A0080,Maple Heart Associates 80 - Plaque Quantification,Negotiation,Plaque Quantification,31700.0,2026-05-20,2026-10-17,False,False
+O01159,A0160,Northgate Medical Center 160 - Stenosis Mapping,Closed Lost,Stenosis Mapping,39700.0,2026-04-19,2026-05-20,True,False
+O01160,A0094,Pioneer Heart Associates 94 - Stenosis Mapping,Closed Lost,Stenosis Mapping,44900.0,2025-04-21,2025-06-15,True,False
+O01161,A0194,Riverside Heart Associates 194 - Plaque Quantification,Closed Lost,Plaque Quantification,33800.0,2025-10-17,2025-11-22,True,False
+O01162,A0257,Prairie Heart Associates 257 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,63100.0,2025-11-15,2026-01-21,True,True
+O01163,A0007,Maple Medical Center 7 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,39100.0,2025-11-11,2026-02-08,True,False
+O01164,A0069,Bayside Imaging 69 - Plaque Quantification,Closed Won,Plaque Quantification,40800.0,2026-01-11,2026-05-10,True,True
+O01165,A0268,Maple Imaging 268 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,44800.0,2025-09-03,2025-11-11,True,True
+O01166,A0160,Northgate Medical Center 160 - Stenosis Mapping,Closed Won,Stenosis Mapping,42700.0,2026-05-25,2026-09-30,True,True
+O01167,A0153,Prairie Imaging 153 - Stenosis Mapping,Closed Lost,Stenosis Mapping,32600.0,2026-07-25,2026-08-30,True,False
+O01168,A0241,Coastal Medical Center 241 - Stenosis Mapping,Closed Lost,Stenosis Mapping,23400.0,2025-12-23,2026-02-02,True,False
+O01169,A0259,Summit Heart Associates 259 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,67600.0,2025-09-24,2025-11-16,True,False
+O01170,A0291,Mesa Medical Center 291 - Plaque Quantification,Closed Lost,Plaque Quantification,38900.0,2024-11-20,2025-01-25,True,False
+O01171,A0105,Mesa Medical Center 105 - Stenosis Mapping,Closed Lost,Stenosis Mapping,27900.0,2026-01-08,2026-06-07,True,False
+O01172,A0222,Prairie Medical Center 222 - Stenosis Mapping,Closed Lost,Stenosis Mapping,28300.0,2025-12-18,2026-06-16,True,False
+O01173,A0204,Union Heart Associates 204 - Plaque Quantification,Closed Won,Plaque Quantification,41900.0,2026-03-15,2026-06-05,True,True
+O01174,A0272,Coastal Imaging 272 - Stenosis Mapping,Closed Lost,Stenosis Mapping,41400.0,2024-06-24,2024-10-13,True,False
+O01175,A0188,Maple Medical Center 188 - Plaque Quantification,Closed Won,Plaque Quantification,44600.0,2026-02-09,2026-05-05,True,True
+O01176,A0161,Union Imaging 161 - Plaque Quantification,Proposal,Plaque Quantification,28600.0,2026-09-06,2026-12-17,False,False
+O01177,A0033,Union Medical Center 33 - Plaque Quantification,Negotiation,Plaque Quantification,53800.0,2026-09-07,2026-12-16,False,False
+O01178,A0028,Harbor Medical Center 28 - Stenosis Mapping,Closed Lost,Stenosis Mapping,45500.0,2026-04-25,2026-08-20,True,False
+O01179,A0108,Valley Imaging 108 - Plaque Quantification,Closed Won,Plaque Quantification,39700.0,2025-09-04,2025-12-11,True,True
+O01180,A0167,Harbor Medical Center 167 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,55700.0,2026-03-18,2026-04-26,True,False
+O01181,A0295,Harbor Imaging 295 - Plaque Quantification,Closed Lost,Plaque Quantification,47000.0,2026-03-12,2026-08-07,True,False
+O01182,A0292,Summit Imaging 292 - Plaque Quantification,Closed Lost,Plaque Quantification,30600.0,2026-07-26,2026-08-26,True,False
+O01183,A0216,Lakeview Heart Associates 216 - Coronary Flow Analysis,Evaluation,Coronary Flow Analysis,79200.0,2026-09-13,2026-11-05,False,False
+O01184,A0247,Riverside Medical Center 247 - Plaque Quantification,Negotiation,Plaque Quantification,40900.0,2026-08-11,2026-11-19,False,False
+O01185,A0220,Prairie Medical Center 220 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,83300.0,2025-10-14,2026-03-25,True,False
+O01186,A0237,Maple Imaging 237 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,56500.0,2026-01-04,2026-02-20,True,False
+O01187,A0127,Cedar Medical Center 127 - Stenosis Mapping,Closed Won,Stenosis Mapping,32800.0,2024-10-10,2025-01-16,True,True
+O01188,A0275,Harbor Imaging 275 - Plaque Quantification,Closed Lost,Plaque Quantification,51500.0,2025-01-12,2025-06-23,True,False
+O01189,A0222,Prairie Medical Center 222 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,60800.0,2026-06-20,2026-09-22,True,False
+O01190,A0226,Mesa Imaging 226 - Plaque Quantification,Proposal,Plaque Quantification,43200.0,2026-05-10,2026-11-06,False,False
+O01191,A0159,Bayside Imaging 159 - Plaque Quantification,Closed Won,Plaque Quantification,45600.0,2025-05-23,2025-09-16,True,True
+O01192,A0029,Granite Medical Center 29 - Plaque Quantification,Closed Lost,Plaque Quantification,63300.0,2026-01-28,2026-03-21,True,False
+O01193,A0164,Summit Medical Center 164 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,67900.0,2024-06-23,2024-09-16,True,True
+O01194,A0012,Summit Medical Center 12 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,66800.0,2026-06-15,2026-07-31,True,False
+O01195,A0267,Bayside Medical Center 267 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,100700.0,2024-11-27,2025-05-15,True,True
+O01196,A0121,Northgate Heart Associates 121 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,58500.0,2026-05-04,2026-09-30,True,True
+O01197,A0068,Mesa Imaging 68 - Stenosis Mapping,Closed Won,Stenosis Mapping,39600.0,2026-07-29,2026-09-08,True,True
+O01198,A0016,Harbor Medical Center 16 - Coronary Flow Analysis,Closed Lost,Coronary Flow Analysis,36200.0,2026-05-12,2026-06-29,True,False
+O01199,A0158,Maple Heart Associates 158 - Plaque Quantification,Closed Won,Plaque Quantification,47800.0,2025-01-27,2025-03-14,True,True
+O01200,A0257,Prairie Heart Associates 257 - Coronary Flow Analysis,Closed Won,Coronary Flow Analysis,69900.0,2025-10-27,2026-03-05,True,True

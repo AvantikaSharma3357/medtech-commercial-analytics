@@ -1,0 +1,14 @@
+Id,Name,Region,Role
+U000,Analytics Admin,All,admin
+U001,West Sales Manager,West,regional_manager
+U002,West Rep 1,West,rep
+U003,West Rep 2,West,rep
+U004,West Rep 3,West,rep
+U005,Central Sales Manager,Central,regional_manager
+U006,Central Rep 1,Central,rep
+U007,Central Rep 2,Central,rep
+U008,Central Rep 3,Central,rep
+U009,East Sales Manager,East,regional_manager
+U010,East Rep 1,East,rep
+U011,East Rep 2,East,rep
+U012,East Rep 3,East,rep
