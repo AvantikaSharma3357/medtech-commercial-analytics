@@ -1,0 +1,3079 @@
+AccountId,Product,Month,AnalysesOrdered
+A0001,Plaque Quantification,2025-08-01,24
+A0001,Plaque Quantification,2025-09-01,16
+A0001,Plaque Quantification,2025-10-01,16
+A0001,Plaque Quantification,2025-11-01,14
+A0001,Plaque Quantification,2025-12-01,22
+A0001,Plaque Quantification,2026-01-01,6
+A0001,Plaque Quantification,2026-02-01,16
+A0001,Plaque Quantification,2026-03-01,17
+A0001,Plaque Quantification,2026-04-01,15
+A0001,Plaque Quantification,2026-05-01,21
+A0001,Plaque Quantification,2026-06-01,22
+A0001,Plaque Quantification,2026-07-01,12
+A0001,Plaque Quantification,2026-08-01,25
+A0001,Plaque Quantification,2026-09-01,12
+A0001,Stenosis Mapping,2025-11-01,46
+A0001,Stenosis Mapping,2025-12-01,25
+A0001,Stenosis Mapping,2026-01-01,34
+A0001,Stenosis Mapping,2026-02-01,43
+A0001,Stenosis Mapping,2026-03-01,35
+A0001,Stenosis Mapping,2026-04-01,28
+A0001,Stenosis Mapping,2026-05-01,26
+A0001,Stenosis Mapping,2026-06-01,34
+A0001,Stenosis Mapping,2026-07-01,30
+A0001,Stenosis Mapping,2026-08-01,37
+A0001,Stenosis Mapping,2026-09-01,25
+A0004,Coronary Flow Analysis,2025-10-01,58
+A0004,Coronary Flow Analysis,2025-11-01,30
+A0004,Coronary Flow Analysis,2025-12-01,66
+A0004,Coronary Flow Analysis,2026-01-01,71
+A0004,Coronary Flow Analysis,2026-02-01,22
+A0004,Coronary Flow Analysis,2026-03-01,47
+A0004,Coronary Flow Analysis,2026-04-01,41
+A0004,Coronary Flow Analysis,2026-05-01,45
+A0004,Coronary Flow Analysis,2026-06-01,43
+A0004,Coronary Flow Analysis,2026-07-01,55
+A0004,Coronary Flow Analysis,2026-08-01,46
+A0004,Coronary Flow Analysis,2026-09-01,39
+A0004,Stenosis Mapping,2025-12-01,19
+A0004,Stenosis Mapping,2026-01-01,30
+A0004,Stenosis Mapping,2026-02-01,23
+A0004,Stenosis Mapping,2026-03-01,33
+A0004,Stenosis Mapping,2026-04-01,23
+A0004,Stenosis Mapping,2026-05-01,23
+A0004,Stenosis Mapping,2026-06-01,27
+A0004,Stenosis Mapping,2026-07-01,11
+A0004,Stenosis Mapping,2026-08-01,24
+A0004,Stenosis Mapping,2026-09-01,23
+A0005,Coronary Flow Analysis,2024-11-01,14
+A0005,Coronary Flow Analysis,2024-12-01,18
+A0005,Coronary Flow Analysis,2025-01-01,13
+A0005,Coronary Flow Analysis,2025-02-01,21
+A0005,Coronary Flow Analysis,2025-03-01,21
+A0005,Coronary Flow Analysis,2025-04-01,15
+A0005,Coronary Flow Analysis,2025-05-01,16
+A0005,Coronary Flow Analysis,2025-06-01,18
+A0005,Coronary Flow Analysis,2025-07-01,11
+A0005,Coronary Flow Analysis,2025-08-01,11
+A0005,Coronary Flow Analysis,2025-09-01,18
+A0005,Coronary Flow Analysis,2025-10-01,15
+A0005,Coronary Flow Analysis,2025-11-01,14
+A0005,Coronary Flow Analysis,2025-12-01,15
+A0005,Coronary Flow Analysis,2026-01-01,7
+A0005,Coronary Flow Analysis,2026-02-01,14
+A0005,Coronary Flow Analysis,2026-03-01,12
+A0005,Coronary Flow Analysis,2026-04-01,17
+A0005,Coronary Flow Analysis,2026-05-01,17
+A0005,Coronary Flow Analysis,2026-06-01,16
+A0005,Coronary Flow Analysis,2026-07-01,16
+A0005,Coronary Flow Analysis,2026-08-01,10
+A0005,Coronary Flow Analysis,2026-09-01,16
+A0006,Coronary Flow Analysis,2026-07-01,38
+A0006,Coronary Flow Analysis,2026-08-01,54
+A0006,Coronary Flow Analysis,2026-09-01,46
+A0007,Coronary Flow Analysis,2026-02-01,44
+A0007,Coronary Flow Analysis,2026-03-01,41
+A0007,Coronary Flow Analysis,2026-04-01,22
+A0007,Coronary Flow Analysis,2026-05-01,43
+A0007,Coronary Flow Analysis,2026-06-01,43
+A0007,Coronary Flow Analysis,2026-07-01,26
+A0007,Coronary Flow Analysis,2026-08-01,16
+A0007,Coronary Flow Analysis,2026-09-01,33
+A0007,Plaque Quantification,2026-07-01,60
+A0007,Plaque Quantification,2026-08-01,54
+A0007,Plaque Quantification,2026-09-01,51
+A0008,Plaque Quantification,2025-04-01,7
+A0008,Plaque Quantification,2025-05-01,7
+A0008,Plaque Quantification,2025-06-01,7
+A0008,Plaque Quantification,2025-07-01,8
+A0008,Plaque Quantification,2025-08-01,5
+A0008,Plaque Quantification,2025-09-01,6
+A0008,Plaque Quantification,2025-10-01,7
+A0008,Plaque Quantification,2025-11-01,6
+A0008,Plaque Quantification,2025-12-01,10
+A0008,Plaque Quantification,2026-01-01,8
+A0008,Plaque Quantification,2026-02-01,8
+A0008,Plaque Quantification,2026-03-01,7
+A0008,Plaque Quantification,2026-04-01,7
+A0008,Plaque Quantification,2026-05-01,6
+A0008,Plaque Quantification,2026-06-01,7
+A0008,Plaque Quantification,2026-07-01,6
+A0008,Plaque Quantification,2026-08-01,7
+A0008,Plaque Quantification,2026-09-01,3
+A0008,Stenosis Mapping,2026-04-01,45
+A0008,Stenosis Mapping,2026-05-01,37
+A0008,Stenosis Mapping,2026-06-01,69
+A0008,Stenosis Mapping,2026-07-01,56
+A0008,Stenosis Mapping,2026-08-01,49
+A0008,Stenosis Mapping,2026-09-01,58
+A0012,Coronary Flow Analysis,2026-02-01,45
+A0012,Coronary Flow Analysis,2026-03-01,42
+A0012,Coronary Flow Analysis,2026-04-01,43
+A0012,Coronary Flow Analysis,2026-05-01,13
+A0012,Coronary Flow Analysis,2026-06-01,45
+A0012,Coronary Flow Analysis,2026-07-01,45
+A0012,Coronary Flow Analysis,2026-08-01,54
+A0012,Coronary Flow Analysis,2026-09-01,56
+A0014,Plaque Quantification,2025-06-01,41
+A0014,Plaque Quantification,2025-07-01,59
+A0014,Plaque Quantification,2025-08-01,61
+A0014,Plaque Quantification,2025-09-01,46
+A0014,Plaque Quantification,2025-10-01,65
+A0014,Plaque Quantification,2025-11-01,53
+A0014,Plaque Quantification,2025-12-01,40
+A0014,Plaque Quantification,2026-01-01,45
+A0014,Plaque Quantification,2026-02-01,60
+A0014,Plaque Quantification,2026-03-01,58
+A0014,Plaque Quantification,2026-04-01,38
+A0014,Plaque Quantification,2026-05-01,47
+A0014,Plaque Quantification,2026-06-01,50
+A0014,Plaque Quantification,2026-07-01,44
+A0014,Plaque Quantification,2026-08-01,72
+A0014,Plaque Quantification,2026-09-01,51
+A0016,Coronary Flow Analysis,2026-05-01,32
+A0016,Coronary Flow Analysis,2026-06-01,34
+A0016,Coronary Flow Analysis,2026-07-01,41
+A0016,Coronary Flow Analysis,2026-08-01,30
+A0016,Coronary Flow Analysis,2026-09-01,34
+A0016,Stenosis Mapping,2025-11-01,60
+A0016,Stenosis Mapping,2025-12-01,34
+A0016,Stenosis Mapping,2026-01-01,53
+A0016,Stenosis Mapping,2026-02-01,59
+A0016,Stenosis Mapping,2026-03-01,48
+A0016,Stenosis Mapping,2026-04-01,53
+A0016,Stenosis Mapping,2026-05-01,100
+A0016,Stenosis Mapping,2026-06-01,110
+A0016,Stenosis Mapping,2026-07-01,80
+A0016,Stenosis Mapping,2026-08-01,76
+A0016,Stenosis Mapping,2026-09-01,70
+A0017,Plaque Quantification,2026-07-01,15
+A0017,Plaque Quantification,2026-08-01,13
+A0017,Plaque Quantification,2026-09-01,22
+A0017,Stenosis Mapping,2026-07-01,24
+A0017,Stenosis Mapping,2026-08-01,22
+A0017,Stenosis Mapping,2026-09-01,23
+A0018,Coronary Flow Analysis,2026-07-01,35
+A0018,Coronary Flow Analysis,2026-08-01,31
+A0018,Coronary Flow Analysis,2026-09-01,42
+A0019,Coronary Flow Analysis,2025-10-01,47
+A0019,Coronary Flow Analysis,2025-11-01,61
+A0019,Coronary Flow Analysis,2025-12-01,64
+A0019,Coronary Flow Analysis,2026-01-01,47
+A0019,Coronary Flow Analysis,2026-02-01,45
+A0019,Coronary Flow Analysis,2026-03-01,60
+A0019,Coronary Flow Analysis,2026-04-01,59
+A0019,Coronary Flow Analysis,2026-05-01,38
+A0019,Coronary Flow Analysis,2026-06-01,41
+A0019,Coronary Flow Analysis,2026-07-01,26
+A0019,Coronary Flow Analysis,2026-08-01,66
+A0019,Coronary Flow Analysis,2026-09-01,59
+A0019,Stenosis Mapping,2025-06-01,29
+A0019,Stenosis Mapping,2025-07-01,22
+A0019,Stenosis Mapping,2025-08-01,24
+A0019,Stenosis Mapping,2025-09-01,20
+A0019,Stenosis Mapping,2025-10-01,19
+A0019,Stenosis Mapping,2025-11-01,18
+A0019,Stenosis Mapping,2025-12-01,21
+A0019,Stenosis Mapping,2026-01-01,25
+A0019,Stenosis Mapping,2026-02-01,14
+A0019,Stenosis Mapping,2026-03-01,23
+A0019,Stenosis Mapping,2026-04-01,31
+A0019,Stenosis Mapping,2026-05-01,29
+A0019,Stenosis Mapping,2026-06-01,21
+A0019,Stenosis Mapping,2026-07-01,17
+A0019,Stenosis Mapping,2026-08-01,26
+A0019,Stenosis Mapping,2026-09-01,12
+A0020,Plaque Quantification,2025-03-01,18
+A0020,Plaque Quantification,2025-04-01,9
+A0020,Plaque Quantification,2025-05-01,12
+A0020,Plaque Quantification,2025-06-01,15
+A0020,Plaque Quantification,2025-07-01,13
+A0020,Plaque Quantification,2025-08-01,10
+A0020,Plaque Quantification,2025-09-01,15
+A0020,Plaque Quantification,2025-10-01,13
+A0020,Plaque Quantification,2025-11-01,19
+A0020,Plaque Quantification,2025-12-01,13
+A0020,Plaque Quantification,2026-01-01,17
+A0020,Plaque Quantification,2026-02-01,10
+A0020,Plaque Quantification,2026-03-01,11
+A0020,Plaque Quantification,2026-04-01,16
+A0020,Plaque Quantification,2026-05-01,17
+A0020,Plaque Quantification,2026-06-01,11
+A0020,Plaque Quantification,2026-07-01,14
+A0020,Plaque Quantification,2026-08-01,10
+A0020,Plaque Quantification,2026-09-01,13
+A0021,Stenosis Mapping,2026-02-01,55
+A0021,Stenosis Mapping,2026-03-01,46
+A0021,Stenosis Mapping,2026-04-01,65
+A0021,Stenosis Mapping,2026-05-01,50
+A0021,Stenosis Mapping,2026-06-01,63
+A0021,Stenosis Mapping,2026-07-01,41
+A0021,Stenosis Mapping,2026-08-01,35
+A0021,Stenosis Mapping,2026-09-01,53
+A0023,Plaque Quantification,2026-09-01,57
+A0024,Coronary Flow Analysis,2026-02-01,63
+A0024,Coronary Flow Analysis,2026-03-01,51
+A0024,Coronary Flow Analysis,2026-04-01,51
+A0024,Coronary Flow Analysis,2026-05-01,73
+A0024,Coronary Flow Analysis,2026-06-01,66
+A0024,Coronary Flow Analysis,2026-07-01,46
+A0024,Coronary Flow Analysis,2026-08-01,61
+A0024,Coronary Flow Analysis,2026-09-01,30
+A0024,Stenosis Mapping,2025-02-01,8
+A0024,Stenosis Mapping,2025-03-01,10
+A0024,Stenosis Mapping,2025-04-01,10
+A0024,Stenosis Mapping,2025-05-01,9
+A0024,Stenosis Mapping,2025-06-01,11
+A0024,Stenosis Mapping,2025-07-01,10
+A0024,Stenosis Mapping,2025-08-01,13
+A0024,Stenosis Mapping,2025-09-01,10
+A0024,Stenosis Mapping,2025-10-01,12
+A0024,Stenosis Mapping,2025-11-01,11
+A0024,Stenosis Mapping,2025-12-01,7
+A0024,Stenosis Mapping,2026-01-01,18
+A0024,Stenosis Mapping,2026-02-01,23
+A0024,Stenosis Mapping,2026-03-01,20
+A0024,Stenosis Mapping,2026-04-01,19
+A0024,Stenosis Mapping,2026-05-01,20
+A0024,Stenosis Mapping,2026-06-01,17
+A0024,Stenosis Mapping,2026-07-01,23
+A0024,Stenosis Mapping,2026-08-01,21
+A0024,Stenosis Mapping,2026-09-01,25
+A0025,Stenosis Mapping,2026-07-01,16
+A0025,Stenosis Mapping,2026-08-01,24
+A0025,Stenosis Mapping,2026-09-01,26
+A0026,Coronary Flow Analysis,2026-01-01,14
+A0026,Coronary Flow Analysis,2026-02-01,22
+A0026,Coronary Flow Analysis,2026-03-01,14
+A0026,Coronary Flow Analysis,2026-04-01,22
+A0026,Coronary Flow Analysis,2026-05-01,17
+A0026,Coronary Flow Analysis,2026-06-01,20
+A0026,Coronary Flow Analysis,2026-07-01,14
+A0026,Coronary Flow Analysis,2026-08-01,20
+A0026,Coronary Flow Analysis,2026-09-01,23
+A0028,Plaque Quantification,2025-07-01,5
+A0028,Plaque Quantification,2025-08-01,66
+A0028,Plaque Quantification,2025-09-01,48
+A0028,Plaque Quantification,2025-10-01,56
+A0028,Plaque Quantification,2025-11-01,60
+A0028,Plaque Quantification,2025-12-01,87
+A0028,Plaque Quantification,2026-01-01,47
+A0028,Plaque Quantification,2026-02-01,68
+A0028,Plaque Quantification,2026-03-01,65
+A0028,Plaque Quantification,2026-04-01,68
+A0028,Plaque Quantification,2026-05-01,76
+A0028,Plaque Quantification,2026-06-01,77
+A0028,Plaque Quantification,2026-07-01,58
+A0028,Plaque Quantification,2026-08-01,67
+A0028,Plaque Quantification,2026-09-01,39
+A0029,Stenosis Mapping,2026-08-01,10
+A0029,Stenosis Mapping,2026-09-01,11
+A0031,Coronary Flow Analysis,2025-05-01,44
+A0031,Coronary Flow Analysis,2025-06-01,39
+A0031,Coronary Flow Analysis,2025-07-01,60
+A0031,Coronary Flow Analysis,2025-08-01,40
+A0031,Coronary Flow Analysis,2025-09-01,43
+A0031,Coronary Flow Analysis,2025-10-01,62
+A0031,Coronary Flow Analysis,2025-11-01,44
+A0031,Coronary Flow Analysis,2025-12-01,48
+A0031,Coronary Flow Analysis,2026-01-01,39
+A0031,Coronary Flow Analysis,2026-02-01,58
+A0031,Coronary Flow Analysis,2026-03-01,58
+A0031,Coronary Flow Analysis,2026-04-01,57
+A0031,Coronary Flow Analysis,2026-05-01,55
+A0031,Coronary Flow Analysis,2026-06-01,50
+A0031,Coronary Flow Analysis,2026-07-01,44
+A0031,Coronary Flow Analysis,2026-08-01,41
+A0031,Coronary Flow Analysis,2026-09-01,62
+A0031,Plaque Quantification,2024-11-01,55
+A0031,Plaque Quantification,2024-12-01,50
+A0031,Plaque Quantification,2025-01-01,49
+A0031,Plaque Quantification,2025-02-01,49
+A0031,Plaque Quantification,2025-03-01,50
+A0031,Plaque Quantification,2025-04-01,64
+A0031,Plaque Quantification,2025-05-01,50
+A0031,Plaque Quantification,2025-06-01,62
+A0031,Plaque Quantification,2025-07-01,60
+A0031,Plaque Quantification,2025-08-01,57
+A0031,Plaque Quantification,2025-09-01,32
+A0031,Plaque Quantification,2025-10-01,62
+A0031,Plaque Quantification,2025-11-01,46
+A0031,Plaque Quantification,2025-12-01,58
+A0031,Plaque Quantification,2026-01-01,41
+A0031,Plaque Quantification,2026-02-01,38
+A0031,Plaque Quantification,2026-03-01,71
+A0031,Plaque Quantification,2026-04-01,41
+A0031,Plaque Quantification,2026-05-01,62
+A0031,Plaque Quantification,2026-06-01,52
+A0031,Plaque Quantification,2026-07-01,59
+A0031,Plaque Quantification,2026-08-01,66
+A0031,Plaque Quantification,2026-09-01,50
+A0032,Coronary Flow Analysis,2025-10-01,29
+A0032,Coronary Flow Analysis,2025-11-01,28
+A0032,Coronary Flow Analysis,2025-12-01,27
+A0032,Coronary Flow Analysis,2026-01-01,26
+A0032,Coronary Flow Analysis,2026-02-01,30
+A0032,Coronary Flow Analysis,2026-03-01,31
+A0032,Coronary Flow Analysis,2026-04-01,30
+A0032,Coronary Flow Analysis,2026-05-01,22
+A0032,Coronary Flow Analysis,2026-06-01,79
+A0032,Coronary Flow Analysis,2026-07-01,80
+A0032,Coronary Flow Analysis,2026-08-01,110
+A0032,Coronary Flow Analysis,2026-09-01,94
+A0033,Plaque Quantification,2026-09-01,49
+A0035,Coronary Flow Analysis,2025-10-01,38
+A0035,Coronary Flow Analysis,2025-11-01,69
+A0035,Coronary Flow Analysis,2025-12-01,50
+A0035,Coronary Flow Analysis,2026-01-01,60
+A0035,Coronary Flow Analysis,2026-02-01,48
+A0035,Coronary Flow Analysis,2026-03-01,49
+A0035,Coronary Flow Analysis,2026-04-01,50
+A0035,Coronary Flow Analysis,2026-05-01,62
+A0035,Coronary Flow Analysis,2026-06-01,54
+A0035,Coronary Flow Analysis,2026-07-01,40
+A0035,Coronary Flow Analysis,2026-08-01,67
+A0035,Coronary Flow Analysis,2026-09-01,48
+A0035,Plaque Quantification,2025-06-01,9
+A0035,Plaque Quantification,2025-07-01,28
+A0035,Plaque Quantification,2025-08-01,41
+A0035,Plaque Quantification,2025-09-01,31
+A0035,Plaque Quantification,2025-10-01,40
+A0035,Plaque Quantification,2025-11-01,31
+A0035,Plaque Quantification,2025-12-01,33
+A0035,Plaque Quantification,2026-01-01,28
+A0035,Plaque Quantification,2026-02-01,34
+A0035,Plaque Quantification,2026-03-01,38
+A0035,Plaque Quantification,2026-04-01,25
+A0035,Plaque Quantification,2026-05-01,31
+A0035,Plaque Quantification,2026-06-01,35
+A0035,Plaque Quantification,2026-07-01,28
+A0035,Plaque Quantification,2026-08-01,29
+A0035,Plaque Quantification,2026-09-01,33
+A0037,Stenosis Mapping,2025-11-01,29
+A0037,Stenosis Mapping,2025-12-01,22
+A0037,Stenosis Mapping,2026-01-01,28
+A0037,Stenosis Mapping,2026-02-01,15
+A0037,Stenosis Mapping,2026-03-01,21
+A0037,Stenosis Mapping,2026-04-01,29
+A0037,Stenosis Mapping,2026-05-01,31
+A0037,Stenosis Mapping,2026-06-01,20
+A0037,Stenosis Mapping,2026-07-01,19
+A0037,Stenosis Mapping,2026-08-01,26
+A0037,Stenosis Mapping,2026-09-01,21
+A0038,Plaque Quantification,2025-11-01,7
+A0038,Plaque Quantification,2025-12-01,10
+A0038,Plaque Quantification,2026-01-01,8
+A0038,Plaque Quantification,2026-02-01,14
+A0038,Plaque Quantification,2026-03-01,8
+A0038,Plaque Quantification,2026-04-01,13
+A0038,Plaque Quantification,2026-05-01,17
+A0038,Plaque Quantification,2026-06-01,17
+A0038,Plaque Quantification,2026-07-01,8
+A0038,Plaque Quantification,2026-08-01,13
+A0038,Plaque Quantification,2026-09-01,10
+A0038,Stenosis Mapping,2025-09-01,30
+A0038,Stenosis Mapping,2025-10-01,24
+A0038,Stenosis Mapping,2025-11-01,21
+A0038,Stenosis Mapping,2025-12-01,25
+A0038,Stenosis Mapping,2026-01-01,32
+A0038,Stenosis Mapping,2026-02-01,24
+A0038,Stenosis Mapping,2026-03-01,22
+A0038,Stenosis Mapping,2026-04-01,27
+A0038,Stenosis Mapping,2026-05-01,29
+A0038,Stenosis Mapping,2026-06-01,35
+A0038,Stenosis Mapping,2026-07-01,28
+A0038,Stenosis Mapping,2026-08-01,30
+A0038,Stenosis Mapping,2026-09-01,30
+A0042,Stenosis Mapping,2026-05-01,34
+A0042,Stenosis Mapping,2026-06-01,28
+A0042,Stenosis Mapping,2026-07-01,35
+A0042,Stenosis Mapping,2026-08-01,42
+A0042,Stenosis Mapping,2026-09-01,24
+A0043,Plaque Quantification,2025-09-01,66
+A0043,Plaque Quantification,2025-10-01,38
+A0043,Plaque Quantification,2025-11-01,39
+A0043,Plaque Quantification,2025-12-01,48
+A0043,Plaque Quantification,2026-01-01,37
+A0043,Plaque Quantification,2026-02-01,41
+A0043,Plaque Quantification,2026-03-01,39
+A0043,Plaque Quantification,2026-04-01,20
+A0043,Plaque Quantification,2026-05-01,44
+A0043,Plaque Quantification,2026-06-01,41
+A0043,Plaque Quantification,2026-07-01,53
+A0043,Plaque Quantification,2026-08-01,43
+A0043,Plaque Quantification,2026-09-01,32
+A0044,Plaque Quantification,2026-02-01,15
+A0044,Plaque Quantification,2026-03-01,36
+A0044,Plaque Quantification,2026-04-01,40
+A0044,Plaque Quantification,2026-05-01,28
+A0044,Plaque Quantification,2026-06-01,31
+A0044,Plaque Quantification,2026-07-01,41
+A0044,Plaque Quantification,2026-08-01,22
+A0044,Plaque Quantification,2026-09-01,25
+A0046,Plaque Quantification,2025-09-01,47
+A0046,Plaque Quantification,2025-10-01,57
+A0046,Plaque Quantification,2025-11-01,56
+A0046,Plaque Quantification,2025-12-01,53
+A0046,Plaque Quantification,2026-01-01,67
+A0046,Plaque Quantification,2026-02-01,43
+A0046,Plaque Quantification,2026-03-01,44
+A0046,Plaque Quantification,2026-04-01,44
+A0046,Plaque Quantification,2026-05-01,51
+A0046,Plaque Quantification,2026-06-01,42
+A0046,Plaque Quantification,2026-07-01,55
+A0046,Plaque Quantification,2026-08-01,54
+A0046,Plaque Quantification,2026-09-01,47
+A0049,Coronary Flow Analysis,2026-07-01,31
+A0049,Coronary Flow Analysis,2026-08-01,44
+A0049,Coronary Flow Analysis,2026-09-01,37
+A0050,Plaque Quantification,2025-04-01,24
+A0050,Plaque Quantification,2025-05-01,26
+A0050,Plaque Quantification,2025-06-01,20
+A0050,Plaque Quantification,2025-07-01,17
+A0050,Plaque Quantification,2025-08-01,24
+A0050,Plaque Quantification,2025-09-01,20
+A0050,Plaque Quantification,2025-10-01,23
+A0050,Plaque Quantification,2025-11-01,16
+A0050,Plaque Quantification,2025-12-01,21
+A0050,Plaque Quantification,2026-01-01,26
+A0050,Plaque Quantification,2026-02-01,25
+A0050,Plaque Quantification,2026-03-01,19
+A0050,Plaque Quantification,2026-04-01,17
+A0050,Plaque Quantification,2026-05-01,23
+A0050,Plaque Quantification,2026-06-01,25
+A0050,Plaque Quantification,2026-07-01,24
+A0050,Plaque Quantification,2026-08-01,20
+A0050,Plaque Quantification,2026-09-01,24
+A0050,Stenosis Mapping,2024-11-01,73
+A0050,Stenosis Mapping,2024-12-01,59
+A0050,Stenosis Mapping,2025-01-01,57
+A0050,Stenosis Mapping,2025-02-01,65
+A0050,Stenosis Mapping,2025-03-01,47
+A0050,Stenosis Mapping,2025-04-01,43
+A0050,Stenosis Mapping,2025-05-01,63
+A0050,Stenosis Mapping,2025-06-01,46
+A0050,Stenosis Mapping,2025-07-01,46
+A0050,Stenosis Mapping,2025-08-01,68
+A0050,Stenosis Mapping,2025-09-01,65
+A0050,Stenosis Mapping,2025-10-01,44
+A0050,Stenosis Mapping,2025-11-01,51
+A0050,Stenosis Mapping,2025-12-01,48
+A0050,Stenosis Mapping,2026-01-01,79
+A0050,Stenosis Mapping,2026-02-01,69
+A0050,Stenosis Mapping,2026-03-01,54
+A0050,Stenosis Mapping,2026-04-01,65
+A0050,Stenosis Mapping,2026-05-01,42
+A0050,Stenosis Mapping,2026-06-01,51
+A0050,Stenosis Mapping,2026-07-01,60
+A0050,Stenosis Mapping,2026-08-01,64
+A0050,Stenosis Mapping,2026-09-01,57
+A0052,Coronary Flow Analysis,2025-12-01,31
+A0052,Coronary Flow Analysis,2026-01-01,31
+A0052,Coronary Flow Analysis,2026-02-01,23
+A0052,Coronary Flow Analysis,2026-03-01,31
+A0052,Coronary Flow Analysis,2026-04-01,41
+A0052,Coronary Flow Analysis,2026-05-01,36
+A0052,Coronary Flow Analysis,2026-06-01,21
+A0052,Coronary Flow Analysis,2026-07-01,41
+A0052,Coronary Flow Analysis,2026-08-01,28
+A0052,Coronary Flow Analysis,2026-09-01,39
+A0052,Plaque Quantification,2025-12-01,44
+A0052,Plaque Quantification,2026-01-01,56
+A0052,Plaque Quantification,2026-02-01,44
+A0052,Plaque Quantification,2026-03-01,31
+A0052,Plaque Quantification,2026-04-01,44
+A0052,Plaque Quantification,2026-05-01,42
+A0052,Plaque Quantification,2026-06-01,50
+A0052,Plaque Quantification,2026-07-01,48
+A0052,Plaque Quantification,2026-08-01,17
+A0052,Plaque Quantification,2026-09-01,47
+A0053,Coronary Flow Analysis,2026-02-01,10
+A0053,Coronary Flow Analysis,2026-03-01,9
+A0053,Coronary Flow Analysis,2026-04-01,9
+A0053,Coronary Flow Analysis,2026-05-01,6
+A0053,Coronary Flow Analysis,2026-06-01,13
+A0053,Coronary Flow Analysis,2026-07-01,9
+A0053,Coronary Flow Analysis,2026-08-01,9
+A0053,Coronary Flow Analysis,2026-09-01,8
+A0053,Plaque Quantification,2026-03-01,20
+A0053,Plaque Quantification,2026-04-01,19
+A0053,Plaque Quantification,2026-05-01,18
+A0053,Plaque Quantification,2026-06-01,28
+A0053,Plaque Quantification,2026-07-01,26
+A0053,Plaque Quantification,2026-08-01,25
+A0053,Plaque Quantification,2026-09-01,12
+A0053,Stenosis Mapping,2026-07-01,28
+A0053,Stenosis Mapping,2026-08-01,32
+A0053,Stenosis Mapping,2026-09-01,24
+A0054,Coronary Flow Analysis,2025-01-01,30
+A0054,Coronary Flow Analysis,2025-02-01,23
+A0054,Coronary Flow Analysis,2025-03-01,27
+A0054,Coronary Flow Analysis,2025-04-01,24
+A0054,Coronary Flow Analysis,2025-05-01,21
+A0054,Coronary Flow Analysis,2025-06-01,24
+A0054,Coronary Flow Analysis,2025-07-01,22
+A0054,Coronary Flow Analysis,2025-08-01,26
+A0054,Coronary Flow Analysis,2025-09-01,31
+A0054,Coronary Flow Analysis,2025-10-01,29
+A0054,Coronary Flow Analysis,2025-11-01,40
+A0054,Coronary Flow Analysis,2025-12-01,16
+A0054,Coronary Flow Analysis,2026-01-01,31
+A0054,Coronary Flow Analysis,2026-02-01,29
+A0054,Coronary Flow Analysis,2026-03-01,33
+A0054,Coronary Flow Analysis,2026-04-01,33
+A0054,Coronary Flow Analysis,2026-05-01,28
+A0054,Coronary Flow Analysis,2026-06-01,30
+A0054,Coronary Flow Analysis,2026-07-01,24
+A0054,Coronary Flow Analysis,2026-08-01,32
+A0054,Coronary Flow Analysis,2026-09-01,18
+A0054,Plaque Quantification,2025-01-01,29
+A0054,Plaque Quantification,2025-02-01,34
+A0054,Plaque Quantification,2025-03-01,46
+A0054,Plaque Quantification,2025-04-01,37
+A0054,Plaque Quantification,2025-05-01,29
+A0054,Plaque Quantification,2025-06-01,60
+A0054,Plaque Quantification,2025-07-01,79
+A0054,Plaque Quantification,2025-08-01,70
+A0054,Plaque Quantification,2025-09-01,73
+A0054,Plaque Quantification,2025-10-01,76
+A0054,Plaque Quantification,2025-11-01,78
+A0054,Plaque Quantification,2025-12-01,55
+A0054,Plaque Quantification,2026-01-01,76
+A0054,Plaque Quantification,2026-02-01,75
+A0054,Plaque Quantification,2026-03-01,80
+A0054,Plaque Quantification,2026-04-01,61
+A0054,Plaque Quantification,2026-05-01,86
+A0054,Plaque Quantification,2026-06-01,72
+A0054,Plaque Quantification,2026-07-01,66
+A0054,Plaque Quantification,2026-08-01,68
+A0054,Plaque Quantification,2026-09-01,76
+A0057,Stenosis Mapping,2025-12-01,36
+A0057,Stenosis Mapping,2026-01-01,45
+A0057,Stenosis Mapping,2026-02-01,34
+A0057,Stenosis Mapping,2026-03-01,23
+A0057,Stenosis Mapping,2026-04-01,28
+A0057,Stenosis Mapping,2026-05-01,39
+A0057,Stenosis Mapping,2026-06-01,24
+A0057,Stenosis Mapping,2026-07-01,36
+A0057,Stenosis Mapping,2026-08-01,28
+A0057,Stenosis Mapping,2026-09-01,51
+A0059,Stenosis Mapping,2025-12-01,37
+A0059,Stenosis Mapping,2026-01-01,38
+A0059,Stenosis Mapping,2026-02-01,25
+A0059,Stenosis Mapping,2026-03-01,36
+A0059,Stenosis Mapping,2026-04-01,34
+A0059,Stenosis Mapping,2026-05-01,38
+A0059,Stenosis Mapping,2026-06-01,40
+A0059,Stenosis Mapping,2026-07-01,38
+A0059,Stenosis Mapping,2026-08-01,32
+A0059,Stenosis Mapping,2026-09-01,41
+A0060,Coronary Flow Analysis,2026-05-01,37
+A0060,Coronary Flow Analysis,2026-06-01,34
+A0060,Coronary Flow Analysis,2026-07-01,54
+A0060,Coronary Flow Analysis,2026-08-01,39
+A0060,Coronary Flow Analysis,2026-09-01,54
+A0060,Stenosis Mapping,2024-06-01,72
+A0060,Stenosis Mapping,2024-07-01,54
+A0060,Stenosis Mapping,2024-08-01,49
+A0060,Stenosis Mapping,2024-09-01,49
+A0060,Stenosis Mapping,2024-10-01,40
+A0060,Stenosis Mapping,2024-11-01,60
+A0060,Stenosis Mapping,2024-12-01,45
+A0060,Stenosis Mapping,2025-01-01,65
+A0060,Stenosis Mapping,2025-02-01,40
+A0060,Stenosis Mapping,2025-03-01,55
+A0060,Stenosis Mapping,2025-04-01,66
+A0060,Stenosis Mapping,2025-05-01,30
+A0060,Stenosis Mapping,2025-06-01,75
+A0060,Stenosis Mapping,2025-07-01,49
+A0060,Stenosis Mapping,2025-08-01,55
+A0060,Stenosis Mapping,2025-09-01,60
+A0060,Stenosis Mapping,2025-10-01,61
+A0060,Stenosis Mapping,2025-11-01,56
+A0060,Stenosis Mapping,2025-12-01,64
+A0060,Stenosis Mapping,2026-01-01,59
+A0060,Stenosis Mapping,2026-02-01,73
+A0060,Stenosis Mapping,2026-03-01,59
+A0060,Stenosis Mapping,2026-04-01,75
+A0060,Stenosis Mapping,2026-05-01,63
+A0060,Stenosis Mapping,2026-06-01,34
+A0060,Stenosis Mapping,2026-07-01,82
+A0060,Stenosis Mapping,2026-08-01,47
+A0060,Stenosis Mapping,2026-09-01,70
+A0061,Coronary Flow Analysis,2026-02-01,14
+A0061,Coronary Flow Analysis,2026-03-01,20
+A0061,Coronary Flow Analysis,2026-04-01,65
+A0061,Coronary Flow Analysis,2026-05-01,76
+A0061,Coronary Flow Analysis,2026-06-01,75
+A0061,Coronary Flow Analysis,2026-07-01,56
+A0061,Coronary Flow Analysis,2026-08-01,65
+A0061,Coronary Flow Analysis,2026-09-01,53
+A0061,Plaque Quantification,2025-11-01,27
+A0061,Plaque Quantification,2025-12-01,28
+A0061,Plaque Quantification,2026-01-01,23
+A0061,Plaque Quantification,2026-02-01,16
+A0061,Plaque Quantification,2026-03-01,22
+A0061,Plaque Quantification,2026-04-01,23
+A0061,Plaque Quantification,2026-05-01,17
+A0061,Plaque Quantification,2026-06-01,21
+A0061,Plaque Quantification,2026-07-01,16
+A0061,Plaque Quantification,2026-08-01,25
+A0061,Plaque Quantification,2026-09-01,23
+A0062,Plaque Quantification,2026-09-01,53
+A0064,Stenosis Mapping,2025-08-01,23
+A0064,Stenosis Mapping,2025-09-01,38
+A0064,Stenosis Mapping,2025-10-01,41
+A0064,Stenosis Mapping,2025-11-01,36
+A0064,Stenosis Mapping,2025-12-01,43
+A0064,Stenosis Mapping,2026-01-01,40
+A0064,Stenosis Mapping,2026-02-01,34
+A0064,Stenosis Mapping,2026-03-01,23
+A0064,Stenosis Mapping,2026-04-01,40
+A0064,Stenosis Mapping,2026-05-01,31
+A0064,Stenosis Mapping,2026-06-01,34
+A0064,Stenosis Mapping,2026-07-01,42
+A0064,Stenosis Mapping,2026-08-01,50
+A0064,Stenosis Mapping,2026-09-01,38
+A0067,Plaque Quantification,2025-11-01,8
+A0067,Plaque Quantification,2025-12-01,5
+A0067,Plaque Quantification,2026-01-01,6
+A0067,Plaque Quantification,2026-02-01,7
+A0067,Plaque Quantification,2026-03-01,9
+A0067,Plaque Quantification,2026-04-01,7
+A0067,Plaque Quantification,2026-05-01,7
+A0067,Plaque Quantification,2026-06-01,6
+A0067,Plaque Quantification,2026-07-01,6
+A0067,Plaque Quantification,2026-08-01,8
+A0067,Plaque Quantification,2026-09-01,7
+A0068,Plaque Quantification,2025-05-01,46
+A0068,Plaque Quantification,2025-06-01,45
+A0068,Plaque Quantification,2025-07-01,44
+A0068,Plaque Quantification,2025-08-01,57
+A0068,Plaque Quantification,2025-09-01,30
+A0068,Plaque Quantification,2025-10-01,58
+A0068,Plaque Quantification,2025-11-01,41
+A0068,Plaque Quantification,2025-12-01,56
+A0068,Plaque Quantification,2026-01-01,67
+A0068,Plaque Quantification,2026-02-01,76
+A0068,Plaque Quantification,2026-03-01,73
+A0068,Plaque Quantification,2026-04-01,60
+A0068,Plaque Quantification,2026-05-01,85
+A0068,Plaque Quantification,2026-06-01,83
+A0068,Plaque Quantification,2026-07-01,63
+A0068,Plaque Quantification,2026-08-01,85
+A0068,Plaque Quantification,2026-09-01,69
+A0069,Plaque Quantification,2026-06-01,64
+A0069,Plaque Quantification,2026-07-01,61
+A0069,Plaque Quantification,2026-08-01,60
+A0069,Plaque Quantification,2026-09-01,70
+A0070,Stenosis Mapping,2025-09-01,12
+A0070,Stenosis Mapping,2025-10-01,14
+A0070,Stenosis Mapping,2025-11-01,8
+A0070,Stenosis Mapping,2025-12-01,13
+A0070,Stenosis Mapping,2026-01-01,11
+A0070,Stenosis Mapping,2026-02-01,9
+A0070,Stenosis Mapping,2026-03-01,6
+A0070,Stenosis Mapping,2026-04-01,11
+A0070,Stenosis Mapping,2026-05-01,15
+A0070,Stenosis Mapping,2026-06-01,16
+A0070,Stenosis Mapping,2026-07-01,12
+A0070,Stenosis Mapping,2026-08-01,16
+A0070,Stenosis Mapping,2026-09-01,11
+A0071,Coronary Flow Analysis,2026-01-01,31
+A0071,Coronary Flow Analysis,2026-02-01,39
+A0071,Coronary Flow Analysis,2026-03-01,28
+A0071,Coronary Flow Analysis,2026-04-01,41
+A0071,Coronary Flow Analysis,2026-05-01,42
+A0071,Coronary Flow Analysis,2026-06-01,37
+A0071,Coronary Flow Analysis,2026-07-01,62
+A0071,Coronary Flow Analysis,2026-08-01,64
+A0071,Coronary Flow Analysis,2026-09-01,99
+A0071,Stenosis Mapping,2026-05-01,40
+A0071,Stenosis Mapping,2026-06-01,37
+A0071,Stenosis Mapping,2026-07-01,53
+A0071,Stenosis Mapping,2026-08-01,34
+A0071,Stenosis Mapping,2026-09-01,51
+A0072,Coronary Flow Analysis,2025-11-01,31
+A0072,Coronary Flow Analysis,2025-12-01,27
+A0072,Coronary Flow Analysis,2026-01-01,26
+A0072,Coronary Flow Analysis,2026-02-01,31
+A0072,Coronary Flow Analysis,2026-03-01,28
+A0072,Coronary Flow Analysis,2026-04-01,34
+A0072,Coronary Flow Analysis,2026-05-01,37
+A0072,Coronary Flow Analysis,2026-06-01,29
+A0072,Coronary Flow Analysis,2026-07-01,32
+A0072,Coronary Flow Analysis,2026-08-01,24
+A0072,Coronary Flow Analysis,2026-09-01,42
+A0072,Plaque Quantification,2026-04-01,30
+A0072,Plaque Quantification,2026-05-01,21
+A0072,Plaque Quantification,2026-06-01,67
+A0072,Plaque Quantification,2026-07-01,76
+A0072,Plaque Quantification,2026-08-01,70
+A0072,Plaque Quantification,2026-09-01,66
+A0072,Stenosis Mapping,2025-07-01,30
+A0072,Stenosis Mapping,2025-08-01,38
+A0072,Stenosis Mapping,2025-09-01,33
+A0072,Stenosis Mapping,2025-10-01,45
+A0072,Stenosis Mapping,2025-11-01,32
+A0072,Stenosis Mapping,2025-12-01,36
+A0072,Stenosis Mapping,2026-01-01,39
+A0072,Stenosis Mapping,2026-02-01,28
+A0072,Stenosis Mapping,2026-03-01,34
+A0072,Stenosis Mapping,2026-04-01,33
+A0072,Stenosis Mapping,2026-05-01,31
+A0072,Stenosis Mapping,2026-06-01,31
+A0072,Stenosis Mapping,2026-07-01,42
+A0072,Stenosis Mapping,2026-08-01,30
+A0072,Stenosis Mapping,2026-09-01,38
+A0074,Coronary Flow Analysis,2026-01-01,46
+A0074,Coronary Flow Analysis,2026-02-01,71
+A0074,Coronary Flow Analysis,2026-03-01,56
+A0074,Coronary Flow Analysis,2026-04-01,57
+A0074,Coronary Flow Analysis,2026-05-01,70
+A0074,Coronary Flow Analysis,2026-06-01,47
+A0074,Coronary Flow Analysis,2026-07-01,51
+A0074,Coronary Flow Analysis,2026-08-01,38
+A0074,Coronary Flow Analysis,2026-09-01,50
+A0074,Plaque Quantification,2026-05-01,13
+A0074,Plaque Quantification,2026-06-01,14
+A0074,Plaque Quantification,2026-07-01,16
+A0074,Plaque Quantification,2026-08-01,11
+A0074,Plaque Quantification,2026-09-01,25
+A0074,Stenosis Mapping,2026-03-01,61
+A0074,Stenosis Mapping,2026-04-01,69
+A0074,Stenosis Mapping,2026-05-01,71
+A0074,Stenosis Mapping,2026-06-01,68
+A0074,Stenosis Mapping,2026-07-01,75
+A0074,Stenosis Mapping,2026-08-01,66
+A0074,Stenosis Mapping,2026-09-01,60
+A0077,Plaque Quantification,2026-07-01,30
+A0077,Plaque Quantification,2026-08-01,31
+A0077,Plaque Quantification,2026-09-01,39
+A0077,Stenosis Mapping,2026-07-01,14
+A0077,Stenosis Mapping,2026-08-01,16
+A0077,Stenosis Mapping,2026-09-01,16
+A0079,Coronary Flow Analysis,2026-09-01,7
+A0080,Coronary Flow Analysis,2026-06-01,5
+A0080,Coronary Flow Analysis,2026-07-01,7
+A0080,Coronary Flow Analysis,2026-08-01,5
+A0080,Coronary Flow Analysis,2026-09-01,6
+A0080,Stenosis Mapping,2026-06-01,56
+A0080,Stenosis Mapping,2026-07-01,53
+A0080,Stenosis Mapping,2026-08-01,59
+A0080,Stenosis Mapping,2026-09-01,50
+A0082,Coronary Flow Analysis,2026-07-01,61
+A0082,Coronary Flow Analysis,2026-08-01,54
+A0082,Coronary Flow Analysis,2026-09-01,61
+A0083,Stenosis Mapping,2025-04-01,19
+A0083,Stenosis Mapping,2025-05-01,19
+A0083,Stenosis Mapping,2025-06-01,20
+A0083,Stenosis Mapping,2025-07-01,46
+A0083,Stenosis Mapping,2025-08-01,41
+A0083,Stenosis Mapping,2025-09-01,44
+A0083,Stenosis Mapping,2025-10-01,49
+A0083,Stenosis Mapping,2025-11-01,46
+A0083,Stenosis Mapping,2025-12-01,50
+A0083,Stenosis Mapping,2026-01-01,47
+A0083,Stenosis Mapping,2026-02-01,43
+A0083,Stenosis Mapping,2026-03-01,59
+A0083,Stenosis Mapping,2026-04-01,51
+A0083,Stenosis Mapping,2026-05-01,39
+A0083,Stenosis Mapping,2026-06-01,44
+A0083,Stenosis Mapping,2026-07-01,50
+A0083,Stenosis Mapping,2026-08-01,50
+A0083,Stenosis Mapping,2026-09-01,45
+A0084,Coronary Flow Analysis,2025-11-01,4
+A0084,Coronary Flow Analysis,2025-12-01,4
+A0084,Coronary Flow Analysis,2026-01-01,4
+A0084,Coronary Flow Analysis,2026-02-01,4
+A0084,Coronary Flow Analysis,2026-03-01,6
+A0084,Coronary Flow Analysis,2026-04-01,5
+A0084,Coronary Flow Analysis,2026-05-01,4
+A0084,Coronary Flow Analysis,2026-06-01,4
+A0084,Coronary Flow Analysis,2026-07-01,4
+A0084,Coronary Flow Analysis,2026-08-01,4
+A0084,Coronary Flow Analysis,2026-09-01,4
+A0088,Stenosis Mapping,2024-06-01,31
+A0088,Stenosis Mapping,2024-07-01,26
+A0088,Stenosis Mapping,2024-08-01,33
+A0088,Stenosis Mapping,2024-09-01,34
+A0088,Stenosis Mapping,2024-10-01,20
+A0088,Stenosis Mapping,2024-11-01,33
+A0088,Stenosis Mapping,2024-12-01,39
+A0088,Stenosis Mapping,2025-01-01,37
+A0088,Stenosis Mapping,2025-02-01,49
+A0088,Stenosis Mapping,2025-03-01,42
+A0088,Stenosis Mapping,2025-04-01,43
+A0088,Stenosis Mapping,2025-05-01,53
+A0088,Stenosis Mapping,2025-06-01,39
+A0088,Stenosis Mapping,2025-07-01,35
+A0088,Stenosis Mapping,2025-08-01,40
+A0088,Stenosis Mapping,2025-09-01,30
+A0088,Stenosis Mapping,2025-10-01,34
+A0088,Stenosis Mapping,2025-11-01,29
+A0088,Stenosis Mapping,2025-12-01,36
+A0088,Stenosis Mapping,2026-01-01,29
+A0088,Stenosis Mapping,2026-02-01,29
+A0088,Stenosis Mapping,2026-03-01,36
+A0088,Stenosis Mapping,2026-04-01,33
+A0088,Stenosis Mapping,2026-05-01,20
+A0088,Stenosis Mapping,2026-06-01,24
+A0088,Stenosis Mapping,2026-07-01,26
+A0088,Stenosis Mapping,2026-08-01,27
+A0088,Stenosis Mapping,2026-09-01,36
+A0089,Plaque Quantification,2026-03-01,6
+A0089,Plaque Quantification,2026-04-01,6
+A0089,Plaque Quantification,2026-05-01,7
+A0089,Plaque Quantification,2026-06-01,6
+A0089,Plaque Quantification,2026-07-01,4
+A0089,Plaque Quantification,2026-08-01,6
+A0089,Plaque Quantification,2026-09-01,5
+A0090,Coronary Flow Analysis,2025-11-01,40
+A0090,Coronary Flow Analysis,2025-12-01,56
+A0090,Coronary Flow Analysis,2026-01-01,46
+A0090,Coronary Flow Analysis,2026-02-01,39
+A0090,Coronary Flow Analysis,2026-03-01,57
+A0090,Coronary Flow Analysis,2026-04-01,40
+A0090,Coronary Flow Analysis,2026-05-01,59
+A0090,Coronary Flow Analysis,2026-06-01,58
+A0090,Coronary Flow Analysis,2026-07-01,46
+A0090,Coronary Flow Analysis,2026-08-01,32
+A0090,Coronary Flow Analysis,2026-09-01,67
+A0090,Plaque Quantification,2025-09-01,18
+A0090,Plaque Quantification,2025-10-01,38
+A0090,Plaque Quantification,2025-11-01,31
+A0090,Plaque Quantification,2025-12-01,27
+A0090,Plaque Quantification,2026-01-01,36
+A0090,Plaque Quantification,2026-02-01,42
+A0090,Plaque Quantification,2026-03-01,41
+A0090,Plaque Quantification,2026-04-01,33
+A0090,Plaque Quantification,2026-05-01,39
+A0090,Plaque Quantification,2026-06-01,39
+A0090,Plaque Quantification,2026-07-01,33
+A0090,Plaque Quantification,2026-08-01,29
+A0090,Plaque Quantification,2026-09-01,29
+A0091,Coronary Flow Analysis,2026-01-01,32
+A0091,Coronary Flow Analysis,2026-02-01,50
+A0091,Coronary Flow Analysis,2026-03-01,59
+A0091,Coronary Flow Analysis,2026-04-01,46
+A0091,Coronary Flow Analysis,2026-05-01,53
+A0091,Coronary Flow Analysis,2026-06-01,27
+A0091,Coronary Flow Analysis,2026-07-01,40
+A0091,Coronary Flow Analysis,2026-08-01,28
+A0091,Coronary Flow Analysis,2026-09-01,52
+A0091,Plaque Quantification,2026-09-01,57
+A0092,Plaque Quantification,2026-05-01,27
+A0092,Plaque Quantification,2026-06-01,21
+A0092,Plaque Quantification,2026-07-01,25
+A0092,Plaque Quantification,2026-08-01,26
+A0092,Plaque Quantification,2026-09-01,23
+A0093,Coronary Flow Analysis,2026-08-01,14
+A0093,Coronary Flow Analysis,2026-09-01,12
+A0093,Stenosis Mapping,2026-03-01,56
+A0093,Stenosis Mapping,2026-04-01,54
+A0093,Stenosis Mapping,2026-05-01,39
+A0093,Stenosis Mapping,2026-06-01,45
+A0093,Stenosis Mapping,2026-07-01,33
+A0093,Stenosis Mapping,2026-08-01,43
+A0093,Stenosis Mapping,2026-09-01,39
+A0094,Coronary Flow Analysis,2024-10-01,56
+A0094,Coronary Flow Analysis,2024-11-01,44
+A0094,Coronary Flow Analysis,2024-12-01,37
+A0094,Coronary Flow Analysis,2025-01-01,30
+A0094,Coronary Flow Analysis,2025-02-01,44
+A0094,Coronary Flow Analysis,2025-03-01,34
+A0094,Coronary Flow Analysis,2025-04-01,33
+A0094,Coronary Flow Analysis,2025-05-01,50
+A0094,Coronary Flow Analysis,2025-06-01,29
+A0094,Coronary Flow Analysis,2025-07-01,58
+A0094,Coronary Flow Analysis,2025-08-01,47
+A0094,Coronary Flow Analysis,2025-09-01,45
+A0094,Coronary Flow Analysis,2025-10-01,36
+A0094,Coronary Flow Analysis,2025-11-01,53
+A0094,Coronary Flow Analysis,2025-12-01,45
+A0094,Coronary Flow Analysis,2026-01-01,39
+A0094,Coronary Flow Analysis,2026-02-01,47
+A0094,Coronary Flow Analysis,2026-03-01,30
+A0094,Coronary Flow Analysis,2026-04-01,30
+A0094,Coronary Flow Analysis,2026-05-01,35
+A0094,Coronary Flow Analysis,2026-06-01,49
+A0094,Coronary Flow Analysis,2026-07-01,45
+A0094,Coronary Flow Analysis,2026-08-01,55
+A0094,Coronary Flow Analysis,2026-09-01,37
+A0094,Plaque Quantification,2025-01-01,17
+A0094,Plaque Quantification,2025-02-01,19
+A0094,Plaque Quantification,2025-03-01,10
+A0094,Plaque Quantification,2025-04-01,18
+A0094,Plaque Quantification,2025-05-01,20
+A0094,Plaque Quantification,2025-06-01,18
+A0094,Plaque Quantification,2025-07-01,27
+A0094,Plaque Quantification,2025-08-01,15
+A0094,Plaque Quantification,2025-09-01,17
+A0094,Plaque Quantification,2025-10-01,16
+A0094,Plaque Quantification,2025-11-01,17
+A0094,Plaque Quantification,2025-12-01,24
+A0094,Plaque Quantification,2026-01-01,25
+A0094,Plaque Quantification,2026-02-01,17
+A0094,Plaque Quantification,2026-03-01,17
+A0094,Plaque Quantification,2026-04-01,15
+A0094,Plaque Quantification,2026-05-01,25
+A0094,Plaque Quantification,2026-06-01,24
+A0094,Plaque Quantification,2026-07-01,19
+A0094,Plaque Quantification,2026-08-01,31
+A0094,Plaque Quantification,2026-09-01,29
+A0095,Coronary Flow Analysis,2025-05-01,48
+A0095,Coronary Flow Analysis,2025-06-01,45
+A0095,Coronary Flow Analysis,2025-07-01,40
+A0095,Coronary Flow Analysis,2025-08-01,44
+A0095,Coronary Flow Analysis,2025-09-01,51
+A0095,Coronary Flow Analysis,2025-10-01,42
+A0095,Coronary Flow Analysis,2025-11-01,51
+A0095,Coronary Flow Analysis,2025-12-01,41
+A0095,Coronary Flow Analysis,2026-01-01,34
+A0095,Coronary Flow Analysis,2026-02-01,59
+A0095,Coronary Flow Analysis,2026-03-01,46
+A0095,Coronary Flow Analysis,2026-04-01,42
+A0095,Coronary Flow Analysis,2026-05-01,39
+A0095,Coronary Flow Analysis,2026-06-01,55
+A0095,Coronary Flow Analysis,2026-07-01,65
+A0095,Coronary Flow Analysis,2026-08-01,46
+A0095,Coronary Flow Analysis,2026-09-01,48
+A0095,Stenosis Mapping,2026-07-01,46
+A0095,Stenosis Mapping,2026-08-01,56
+A0095,Stenosis Mapping,2026-09-01,55
+A0096,Plaque Quantification,2025-09-01,19
+A0096,Plaque Quantification,2025-10-01,29
+A0096,Plaque Quantification,2025-11-01,27
+A0096,Plaque Quantification,2025-12-01,34
+A0096,Plaque Quantification,2026-01-01,24
+A0096,Plaque Quantification,2026-02-01,26
+A0096,Plaque Quantification,2026-03-01,33
+A0096,Plaque Quantification,2026-04-01,27
+A0096,Plaque Quantification,2026-05-01,21
+A0096,Plaque Quantification,2026-06-01,42
+A0096,Plaque Quantification,2026-07-01,21
+A0096,Plaque Quantification,2026-08-01,27
+A0096,Plaque Quantification,2026-09-01,29
+A0096,Stenosis Mapping,2026-01-01,44
+A0096,Stenosis Mapping,2026-02-01,46
+A0096,Stenosis Mapping,2026-03-01,41
+A0096,Stenosis Mapping,2026-04-01,94
+A0096,Stenosis Mapping,2026-05-01,108
+A0096,Stenosis Mapping,2026-06-01,103
+A0096,Stenosis Mapping,2026-07-01,93
+A0096,Stenosis Mapping,2026-08-01,103
+A0096,Stenosis Mapping,2026-09-01,85
+A0097,Coronary Flow Analysis,2024-12-01,45
+A0097,Coronary Flow Analysis,2025-01-01,40
+A0097,Coronary Flow Analysis,2025-02-01,32
+A0097,Coronary Flow Analysis,2025-03-01,43
+A0097,Coronary Flow Analysis,2025-04-01,29
+A0097,Coronary Flow Analysis,2025-05-01,37
+A0097,Coronary Flow Analysis,2025-06-01,34
+A0097,Coronary Flow Analysis,2025-07-01,36
+A0097,Coronary Flow Analysis,2025-08-01,40
+A0097,Coronary Flow Analysis,2025-09-01,32
+A0097,Coronary Flow Analysis,2025-10-01,53
+A0097,Coronary Flow Analysis,2025-11-01,45
+A0097,Coronary Flow Analysis,2025-12-01,55
+A0097,Coronary Flow Analysis,2026-01-01,39
+A0097,Coronary Flow Analysis,2026-02-01,36
+A0097,Coronary Flow Analysis,2026-03-01,55
+A0097,Coronary Flow Analysis,2026-04-01,36
+A0097,Coronary Flow Analysis,2026-05-01,39
+A0097,Coronary Flow Analysis,2026-06-01,46
+A0097,Coronary Flow Analysis,2026-07-01,30
+A0097,Coronary Flow Analysis,2026-08-01,46
+A0097,Coronary Flow Analysis,2026-09-01,45
+A0097,Stenosis Mapping,2025-08-01,19
+A0097,Stenosis Mapping,2025-09-01,72
+A0097,Stenosis Mapping,2025-10-01,82
+A0097,Stenosis Mapping,2025-11-01,85
+A0097,Stenosis Mapping,2025-12-01,93
+A0097,Stenosis Mapping,2026-01-01,76
+A0097,Stenosis Mapping,2026-02-01,112
+A0097,Stenosis Mapping,2026-03-01,135
+A0097,Stenosis Mapping,2026-04-01,114
+A0097,Stenosis Mapping,2026-05-01,125
+A0097,Stenosis Mapping,2026-06-01,95
+A0097,Stenosis Mapping,2026-07-01,113
+A0097,Stenosis Mapping,2026-08-01,132
+A0097,Stenosis Mapping,2026-09-01,99
+A0099,Coronary Flow Analysis,2026-01-01,28
+A0099,Coronary Flow Analysis,2026-02-01,22
+A0099,Coronary Flow Analysis,2026-03-01,27
+A0099,Coronary Flow Analysis,2026-04-01,25
+A0099,Coronary Flow Analysis,2026-05-01,27
+A0099,Coronary Flow Analysis,2026-06-01,17
+A0099,Coronary Flow Analysis,2026-07-01,23
+A0099,Coronary Flow Analysis,2026-08-01,23
+A0099,Coronary Flow Analysis,2026-09-01,26
+A0099,Plaque Quantification,2026-04-01,13
+A0099,Plaque Quantification,2026-05-01,6
+A0099,Plaque Quantification,2026-06-01,11
+A0099,Plaque Quantification,2026-07-01,14
+A0099,Plaque Quantification,2026-08-01,13
+A0099,Plaque Quantification,2026-09-01,8
+A0100,Coronary Flow Analysis,2024-10-01,28
+A0100,Coronary Flow Analysis,2024-11-01,30
+A0100,Coronary Flow Analysis,2024-12-01,26
+A0100,Coronary Flow Analysis,2025-01-01,31
+A0100,Coronary Flow Analysis,2025-02-01,29
+A0100,Coronary Flow Analysis,2025-03-01,27
+A0100,Coronary Flow Analysis,2025-04-01,40
+A0100,Coronary Flow Analysis,2025-05-01,33
+A0100,Coronary Flow Analysis,2025-06-01,28
+A0100,Coronary Flow Analysis,2025-07-01,31
+A0100,Coronary Flow Analysis,2025-08-01,24
+A0100,Coronary Flow Analysis,2025-09-01,28
+A0100,Coronary Flow Analysis,2025-10-01,29
+A0100,Coronary Flow Analysis,2025-11-01,23
+A0100,Coronary Flow Analysis,2025-12-01,33
+A0100,Coronary Flow Analysis,2026-01-01,27
+A0100,Coronary Flow Analysis,2026-02-01,28
+A0100,Coronary Flow Analysis,2026-03-01,27
+A0100,Coronary Flow Analysis,2026-04-01,49
+A0100,Coronary Flow Analysis,2026-05-01,26
+A0100,Coronary Flow Analysis,2026-06-01,18
+A0100,Coronary Flow Analysis,2026-07-01,21
+A0100,Coronary Flow Analysis,2026-08-01,35
+A0100,Coronary Flow Analysis,2026-09-01,39
+A0101,Coronary Flow Analysis,2024-09-01,72
+A0101,Coronary Flow Analysis,2024-10-01,45
+A0101,Coronary Flow Analysis,2024-11-01,50
+A0101,Coronary Flow Analysis,2024-12-01,63
+A0101,Coronary Flow Analysis,2025-01-01,71
+A0101,Coronary Flow Analysis,2025-02-01,43
+A0101,Coronary Flow Analysis,2025-03-01,51
+A0101,Coronary Flow Analysis,2025-04-01,58
+A0101,Coronary Flow Analysis,2025-05-01,54
+A0101,Coronary Flow Analysis,2025-06-01,66
+A0101,Coronary Flow Analysis,2025-07-01,149
+A0101,Coronary Flow Analysis,2025-08-01,126
+A0101,Coronary Flow Analysis,2025-09-01,93
+A0101,Coronary Flow Analysis,2025-10-01,85
+A0101,Coronary Flow Analysis,2025-11-01,120
+A0101,Coronary Flow Analysis,2025-12-01,107
+A0101,Coronary Flow Analysis,2026-01-01,131
+A0101,Coronary Flow Analysis,2026-02-01,114
+A0101,Coronary Flow Analysis,2026-03-01,100
+A0101,Coronary Flow Analysis,2026-04-01,161
+A0101,Coronary Flow Analysis,2026-05-01,97
+A0101,Coronary Flow Analysis,2026-06-01,138
+A0101,Coronary Flow Analysis,2026-07-01,149
+A0101,Coronary Flow Analysis,2026-08-01,151
+A0101,Coronary Flow Analysis,2026-09-01,135
+A0102,Coronary Flow Analysis,2026-03-01,40
+A0102,Coronary Flow Analysis,2026-04-01,58
+A0102,Coronary Flow Analysis,2026-05-01,79
+A0102,Coronary Flow Analysis,2026-06-01,46
+A0102,Coronary Flow Analysis,2026-07-01,55
+A0102,Coronary Flow Analysis,2026-08-01,71
+A0102,Coronary Flow Analysis,2026-09-01,62
+A0102,Plaque Quantification,2026-07-01,62
+A0102,Plaque Quantification,2026-08-01,98
+A0102,Plaque Quantification,2026-09-01,112
+A0104,Coronary Flow Analysis,2026-09-01,36
+A0105,Stenosis Mapping,2026-04-01,9
+A0105,Stenosis Mapping,2026-05-01,9
+A0105,Stenosis Mapping,2026-06-01,8
+A0105,Stenosis Mapping,2026-07-01,11
+A0105,Stenosis Mapping,2026-08-01,7
+A0105,Stenosis Mapping,2026-09-01,8
+A0108,Plaque Quantification,2026-01-01,50
+A0108,Plaque Quantification,2026-02-01,36
+A0108,Plaque Quantification,2026-03-01,55
+A0108,Plaque Quantification,2026-04-01,92
+A0108,Plaque Quantification,2026-05-01,93
+A0108,Plaque Quantification,2026-06-01,84
+A0108,Plaque Quantification,2026-07-01,102
+A0108,Plaque Quantification,2026-08-01,87
+A0108,Plaque Quantification,2026-09-01,101
+A0110,Plaque Quantification,2026-02-01,19
+A0110,Plaque Quantification,2026-03-01,18
+A0110,Plaque Quantification,2026-04-01,15
+A0110,Plaque Quantification,2026-05-01,21
+A0110,Plaque Quantification,2026-06-01,15
+A0110,Plaque Quantification,2026-07-01,15
+A0110,Plaque Quantification,2026-08-01,23
+A0110,Plaque Quantification,2026-09-01,20
+A0112,Plaque Quantification,2026-08-01,57
+A0112,Plaque Quantification,2026-09-01,49
+A0113,Plaque Quantification,2026-02-01,36
+A0113,Plaque Quantification,2026-03-01,31
+A0113,Plaque Quantification,2026-04-01,39
+A0113,Plaque Quantification,2026-05-01,52
+A0113,Plaque Quantification,2026-06-01,91
+A0113,Plaque Quantification,2026-07-01,91
+A0113,Plaque Quantification,2026-08-01,96
+A0113,Plaque Quantification,2026-09-01,101
+A0113,Stenosis Mapping,2025-12-01,35
+A0113,Stenosis Mapping,2026-01-01,25
+A0113,Stenosis Mapping,2026-02-01,20
+A0113,Stenosis Mapping,2026-03-01,23
+A0113,Stenosis Mapping,2026-04-01,26
+A0113,Stenosis Mapping,2026-05-01,22
+A0113,Stenosis Mapping,2026-06-01,21
+A0113,Stenosis Mapping,2026-07-01,20
+A0113,Stenosis Mapping,2026-08-01,25
+A0113,Stenosis Mapping,2026-09-01,22
+A0115,Coronary Flow Analysis,2025-04-01,37
+A0115,Coronary Flow Analysis,2025-05-01,51
+A0115,Coronary Flow Analysis,2025-06-01,36
+A0115,Coronary Flow Analysis,2025-07-01,61
+A0115,Coronary Flow Analysis,2025-08-01,39
+A0115,Coronary Flow Analysis,2025-09-01,49
+A0115,Coronary Flow Analysis,2025-10-01,40
+A0115,Coronary Flow Analysis,2025-11-01,43
+A0115,Coronary Flow Analysis,2025-12-01,63
+A0115,Coronary Flow Analysis,2026-01-01,50
+A0115,Coronary Flow Analysis,2026-02-01,43
+A0115,Coronary Flow Analysis,2026-03-01,37
+A0115,Coronary Flow Analysis,2026-04-01,30
+A0115,Coronary Flow Analysis,2026-05-01,36
+A0115,Coronary Flow Analysis,2026-06-01,50
+A0115,Coronary Flow Analysis,2026-07-01,58
+A0115,Coronary Flow Analysis,2026-08-01,43
+A0115,Coronary Flow Analysis,2026-09-01,64
+A0117,Coronary Flow Analysis,2026-01-01,21
+A0117,Coronary Flow Analysis,2026-02-01,26
+A0117,Coronary Flow Analysis,2026-03-01,26
+A0117,Coronary Flow Analysis,2026-04-01,32
+A0117,Coronary Flow Analysis,2026-05-01,22
+A0117,Coronary Flow Analysis,2026-06-01,29
+A0117,Coronary Flow Analysis,2026-07-01,26
+A0117,Coronary Flow Analysis,2026-08-01,33
+A0117,Coronary Flow Analysis,2026-09-01,32
+A0117,Stenosis Mapping,2026-08-01,60
+A0117,Stenosis Mapping,2026-09-01,52
+A0118,Coronary Flow Analysis,2026-03-01,10
+A0118,Coronary Flow Analysis,2026-04-01,9
+A0118,Coronary Flow Analysis,2026-05-01,9
+A0118,Coronary Flow Analysis,2026-06-01,9
+A0118,Coronary Flow Analysis,2026-07-01,7
+A0118,Coronary Flow Analysis,2026-08-01,14
+A0118,Coronary Flow Analysis,2026-09-01,9
+A0118,Plaque Quantification,2026-01-01,46
+A0118,Plaque Quantification,2026-02-01,38
+A0118,Plaque Quantification,2026-03-01,54
+A0118,Plaque Quantification,2026-04-01,36
+A0118,Plaque Quantification,2026-05-01,50
+A0118,Plaque Quantification,2026-06-01,56
+A0118,Plaque Quantification,2026-07-01,34
+A0118,Plaque Quantification,2026-08-01,84
+A0118,Plaque Quantification,2026-09-01,89
+A0119,Coronary Flow Analysis,2026-06-01,16
+A0119,Coronary Flow Analysis,2026-07-01,12
+A0119,Coronary Flow Analysis,2026-08-01,11
+A0119,Coronary Flow Analysis,2026-09-01,15
+A0123,Plaque Quantification,2026-05-01,20
+A0123,Plaque Quantification,2026-06-01,20
+A0123,Plaque Quantification,2026-07-01,20
+A0123,Plaque Quantification,2026-08-01,19
+A0123,Plaque Quantification,2026-09-01,15
+A0123,Stenosis Mapping,2026-05-01,8
+A0123,Stenosis Mapping,2026-06-01,9
+A0123,Stenosis Mapping,2026-07-01,7
+A0123,Stenosis Mapping,2026-08-01,13
+A0123,Stenosis Mapping,2026-09-01,9
+A0125,Coronary Flow Analysis,2025-12-01,57
+A0125,Coronary Flow Analysis,2026-01-01,39
+A0125,Coronary Flow Analysis,2026-02-01,46
+A0125,Coronary Flow Analysis,2026-03-01,53
+A0125,Coronary Flow Analysis,2026-04-01,51
+A0125,Coronary Flow Analysis,2026-05-01,60
+A0125,Coronary Flow Analysis,2026-06-01,65
+A0125,Coronary Flow Analysis,2026-07-01,85
+A0125,Coronary Flow Analysis,2026-08-01,58
+A0125,Coronary Flow Analysis,2026-09-01,72
+A0126,Plaque Quantification,2026-02-01,46
+A0126,Plaque Quantification,2026-03-01,59
+A0126,Plaque Quantification,2026-04-01,59
+A0126,Plaque Quantification,2026-05-01,86
+A0126,Plaque Quantification,2026-06-01,66
+A0126,Plaque Quantification,2026-07-01,52
+A0126,Plaque Quantification,2026-08-01,67
+A0126,Plaque Quantification,2026-09-01,84
+A0127,Plaque Quantification,2025-07-01,59
+A0127,Plaque Quantification,2025-08-01,64
+A0127,Plaque Quantification,2025-09-01,57
+A0127,Plaque Quantification,2025-10-01,61
+A0127,Plaque Quantification,2025-11-01,51
+A0127,Plaque Quantification,2025-12-01,56
+A0127,Plaque Quantification,2026-01-01,48
+A0127,Plaque Quantification,2026-02-01,68
+A0127,Plaque Quantification,2026-03-01,71
+A0127,Plaque Quantification,2026-04-01,70
+A0127,Plaque Quantification,2026-05-01,91
+A0127,Plaque Quantification,2026-06-01,118
+A0127,Plaque Quantification,2026-07-01,182
+A0127,Plaque Quantification,2026-08-01,170
+A0127,Plaque Quantification,2026-09-01,146
+A0127,Stenosis Mapping,2025-02-01,65
+A0127,Stenosis Mapping,2025-03-01,72
+A0127,Stenosis Mapping,2025-04-01,53
+A0127,Stenosis Mapping,2025-05-01,40
+A0127,Stenosis Mapping,2025-06-01,62
+A0127,Stenosis Mapping,2025-07-01,63
+A0127,Stenosis Mapping,2025-08-01,72
+A0127,Stenosis Mapping,2025-09-01,69
+A0127,Stenosis Mapping,2025-10-01,76
+A0127,Stenosis Mapping,2025-11-01,61
+A0127,Stenosis Mapping,2025-12-01,57
+A0127,Stenosis Mapping,2026-01-01,39
+A0127,Stenosis Mapping,2026-02-01,58
+A0127,Stenosis Mapping,2026-03-01,48
+A0127,Stenosis Mapping,2026-04-01,57
+A0127,Stenosis Mapping,2026-05-01,55
+A0127,Stenosis Mapping,2026-06-01,60
+A0127,Stenosis Mapping,2026-07-01,53
+A0127,Stenosis Mapping,2026-08-01,65
+A0127,Stenosis Mapping,2026-09-01,25
+A0128,Coronary Flow Analysis,2025-03-01,32
+A0128,Coronary Flow Analysis,2025-04-01,19
+A0128,Coronary Flow Analysis,2025-05-01,25
+A0128,Coronary Flow Analysis,2025-06-01,27
+A0128,Coronary Flow Analysis,2025-07-01,24
+A0128,Coronary Flow Analysis,2025-08-01,28
+A0128,Coronary Flow Analysis,2025-09-01,40
+A0128,Coronary Flow Analysis,2025-10-01,26
+A0128,Coronary Flow Analysis,2025-11-01,24
+A0128,Coronary Flow Analysis,2025-12-01,32
+A0128,Coronary Flow Analysis,2026-01-01,45
+A0128,Coronary Flow Analysis,2026-02-01,46
+A0128,Coronary Flow Analysis,2026-03-01,40
+A0128,Coronary Flow Analysis,2026-04-01,36
+A0128,Coronary Flow Analysis,2026-05-01,29
+A0128,Coronary Flow Analysis,2026-06-01,35
+A0128,Coronary Flow Analysis,2026-07-01,27
+A0128,Coronary Flow Analysis,2026-08-01,39
+A0128,Coronary Flow Analysis,2026-09-01,36
+A0129,Stenosis Mapping,2025-03-01,46
+A0129,Stenosis Mapping,2025-04-01,59
+A0129,Stenosis Mapping,2025-05-01,57
+A0129,Stenosis Mapping,2025-06-01,63
+A0129,Stenosis Mapping,2025-07-01,43
+A0129,Stenosis Mapping,2025-08-01,53
+A0129,Stenosis Mapping,2025-09-01,38
+A0129,Stenosis Mapping,2025-10-01,56
+A0129,Stenosis Mapping,2025-11-01,49
+A0129,Stenosis Mapping,2025-12-01,52
+A0129,Stenosis Mapping,2026-01-01,48
+A0129,Stenosis Mapping,2026-02-01,47
+A0129,Stenosis Mapping,2026-03-01,41
+A0129,Stenosis Mapping,2026-04-01,57
+A0129,Stenosis Mapping,2026-05-01,64
+A0129,Stenosis Mapping,2026-06-01,44
+A0129,Stenosis Mapping,2026-07-01,55
+A0129,Stenosis Mapping,2026-08-01,54
+A0129,Stenosis Mapping,2026-09-01,50
+A0131,Stenosis Mapping,2024-11-01,50
+A0131,Stenosis Mapping,2024-12-01,47
+A0131,Stenosis Mapping,2025-01-01,38
+A0131,Stenosis Mapping,2025-02-01,52
+A0131,Stenosis Mapping,2025-03-01,43
+A0131,Stenosis Mapping,2025-04-01,41
+A0131,Stenosis Mapping,2025-05-01,49
+A0131,Stenosis Mapping,2025-06-01,59
+A0131,Stenosis Mapping,2025-07-01,53
+A0131,Stenosis Mapping,2025-08-01,46
+A0131,Stenosis Mapping,2025-09-01,46
+A0131,Stenosis Mapping,2025-10-01,58
+A0131,Stenosis Mapping,2025-11-01,27
+A0131,Stenosis Mapping,2025-12-01,60
+A0131,Stenosis Mapping,2026-01-01,32
+A0131,Stenosis Mapping,2026-02-01,37
+A0131,Stenosis Mapping,2026-03-01,46
+A0131,Stenosis Mapping,2026-04-01,74
+A0131,Stenosis Mapping,2026-05-01,69
+A0131,Stenosis Mapping,2026-06-01,59
+A0131,Stenosis Mapping,2026-07-01,55
+A0131,Stenosis Mapping,2026-08-01,32
+A0131,Stenosis Mapping,2026-09-01,53
+A0132,Coronary Flow Analysis,2024-11-01,13
+A0132,Coronary Flow Analysis,2024-12-01,15
+A0132,Coronary Flow Analysis,2025-01-01,11
+A0132,Coronary Flow Analysis,2025-02-01,12
+A0132,Coronary Flow Analysis,2025-03-01,18
+A0132,Coronary Flow Analysis,2025-04-01,18
+A0132,Coronary Flow Analysis,2025-05-01,12
+A0132,Coronary Flow Analysis,2025-06-01,18
+A0132,Coronary Flow Analysis,2025-07-01,17
+A0132,Coronary Flow Analysis,2025-08-01,20
+A0132,Coronary Flow Analysis,2025-09-01,17
+A0132,Coronary Flow Analysis,2025-10-01,19
+A0132,Coronary Flow Analysis,2025-11-01,17
+A0132,Coronary Flow Analysis,2025-12-01,19
+A0132,Coronary Flow Analysis,2026-01-01,11
+A0132,Coronary Flow Analysis,2026-02-01,15
+A0132,Coronary Flow Analysis,2026-03-01,15
+A0132,Coronary Flow Analysis,2026-04-01,15
+A0132,Coronary Flow Analysis,2026-05-01,17
+A0132,Coronary Flow Analysis,2026-06-01,18
+A0132,Coronary Flow Analysis,2026-07-01,17
+A0132,Coronary Flow Analysis,2026-08-01,15
+A0132,Coronary Flow Analysis,2026-09-01,13
+A0132,Plaque Quantification,2025-03-01,29
+A0132,Plaque Quantification,2025-04-01,24
+A0132,Plaque Quantification,2025-05-01,31
+A0132,Plaque Quantification,2025-06-01,37
+A0132,Plaque Quantification,2025-07-01,21
+A0132,Plaque Quantification,2025-08-01,22
+A0132,Plaque Quantification,2025-09-01,26
+A0132,Plaque Quantification,2025-10-01,26
+A0132,Plaque Quantification,2025-11-01,40
+A0132,Plaque Quantification,2025-12-01,34
+A0132,Plaque Quantification,2026-01-01,34
+A0132,Plaque Quantification,2026-02-01,27
+A0132,Plaque Quantification,2026-03-01,27
+A0132,Plaque Quantification,2026-04-01,20
+A0132,Plaque Quantification,2026-05-01,33
+A0132,Plaque Quantification,2026-06-01,31
+A0132,Plaque Quantification,2026-07-01,36
+A0132,Plaque Quantification,2026-08-01,27
+A0132,Plaque Quantification,2026-09-01,28
+A0133,Coronary Flow Analysis,2026-07-01,12
+A0133,Coronary Flow Analysis,2026-08-01,8
+A0133,Coronary Flow Analysis,2026-09-01,6
+A0134,Coronary Flow Analysis,2026-06-01,41
+A0134,Coronary Flow Analysis,2026-07-01,35
+A0134,Coronary Flow Analysis,2026-08-01,36
+A0134,Coronary Flow Analysis,2026-09-01,39
+A0134,Stenosis Mapping,2026-04-01,10
+A0134,Stenosis Mapping,2026-05-01,11
+A0134,Stenosis Mapping,2026-06-01,10
+A0134,Stenosis Mapping,2026-07-01,8
+A0134,Stenosis Mapping,2026-08-01,10
+A0134,Stenosis Mapping,2026-09-01,13
+A0136,Stenosis Mapping,2026-08-01,42
+A0136,Stenosis Mapping,2026-09-01,47
+A0138,Coronary Flow Analysis,2025-08-01,39
+A0138,Coronary Flow Analysis,2025-09-01,34
+A0138,Coronary Flow Analysis,2025-10-01,40
+A0138,Coronary Flow Analysis,2025-11-01,48
+A0138,Coronary Flow Analysis,2025-12-01,42
+A0138,Coronary Flow Analysis,2026-01-01,45
+A0138,Coronary Flow Analysis,2026-02-01,51
+A0138,Coronary Flow Analysis,2026-03-01,54
+A0138,Coronary Flow Analysis,2026-04-01,42
+A0138,Coronary Flow Analysis,2026-05-01,35
+A0138,Coronary Flow Analysis,2026-06-01,45
+A0138,Coronary Flow Analysis,2026-07-01,49
+A0138,Coronary Flow Analysis,2026-08-01,31
+A0138,Coronary Flow Analysis,2026-09-01,36
+A0139,Coronary Flow Analysis,2026-09-01,43
+A0139,Stenosis Mapping,2026-06-01,18
+A0139,Stenosis Mapping,2026-07-01,12
+A0139,Stenosis Mapping,2026-08-01,24
+A0139,Stenosis Mapping,2026-09-01,22
+A0140,Stenosis Mapping,2025-10-01,23
+A0140,Stenosis Mapping,2025-11-01,22
+A0140,Stenosis Mapping,2025-12-01,22
+A0140,Stenosis Mapping,2026-01-01,17
+A0140,Stenosis Mapping,2026-02-01,21
+A0140,Stenosis Mapping,2026-03-01,32
+A0140,Stenosis Mapping,2026-04-01,23
+A0140,Stenosis Mapping,2026-05-01,28
+A0140,Stenosis Mapping,2026-06-01,12
+A0140,Stenosis Mapping,2026-07-01,27
+A0140,Stenosis Mapping,2026-08-01,24
+A0140,Stenosis Mapping,2026-09-01,22
+A0141,Coronary Flow Analysis,2025-09-01,61
+A0141,Coronary Flow Analysis,2025-10-01,63
+A0141,Coronary Flow Analysis,2025-11-01,54
+A0141,Coronary Flow Analysis,2025-12-01,60
+A0141,Coronary Flow Analysis,2026-01-01,63
+A0141,Coronary Flow Analysis,2026-02-01,57
+A0141,Coronary Flow Analysis,2026-03-01,53
+A0141,Coronary Flow Analysis,2026-04-01,39
+A0141,Coronary Flow Analysis,2026-05-01,61
+A0141,Coronary Flow Analysis,2026-06-01,55
+A0141,Coronary Flow Analysis,2026-07-01,50
+A0141,Coronary Flow Analysis,2026-08-01,69
+A0141,Coronary Flow Analysis,2026-09-01,39
+A0142,Plaque Quantification,2025-12-01,56
+A0142,Plaque Quantification,2026-01-01,61
+A0142,Plaque Quantification,2026-02-01,48
+A0142,Plaque Quantification,2026-03-01,58
+A0142,Plaque Quantification,2026-04-01,61
+A0142,Plaque Quantification,2026-05-01,38
+A0142,Plaque Quantification,2026-06-01,55
+A0142,Plaque Quantification,2026-07-01,54
+A0142,Plaque Quantification,2026-08-01,69
+A0142,Plaque Quantification,2026-09-01,36
+A0143,Plaque Quantification,2026-08-01,48
+A0143,Plaque Quantification,2026-09-01,56
+A0144,Coronary Flow Analysis,2026-03-01,22
+A0144,Coronary Flow Analysis,2026-04-01,20
+A0144,Coronary Flow Analysis,2026-05-01,18
+A0144,Coronary Flow Analysis,2026-06-01,21
+A0144,Coronary Flow Analysis,2026-07-01,23
+A0144,Coronary Flow Analysis,2026-08-01,17
+A0144,Coronary Flow Analysis,2026-09-01,19
+A0146,Plaque Quantification,2025-05-01,28
+A0146,Plaque Quantification,2025-06-01,11
+A0146,Plaque Quantification,2025-07-01,25
+A0146,Plaque Quantification,2025-08-01,29
+A0146,Plaque Quantification,2025-09-01,30
+A0146,Plaque Quantification,2025-10-01,33
+A0146,Plaque Quantification,2025-11-01,26
+A0146,Plaque Quantification,2025-12-01,27
+A0146,Plaque Quantification,2026-01-01,20
+A0146,Plaque Quantification,2026-02-01,26
+A0146,Plaque Quantification,2026-03-01,20
+A0146,Plaque Quantification,2026-04-01,17
+A0146,Plaque Quantification,2026-05-01,21
+A0146,Plaque Quantification,2026-06-01,36
+A0146,Plaque Quantification,2026-07-01,26
+A0146,Plaque Quantification,2026-08-01,29
+A0146,Plaque Quantification,2026-09-01,25
+A0148,Plaque Quantification,2025-12-01,13
+A0148,Plaque Quantification,2026-01-01,22
+A0148,Plaque Quantification,2026-02-01,14
+A0148,Plaque Quantification,2026-03-01,56
+A0148,Plaque Quantification,2026-04-01,56
+A0148,Plaque Quantification,2026-05-01,48
+A0148,Plaque Quantification,2026-06-01,68
+A0148,Plaque Quantification,2026-07-01,60
+A0148,Plaque Quantification,2026-08-01,47
+A0148,Plaque Quantification,2026-09-01,57
+A0149,Coronary Flow Analysis,2026-07-01,50
+A0149,Coronary Flow Analysis,2026-08-01,42
+A0149,Coronary Flow Analysis,2026-09-01,57
+A0152,Plaque Quantification,2025-05-01,41
+A0152,Plaque Quantification,2025-06-01,19
+A0152,Plaque Quantification,2025-07-01,26
+A0152,Plaque Quantification,2025-08-01,23
+A0152,Plaque Quantification,2025-09-01,34
+A0152,Plaque Quantification,2025-10-01,30
+A0152,Plaque Quantification,2025-11-01,25
+A0152,Plaque Quantification,2025-12-01,29
+A0152,Plaque Quantification,2026-01-01,26
+A0152,Plaque Quantification,2026-02-01,38
+A0152,Plaque Quantification,2026-03-01,32
+A0152,Plaque Quantification,2026-04-01,32
+A0152,Plaque Quantification,2026-05-01,13
+A0152,Plaque Quantification,2026-06-01,28
+A0152,Plaque Quantification,2026-07-01,41
+A0152,Plaque Quantification,2026-08-01,36
+A0152,Plaque Quantification,2026-09-01,18
+A0153,Plaque Quantification,2026-05-01,28
+A0153,Plaque Quantification,2026-06-01,30
+A0153,Plaque Quantification,2026-07-01,30
+A0153,Plaque Quantification,2026-08-01,41
+A0153,Plaque Quantification,2026-09-01,13
+A0154,Plaque Quantification,2026-07-01,25
+A0154,Plaque Quantification,2026-08-01,20
+A0154,Plaque Quantification,2026-09-01,24
+A0154,Stenosis Mapping,2026-06-01,28
+A0154,Stenosis Mapping,2026-07-01,39
+A0154,Stenosis Mapping,2026-08-01,27
+A0154,Stenosis Mapping,2026-09-01,33
+A0156,Coronary Flow Analysis,2025-02-01,69
+A0156,Coronary Flow Analysis,2025-03-01,68
+A0156,Coronary Flow Analysis,2025-04-01,56
+A0156,Coronary Flow Analysis,2025-05-01,29
+A0156,Coronary Flow Analysis,2025-06-01,43
+A0156,Coronary Flow Analysis,2025-07-01,64
+A0156,Coronary Flow Analysis,2025-08-01,38
+A0156,Coronary Flow Analysis,2025-09-01,52
+A0156,Coronary Flow Analysis,2025-10-01,59
+A0156,Coronary Flow Analysis,2025-11-01,72
+A0156,Coronary Flow Analysis,2025-12-01,49
+A0156,Coronary Flow Analysis,2026-01-01,48
+A0156,Coronary Flow Analysis,2026-02-01,55
+A0156,Coronary Flow Analysis,2026-03-01,59
+A0156,Coronary Flow Analysis,2026-04-01,54
+A0156,Coronary Flow Analysis,2026-05-01,67
+A0156,Coronary Flow Analysis,2026-06-01,47
+A0156,Coronary Flow Analysis,2026-07-01,57
+A0156,Coronary Flow Analysis,2026-08-01,60
+A0156,Coronary Flow Analysis,2026-09-01,51
+A0156,Stenosis Mapping,2025-01-01,56
+A0156,Stenosis Mapping,2025-02-01,73
+A0156,Stenosis Mapping,2025-03-01,95
+A0156,Stenosis Mapping,2025-04-01,72
+A0156,Stenosis Mapping,2025-05-01,51
+A0156,Stenosis Mapping,2025-06-01,65
+A0156,Stenosis Mapping,2025-07-01,65
+A0156,Stenosis Mapping,2025-08-01,47
+A0156,Stenosis Mapping,2025-09-01,43
+A0156,Stenosis Mapping,2025-10-01,57
+A0156,Stenosis Mapping,2025-11-01,67
+A0156,Stenosis Mapping,2025-12-01,39
+A0156,Stenosis Mapping,2026-01-01,49
+A0156,Stenosis Mapping,2026-02-01,64
+A0156,Stenosis Mapping,2026-03-01,58
+A0156,Stenosis Mapping,2026-04-01,74
+A0156,Stenosis Mapping,2026-05-01,41
+A0156,Stenosis Mapping,2026-06-01,85
+A0156,Stenosis Mapping,2026-07-01,40
+A0156,Stenosis Mapping,2026-08-01,34
+A0156,Stenosis Mapping,2026-09-01,57
+A0158,Coronary Flow Analysis,2025-07-01,8
+A0158,Coronary Flow Analysis,2025-08-01,8
+A0158,Coronary Flow Analysis,2025-09-01,5
+A0158,Coronary Flow Analysis,2025-10-01,8
+A0158,Coronary Flow Analysis,2025-11-01,7
+A0158,Coronary Flow Analysis,2025-12-01,4
+A0158,Coronary Flow Analysis,2026-01-01,4
+A0158,Coronary Flow Analysis,2026-02-01,8
+A0158,Coronary Flow Analysis,2026-03-01,6
+A0158,Coronary Flow Analysis,2026-04-01,5
+A0158,Coronary Flow Analysis,2026-05-01,6
+A0158,Coronary Flow Analysis,2026-06-01,7
+A0158,Coronary Flow Analysis,2026-07-01,6
+A0158,Coronary Flow Analysis,2026-08-01,4
+A0158,Coronary Flow Analysis,2026-09-01,9
+A0158,Plaque Quantification,2025-04-01,79
+A0158,Plaque Quantification,2025-05-01,88
+A0158,Plaque Quantification,2025-06-01,67
+A0158,Plaque Quantification,2025-07-01,53
+A0158,Plaque Quantification,2025-08-01,72
+A0158,Plaque Quantification,2025-09-01,48
+A0158,Plaque Quantification,2025-10-01,72
+A0158,Plaque Quantification,2025-11-01,86
+A0158,Plaque Quantification,2025-12-01,75
+A0158,Plaque Quantification,2026-01-01,86
+A0158,Plaque Quantification,2026-02-01,80
+A0158,Plaque Quantification,2026-03-01,95
+A0158,Plaque Quantification,2026-04-01,67
+A0158,Plaque Quantification,2026-05-01,78
+A0158,Plaque Quantification,2026-06-01,68
+A0158,Plaque Quantification,2026-07-01,90
+A0158,Plaque Quantification,2026-08-01,66
+A0158,Plaque Quantification,2026-09-01,84
+A0159,Coronary Flow Analysis,2025-10-01,57
+A0159,Coronary Flow Analysis,2025-11-01,45
+A0159,Coronary Flow Analysis,2025-12-01,38
+A0159,Coronary Flow Analysis,2026-01-01,67
+A0159,Coronary Flow Analysis,2026-02-01,51
+A0159,Coronary Flow Analysis,2026-03-01,61
+A0159,Coronary Flow Analysis,2026-04-01,72
+A0159,Coronary Flow Analysis,2026-05-01,42
+A0159,Coronary Flow Analysis,2026-06-01,57
+A0159,Coronary Flow Analysis,2026-07-01,56
+A0159,Coronary Flow Analysis,2026-08-01,62
+A0159,Coronary Flow Analysis,2026-09-01,72
+A0159,Plaque Quantification,2025-10-01,57
+A0159,Plaque Quantification,2025-11-01,63
+A0159,Plaque Quantification,2025-12-01,52
+A0159,Plaque Quantification,2026-01-01,61
+A0159,Plaque Quantification,2026-02-01,47
+A0159,Plaque Quantification,2026-03-01,46
+A0159,Plaque Quantification,2026-04-01,50
+A0159,Plaque Quantification,2026-05-01,45
+A0159,Plaque Quantification,2026-06-01,38
+A0159,Plaque Quantification,2026-07-01,41
+A0159,Plaque Quantification,2026-08-01,35
+A0159,Plaque Quantification,2026-09-01,50
+A0159,Stenosis Mapping,2026-05-01,20
+A0159,Stenosis Mapping,2026-06-01,17
+A0159,Stenosis Mapping,2026-07-01,21
+A0159,Stenosis Mapping,2026-08-01,23
+A0159,Stenosis Mapping,2026-09-01,24
+A0160,Coronary Flow Analysis,2026-08-01,18
+A0160,Coronary Flow Analysis,2026-09-01,12
+A0160,Plaque Quantification,2026-05-01,36
+A0160,Plaque Quantification,2026-06-01,24
+A0160,Plaque Quantification,2026-07-01,31
+A0160,Plaque Quantification,2026-08-01,24
+A0160,Plaque Quantification,2026-09-01,33
+A0163,Coronary Flow Analysis,2026-06-01,24
+A0163,Coronary Flow Analysis,2026-07-01,31
+A0163,Coronary Flow Analysis,2026-08-01,18
+A0163,Coronary Flow Analysis,2026-09-01,23
+A0164,Coronary Flow Analysis,2024-10-01,13
+A0164,Coronary Flow Analysis,2024-11-01,12
+A0164,Coronary Flow Analysis,2024-12-01,11
+A0164,Coronary Flow Analysis,2025-01-01,14
+A0164,Coronary Flow Analysis,2025-02-01,15
+A0164,Coronary Flow Analysis,2025-03-01,10
+A0164,Coronary Flow Analysis,2025-04-01,9
+A0164,Coronary Flow Analysis,2025-05-01,15
+A0164,Coronary Flow Analysis,2025-06-01,9
+A0164,Coronary Flow Analysis,2025-07-01,14
+A0164,Coronary Flow Analysis,2025-08-01,17
+A0164,Coronary Flow Analysis,2025-09-01,17
+A0164,Coronary Flow Analysis,2025-10-01,14
+A0164,Coronary Flow Analysis,2025-11-01,14
+A0164,Coronary Flow Analysis,2025-12-01,18
+A0164,Coronary Flow Analysis,2026-01-01,6
+A0164,Coronary Flow Analysis,2026-02-01,11
+A0164,Coronary Flow Analysis,2026-03-01,15
+A0164,Coronary Flow Analysis,2026-04-01,12
+A0164,Coronary Flow Analysis,2026-05-01,16
+A0164,Coronary Flow Analysis,2026-06-01,12
+A0164,Coronary Flow Analysis,2026-07-01,13
+A0164,Coronary Flow Analysis,2026-08-01,12
+A0164,Coronary Flow Analysis,2026-09-01,11
+A0164,Stenosis Mapping,2026-06-01,24
+A0164,Stenosis Mapping,2026-07-01,38
+A0164,Stenosis Mapping,2026-08-01,35
+A0164,Stenosis Mapping,2026-09-01,39
+A0166,Stenosis Mapping,2026-02-01,22
+A0166,Stenosis Mapping,2026-03-01,18
+A0166,Stenosis Mapping,2026-04-01,25
+A0166,Stenosis Mapping,2026-05-01,24
+A0166,Stenosis Mapping,2026-06-01,23
+A0166,Stenosis Mapping,2026-07-01,25
+A0166,Stenosis Mapping,2026-08-01,28
+A0166,Stenosis Mapping,2026-09-01,28
+A0167,Coronary Flow Analysis,2026-08-01,46
+A0167,Coronary Flow Analysis,2026-09-01,26
+A0167,Plaque Quantification,2026-09-01,30
+A0167,Stenosis Mapping,2026-07-01,16
+A0167,Stenosis Mapping,2026-08-01,30
+A0167,Stenosis Mapping,2026-09-01,23
+A0169,Coronary Flow Analysis,2024-10-01,46
+A0169,Coronary Flow Analysis,2024-11-01,87
+A0169,Coronary Flow Analysis,2024-12-01,109
+A0169,Coronary Flow Analysis,2025-01-01,96
+A0169,Coronary Flow Analysis,2025-02-01,123
+A0169,Coronary Flow Analysis,2025-03-01,129
+A0169,Coronary Flow Analysis,2025-04-01,128
+A0169,Coronary Flow Analysis,2025-05-01,136
+A0169,Coronary Flow Analysis,2025-06-01,134
+A0169,Coronary Flow Analysis,2025-07-01,119
+A0169,Coronary Flow Analysis,2025-08-01,141
+A0169,Coronary Flow Analysis,2025-09-01,142
+A0169,Coronary Flow Analysis,2025-10-01,136
+A0169,Coronary Flow Analysis,2025-11-01,113
+A0169,Coronary Flow Analysis,2025-12-01,144
+A0169,Coronary Flow Analysis,2026-01-01,128
+A0169,Coronary Flow Analysis,2026-02-01,127
+A0169,Coronary Flow Analysis,2026-03-01,135
+A0169,Coronary Flow Analysis,2026-04-01,125
+A0169,Coronary Flow Analysis,2026-05-01,106
+A0169,Coronary Flow Analysis,2026-06-01,137
+A0169,Coronary Flow Analysis,2026-07-01,137
+A0169,Coronary Flow Analysis,2026-08-01,133
+A0169,Coronary Flow Analysis,2026-09-01,135
+A0172,Plaque Quantification,2026-07-01,13
+A0172,Plaque Quantification,2026-08-01,14
+A0172,Plaque Quantification,2026-09-01,14
+A0173,Stenosis Mapping,2025-11-01,3
+A0173,Stenosis Mapping,2025-12-01,5
+A0173,Stenosis Mapping,2026-01-01,4
+A0173,Stenosis Mapping,2026-02-01,4
+A0173,Stenosis Mapping,2026-03-01,6
+A0173,Stenosis Mapping,2026-04-01,6
+A0173,Stenosis Mapping,2026-05-01,5
+A0173,Stenosis Mapping,2026-06-01,5
+A0173,Stenosis Mapping,2026-07-01,5
+A0173,Stenosis Mapping,2026-08-01,6
+A0173,Stenosis Mapping,2026-09-01,5
+A0175,Plaque Quantification,2025-08-01,18
+A0175,Plaque Quantification,2025-09-01,13
+A0175,Plaque Quantification,2025-10-01,18
+A0175,Plaque Quantification,2025-11-01,12
+A0175,Plaque Quantification,2025-12-01,14
+A0175,Plaque Quantification,2026-01-01,10
+A0175,Plaque Quantification,2026-02-01,17
+A0175,Plaque Quantification,2026-03-01,23
+A0175,Plaque Quantification,2026-04-01,17
+A0175,Plaque Quantification,2026-05-01,20
+A0175,Plaque Quantification,2026-06-01,26
+A0175,Plaque Quantification,2026-07-01,19
+A0175,Plaque Quantification,2026-08-01,15
+A0175,Plaque Quantification,2026-09-01,15
+A0176,Stenosis Mapping,2025-11-01,43
+A0176,Stenosis Mapping,2025-12-01,57
+A0176,Stenosis Mapping,2026-01-01,54
+A0176,Stenosis Mapping,2026-02-01,39
+A0176,Stenosis Mapping,2026-03-01,52
+A0176,Stenosis Mapping,2026-04-01,50
+A0176,Stenosis Mapping,2026-05-01,41
+A0176,Stenosis Mapping,2026-06-01,53
+A0176,Stenosis Mapping,2026-07-01,51
+A0176,Stenosis Mapping,2026-08-01,49
+A0176,Stenosis Mapping,2026-09-01,49
+A0177,Plaque Quantification,2024-10-01,41
+A0177,Plaque Quantification,2024-11-01,38
+A0177,Plaque Quantification,2024-12-01,55
+A0177,Plaque Quantification,2025-01-01,39
+A0177,Plaque Quantification,2025-02-01,41
+A0177,Plaque Quantification,2025-03-01,62
+A0177,Plaque Quantification,2025-04-01,40
+A0177,Plaque Quantification,2025-05-01,46
+A0177,Plaque Quantification,2025-06-01,47
+A0177,Plaque Quantification,2025-07-01,48
+A0177,Plaque Quantification,2025-08-01,44
+A0177,Plaque Quantification,2025-09-01,43
+A0177,Plaque Quantification,2025-10-01,42
+A0177,Plaque Quantification,2025-11-01,37
+A0177,Plaque Quantification,2025-12-01,44
+A0177,Plaque Quantification,2026-01-01,59
+A0177,Plaque Quantification,2026-02-01,52
+A0177,Plaque Quantification,2026-03-01,44
+A0177,Plaque Quantification,2026-04-01,49
+A0177,Plaque Quantification,2026-05-01,41
+A0177,Plaque Quantification,2026-06-01,43
+A0177,Plaque Quantification,2026-07-01,55
+A0177,Plaque Quantification,2026-08-01,62
+A0177,Plaque Quantification,2026-09-01,41
+A0177,Stenosis Mapping,2025-08-01,48
+A0177,Stenosis Mapping,2025-09-01,35
+A0177,Stenosis Mapping,2025-10-01,43
+A0177,Stenosis Mapping,2025-11-01,29
+A0177,Stenosis Mapping,2025-12-01,45
+A0177,Stenosis Mapping,2026-01-01,43
+A0177,Stenosis Mapping,2026-02-01,39
+A0177,Stenosis Mapping,2026-03-01,59
+A0177,Stenosis Mapping,2026-04-01,34
+A0177,Stenosis Mapping,2026-05-01,51
+A0177,Stenosis Mapping,2026-06-01,64
+A0177,Stenosis Mapping,2026-07-01,54
+A0177,Stenosis Mapping,2026-08-01,44
+A0177,Stenosis Mapping,2026-09-01,34
+A0178,Coronary Flow Analysis,2026-03-01,59
+A0178,Coronary Flow Analysis,2026-04-01,41
+A0178,Coronary Flow Analysis,2026-05-01,36
+A0178,Coronary Flow Analysis,2026-06-01,75
+A0178,Coronary Flow Analysis,2026-07-01,47
+A0178,Coronary Flow Analysis,2026-08-01,52
+A0178,Coronary Flow Analysis,2026-09-01,49
+A0178,Plaque Quantification,2026-09-01,35
+A0178,Stenosis Mapping,2026-05-01,30
+A0178,Stenosis Mapping,2026-06-01,68
+A0178,Stenosis Mapping,2026-07-01,62
+A0178,Stenosis Mapping,2026-08-01,74
+A0178,Stenosis Mapping,2026-09-01,68
+A0179,Coronary Flow Analysis,2026-06-01,19
+A0179,Coronary Flow Analysis,2026-07-01,20
+A0179,Coronary Flow Analysis,2026-08-01,18
+A0179,Coronary Flow Analysis,2026-09-01,21
+A0179,Plaque Quantification,2025-07-01,25
+A0179,Plaque Quantification,2025-08-01,21
+A0179,Plaque Quantification,2025-09-01,24
+A0179,Plaque Quantification,2025-10-01,16
+A0179,Plaque Quantification,2025-11-01,27
+A0179,Plaque Quantification,2025-12-01,16
+A0179,Plaque Quantification,2026-01-01,25
+A0179,Plaque Quantification,2026-02-01,18
+A0179,Plaque Quantification,2026-03-01,20
+A0179,Plaque Quantification,2026-04-01,30
+A0179,Plaque Quantification,2026-05-01,27
+A0179,Plaque Quantification,2026-06-01,30
+A0179,Plaque Quantification,2026-07-01,32
+A0179,Plaque Quantification,2026-08-01,21
+A0179,Plaque Quantification,2026-09-01,32
+A0179,Stenosis Mapping,2025-09-01,27
+A0179,Stenosis Mapping,2025-10-01,40
+A0179,Stenosis Mapping,2025-11-01,50
+A0179,Stenosis Mapping,2025-12-01,34
+A0179,Stenosis Mapping,2026-01-01,38
+A0179,Stenosis Mapping,2026-02-01,43
+A0179,Stenosis Mapping,2026-03-01,22
+A0179,Stenosis Mapping,2026-04-01,34
+A0179,Stenosis Mapping,2026-05-01,40
+A0179,Stenosis Mapping,2026-06-01,15
+A0179,Stenosis Mapping,2026-07-01,30
+A0179,Stenosis Mapping,2026-08-01,46
+A0179,Stenosis Mapping,2026-09-01,45
+A0180,Plaque Quantification,2026-01-01,23
+A0180,Plaque Quantification,2026-02-01,26
+A0180,Plaque Quantification,2026-03-01,20
+A0180,Plaque Quantification,2026-04-01,27
+A0180,Plaque Quantification,2026-05-01,26
+A0180,Plaque Quantification,2026-06-01,23
+A0180,Plaque Quantification,2026-07-01,25
+A0180,Plaque Quantification,2026-08-01,26
+A0180,Plaque Quantification,2026-09-01,22
+A0180,Stenosis Mapping,2025-12-01,35
+A0180,Stenosis Mapping,2026-01-01,33
+A0180,Stenosis Mapping,2026-02-01,55
+A0180,Stenosis Mapping,2026-03-01,24
+A0180,Stenosis Mapping,2026-04-01,42
+A0180,Stenosis Mapping,2026-05-01,29
+A0180,Stenosis Mapping,2026-06-01,100
+A0180,Stenosis Mapping,2026-07-01,113
+A0180,Stenosis Mapping,2026-08-01,67
+A0180,Stenosis Mapping,2026-09-01,92
+A0181,Coronary Flow Analysis,2025-07-01,22
+A0181,Coronary Flow Analysis,2025-08-01,32
+A0181,Coronary Flow Analysis,2025-09-01,31
+A0181,Coronary Flow Analysis,2025-10-01,27
+A0181,Coronary Flow Analysis,2025-11-01,29
+A0181,Coronary Flow Analysis,2025-12-01,24
+A0181,Coronary Flow Analysis,2026-01-01,25
+A0181,Coronary Flow Analysis,2026-02-01,22
+A0181,Coronary Flow Analysis,2026-03-01,30
+A0181,Coronary Flow Analysis,2026-04-01,22
+A0181,Coronary Flow Analysis,2026-05-01,33
+A0181,Coronary Flow Analysis,2026-06-01,24
+A0181,Coronary Flow Analysis,2026-07-01,26
+A0181,Coronary Flow Analysis,2026-08-01,29
+A0181,Coronary Flow Analysis,2026-09-01,26
+A0182,Coronary Flow Analysis,2026-03-01,46
+A0182,Coronary Flow Analysis,2026-04-01,27
+A0182,Coronary Flow Analysis,2026-05-01,32
+A0182,Coronary Flow Analysis,2026-06-01,35
+A0182,Coronary Flow Analysis,2026-07-01,40
+A0182,Coronary Flow Analysis,2026-08-01,23
+A0182,Coronary Flow Analysis,2026-09-01,24
+A0182,Plaque Quantification,2026-04-01,36
+A0182,Plaque Quantification,2026-05-01,52
+A0182,Plaque Quantification,2026-06-01,46
+A0182,Plaque Quantification,2026-07-01,29
+A0182,Plaque Quantification,2026-08-01,22
+A0182,Plaque Quantification,2026-09-01,32
+A0183,Stenosis Mapping,2026-03-01,31
+A0183,Stenosis Mapping,2026-04-01,31
+A0183,Stenosis Mapping,2026-05-01,17
+A0183,Stenosis Mapping,2026-06-01,21
+A0183,Stenosis Mapping,2026-07-01,23
+A0183,Stenosis Mapping,2026-08-01,29
+A0183,Stenosis Mapping,2026-09-01,31
+A0184,Plaque Quantification,2024-05-01,61
+A0184,Plaque Quantification,2024-06-01,79
+A0184,Plaque Quantification,2024-07-01,56
+A0184,Plaque Quantification,2024-08-01,53
+A0184,Plaque Quantification,2024-09-01,42
+A0184,Plaque Quantification,2024-10-01,68
+A0184,Plaque Quantification,2024-11-01,47
+A0184,Plaque Quantification,2024-12-01,109
+A0184,Plaque Quantification,2025-01-01,83
+A0184,Plaque Quantification,2025-02-01,121
+A0184,Plaque Quantification,2025-03-01,113
+A0184,Plaque Quantification,2025-04-01,92
+A0184,Plaque Quantification,2025-05-01,92
+A0184,Plaque Quantification,2025-06-01,117
+A0184,Plaque Quantification,2025-07-01,89
+A0184,Plaque Quantification,2025-08-01,76
+A0184,Plaque Quantification,2025-09-01,68
+A0184,Plaque Quantification,2025-10-01,92
+A0184,Plaque Quantification,2025-11-01,86
+A0184,Plaque Quantification,2025-12-01,88
+A0184,Plaque Quantification,2026-01-01,118
+A0184,Plaque Quantification,2026-02-01,98
+A0184,Plaque Quantification,2026-03-01,112
+A0184,Plaque Quantification,2026-04-01,93
+A0184,Plaque Quantification,2026-05-01,96
+A0184,Plaque Quantification,2026-06-01,126
+A0184,Plaque Quantification,2026-07-01,87
+A0184,Plaque Quantification,2026-08-01,113
+A0184,Plaque Quantification,2026-09-01,77
+A0184,Stenosis Mapping,2025-04-01,18
+A0184,Stenosis Mapping,2025-05-01,21
+A0184,Stenosis Mapping,2025-06-01,14
+A0184,Stenosis Mapping,2025-07-01,9
+A0184,Stenosis Mapping,2025-08-01,13
+A0184,Stenosis Mapping,2025-09-01,13
+A0184,Stenosis Mapping,2025-10-01,19
+A0184,Stenosis Mapping,2025-11-01,7
+A0184,Stenosis Mapping,2025-12-01,15
+A0184,Stenosis Mapping,2026-01-01,21
+A0184,Stenosis Mapping,2026-02-01,17
+A0184,Stenosis Mapping,2026-03-01,20
+A0184,Stenosis Mapping,2026-04-01,11
+A0184,Stenosis Mapping,2026-05-01,11
+A0184,Stenosis Mapping,2026-06-01,21
+A0184,Stenosis Mapping,2026-07-01,17
+A0184,Stenosis Mapping,2026-08-01,17
+A0184,Stenosis Mapping,2026-09-01,13
+A0185,Coronary Flow Analysis,2025-10-01,28
+A0185,Coronary Flow Analysis,2025-11-01,36
+A0185,Coronary Flow Analysis,2025-12-01,42
+A0185,Coronary Flow Analysis,2026-01-01,22
+A0185,Coronary Flow Analysis,2026-02-01,33
+A0185,Coronary Flow Analysis,2026-03-01,43
+A0185,Coronary Flow Analysis,2026-04-01,25
+A0185,Coronary Flow Analysis,2026-05-01,37
+A0185,Coronary Flow Analysis,2026-06-01,36
+A0185,Coronary Flow Analysis,2026-07-01,48
+A0185,Coronary Flow Analysis,2026-08-01,34
+A0185,Coronary Flow Analysis,2026-09-01,34
+A0185,Stenosis Mapping,2026-09-01,16
+A0186,Plaque Quantification,2026-08-01,73
+A0186,Plaque Quantification,2026-09-01,33
+A0186,Stenosis Mapping,2026-03-01,28
+A0186,Stenosis Mapping,2026-04-01,18
+A0186,Stenosis Mapping,2026-05-01,11
+A0186,Stenosis Mapping,2026-06-01,51
+A0186,Stenosis Mapping,2026-07-01,59
+A0186,Stenosis Mapping,2026-08-01,61
+A0186,Stenosis Mapping,2026-09-01,59
+A0187,Plaque Quantification,2026-04-01,71
+A0187,Plaque Quantification,2026-05-01,53
+A0187,Plaque Quantification,2026-06-01,57
+A0187,Plaque Quantification,2026-07-01,49
+A0187,Plaque Quantification,2026-08-01,35
+A0187,Plaque Quantification,2026-09-01,52
+A0188,Coronary Flow Analysis,2026-02-01,22
+A0188,Coronary Flow Analysis,2026-03-01,23
+A0188,Coronary Flow Analysis,2026-04-01,35
+A0188,Coronary Flow Analysis,2026-05-01,38
+A0188,Coronary Flow Analysis,2026-06-01,30
+A0188,Coronary Flow Analysis,2026-07-01,35
+A0188,Coronary Flow Analysis,2026-08-01,35
+A0188,Coronary Flow Analysis,2026-09-01,30
+A0188,Plaque Quantification,2025-05-01,6
+A0188,Plaque Quantification,2025-06-01,5
+A0188,Plaque Quantification,2025-07-01,4
+A0188,Plaque Quantification,2025-08-01,4
+A0188,Plaque Quantification,2025-09-01,4
+A0188,Plaque Quantification,2025-10-01,5
+A0188,Plaque Quantification,2025-11-01,4
+A0188,Plaque Quantification,2025-12-01,5
+A0188,Plaque Quantification,2026-01-01,7
+A0188,Plaque Quantification,2026-02-01,4
+A0188,Plaque Quantification,2026-03-01,3
+A0188,Plaque Quantification,2026-04-01,3
+A0188,Plaque Quantification,2026-05-01,5
+A0188,Plaque Quantification,2026-06-01,11
+A0188,Plaque Quantification,2026-07-01,12
+A0188,Plaque Quantification,2026-08-01,11
+A0188,Plaque Quantification,2026-09-01,15
+A0189,Stenosis Mapping,2026-06-01,9
+A0189,Stenosis Mapping,2026-07-01,8
+A0189,Stenosis Mapping,2026-08-01,8
+A0189,Stenosis Mapping,2026-09-01,8
+A0191,Stenosis Mapping,2025-09-01,42
+A0191,Stenosis Mapping,2025-10-01,27
+A0191,Stenosis Mapping,2025-11-01,44
+A0191,Stenosis Mapping,2025-12-01,45
+A0191,Stenosis Mapping,2026-01-01,39
+A0191,Stenosis Mapping,2026-02-01,31
+A0191,Stenosis Mapping,2026-03-01,55
+A0191,Stenosis Mapping,2026-04-01,32
+A0191,Stenosis Mapping,2026-05-01,46
+A0191,Stenosis Mapping,2026-06-01,42
+A0191,Stenosis Mapping,2026-07-01,45
+A0191,Stenosis Mapping,2026-08-01,54
+A0191,Stenosis Mapping,2026-09-01,45
+A0193,Stenosis Mapping,2026-09-01,36
+A0194,Coronary Flow Analysis,2026-07-01,40
+A0194,Coronary Flow Analysis,2026-08-01,41
+A0194,Coronary Flow Analysis,2026-09-01,34
+A0194,Stenosis Mapping,2026-09-01,44
+A0195,Coronary Flow Analysis,2026-03-01,14
+A0195,Coronary Flow Analysis,2026-04-01,9
+A0195,Coronary Flow Analysis,2026-05-01,10
+A0195,Coronary Flow Analysis,2026-06-01,13
+A0195,Coronary Flow Analysis,2026-07-01,9
+A0195,Coronary Flow Analysis,2026-08-01,11
+A0195,Coronary Flow Analysis,2026-09-01,14
+A0196,Coronary Flow Analysis,2025-12-01,32
+A0196,Coronary Flow Analysis,2026-01-01,59
+A0196,Coronary Flow Analysis,2026-02-01,41
+A0196,Coronary Flow Analysis,2026-03-01,53
+A0196,Coronary Flow Analysis,2026-04-01,49
+A0196,Coronary Flow Analysis,2026-05-01,37
+A0196,Coronary Flow Analysis,2026-06-01,37
+A0196,Coronary Flow Analysis,2026-07-01,54
+A0196,Coronary Flow Analysis,2026-08-01,54
+A0196,Coronary Flow Analysis,2026-09-01,26
+A0198,Stenosis Mapping,2024-07-01,62
+A0198,Stenosis Mapping,2024-08-01,44
+A0198,Stenosis Mapping,2024-09-01,31
+A0198,Stenosis Mapping,2024-10-01,38
+A0198,Stenosis Mapping,2024-11-01,39
+A0198,Stenosis Mapping,2024-12-01,48
+A0198,Stenosis Mapping,2025-01-01,34
+A0198,Stenosis Mapping,2025-02-01,40
+A0198,Stenosis Mapping,2025-03-01,41
+A0198,Stenosis Mapping,2025-04-01,39
+A0198,Stenosis Mapping,2025-05-01,49
+A0198,Stenosis Mapping,2025-06-01,48
+A0198,Stenosis Mapping,2025-07-01,53
+A0198,Stenosis Mapping,2025-08-01,40
+A0198,Stenosis Mapping,2025-09-01,53
+A0198,Stenosis Mapping,2025-10-01,31
+A0198,Stenosis Mapping,2025-11-01,31
+A0198,Stenosis Mapping,2025-12-01,44
+A0198,Stenosis Mapping,2026-01-01,61
+A0198,Stenosis Mapping,2026-02-01,67
+A0198,Stenosis Mapping,2026-03-01,56
+A0198,Stenosis Mapping,2026-04-01,52
+A0198,Stenosis Mapping,2026-05-01,59
+A0198,Stenosis Mapping,2026-06-01,63
+A0198,Stenosis Mapping,2026-07-01,56
+A0198,Stenosis Mapping,2026-08-01,54
+A0198,Stenosis Mapping,2026-09-01,41
+A0199,Stenosis Mapping,2026-03-01,26
+A0199,Stenosis Mapping,2026-04-01,12
+A0199,Stenosis Mapping,2026-05-01,19
+A0199,Stenosis Mapping,2026-06-01,19
+A0199,Stenosis Mapping,2026-07-01,23
+A0199,Stenosis Mapping,2026-08-01,22
+A0199,Stenosis Mapping,2026-09-01,22
+A0200,Coronary Flow Analysis,2026-06-01,27
+A0200,Coronary Flow Analysis,2026-07-01,40
+A0200,Coronary Flow Analysis,2026-08-01,39
+A0200,Coronary Flow Analysis,2026-09-01,33
+A0202,Plaque Quantification,2026-08-01,26
+A0202,Plaque Quantification,2026-09-01,24
+A0204,Plaque Quantification,2026-07-01,34
+A0204,Plaque Quantification,2026-08-01,34
+A0204,Plaque Quantification,2026-09-01,43
+A0205,Coronary Flow Analysis,2026-03-01,45
+A0205,Coronary Flow Analysis,2026-04-01,44
+A0205,Coronary Flow Analysis,2026-05-01,46
+A0205,Coronary Flow Analysis,2026-06-01,54
+A0205,Coronary Flow Analysis,2026-07-01,56
+A0205,Coronary Flow Analysis,2026-08-01,38
+A0205,Coronary Flow Analysis,2026-09-01,55
+A0206,Coronary Flow Analysis,2025-05-01,31
+A0206,Coronary Flow Analysis,2025-06-01,27
+A0206,Coronary Flow Analysis,2025-07-01,30
+A0206,Coronary Flow Analysis,2025-08-01,30
+A0206,Coronary Flow Analysis,2025-09-01,27
+A0206,Coronary Flow Analysis,2025-10-01,21
+A0206,Coronary Flow Analysis,2025-11-01,19
+A0206,Coronary Flow Analysis,2025-12-01,29
+A0206,Coronary Flow Analysis,2026-01-01,24
+A0206,Coronary Flow Analysis,2026-02-01,35
+A0206,Coronary Flow Analysis,2026-03-01,22
+A0206,Coronary Flow Analysis,2026-04-01,33
+A0206,Coronary Flow Analysis,2026-05-01,23
+A0206,Coronary Flow Analysis,2026-06-01,30
+A0206,Coronary Flow Analysis,2026-07-01,32
+A0206,Coronary Flow Analysis,2026-08-01,19
+A0206,Coronary Flow Analysis,2026-09-01,21
+A0206,Stenosis Mapping,2025-08-01,38
+A0206,Stenosis Mapping,2025-09-01,46
+A0206,Stenosis Mapping,2025-10-01,46
+A0206,Stenosis Mapping,2025-11-01,37
+A0206,Stenosis Mapping,2025-12-01,36
+A0206,Stenosis Mapping,2026-01-01,39
+A0206,Stenosis Mapping,2026-02-01,38
+A0206,Stenosis Mapping,2026-03-01,30
+A0206,Stenosis Mapping,2026-04-01,37
+A0206,Stenosis Mapping,2026-05-01,45
+A0206,Stenosis Mapping,2026-06-01,53
+A0206,Stenosis Mapping,2026-07-01,47
+A0206,Stenosis Mapping,2026-08-01,20
+A0206,Stenosis Mapping,2026-09-01,48
+A0207,Coronary Flow Analysis,2026-02-01,27
+A0207,Coronary Flow Analysis,2026-03-01,23
+A0207,Coronary Flow Analysis,2026-04-01,27
+A0207,Coronary Flow Analysis,2026-05-01,27
+A0207,Coronary Flow Analysis,2026-06-01,29
+A0207,Coronary Flow Analysis,2026-07-01,22
+A0207,Coronary Flow Analysis,2026-08-01,29
+A0207,Coronary Flow Analysis,2026-09-01,21
+A0209,Coronary Flow Analysis,2026-06-01,42
+A0209,Coronary Flow Analysis,2026-07-01,46
+A0209,Coronary Flow Analysis,2026-08-01,53
+A0209,Coronary Flow Analysis,2026-09-01,34
+A0209,Plaque Quantification,2025-06-01,25
+A0209,Plaque Quantification,2025-07-01,39
+A0209,Plaque Quantification,2025-08-01,55
+A0209,Plaque Quantification,2025-09-01,34
+A0209,Plaque Quantification,2025-10-01,46
+A0209,Plaque Quantification,2025-11-01,36
+A0209,Plaque Quantification,2025-12-01,40
+A0209,Plaque Quantification,2026-01-01,49
+A0209,Plaque Quantification,2026-02-01,37
+A0209,Plaque Quantification,2026-03-01,34
+A0209,Plaque Quantification,2026-04-01,51
+A0209,Plaque Quantification,2026-05-01,40
+A0209,Plaque Quantification,2026-06-01,48
+A0209,Plaque Quantification,2026-07-01,34
+A0209,Plaque Quantification,2026-08-01,51
+A0209,Plaque Quantification,2026-09-01,42
+A0211,Coronary Flow Analysis,2026-09-01,46
+A0212,Stenosis Mapping,2026-04-01,52
+A0212,Stenosis Mapping,2026-05-01,61
+A0212,Stenosis Mapping,2026-06-01,32
+A0212,Stenosis Mapping,2026-07-01,45
+A0212,Stenosis Mapping,2026-08-01,37
+A0212,Stenosis Mapping,2026-09-01,48
+A0213,Stenosis Mapping,2026-09-01,37
+A0214,Stenosis Mapping,2025-07-01,26
+A0214,Stenosis Mapping,2025-08-01,20
+A0214,Stenosis Mapping,2025-09-01,20
+A0214,Stenosis Mapping,2025-10-01,23
+A0214,Stenosis Mapping,2025-11-01,17
+A0214,Stenosis Mapping,2025-12-01,23
+A0214,Stenosis Mapping,2026-01-01,16
+A0214,Stenosis Mapping,2026-02-01,21
+A0214,Stenosis Mapping,2026-03-01,16
+A0214,Stenosis Mapping,2026-04-01,17
+A0214,Stenosis Mapping,2026-05-01,29
+A0214,Stenosis Mapping,2026-06-01,22
+A0214,Stenosis Mapping,2026-07-01,41
+A0214,Stenosis Mapping,2026-08-01,31
+A0214,Stenosis Mapping,2026-09-01,43
+A0215,Coronary Flow Analysis,2025-10-01,71
+A0215,Coronary Flow Analysis,2025-11-01,63
+A0215,Coronary Flow Analysis,2025-12-01,53
+A0215,Coronary Flow Analysis,2026-01-01,66
+A0215,Coronary Flow Analysis,2026-02-01,67
+A0215,Coronary Flow Analysis,2026-03-01,55
+A0215,Coronary Flow Analysis,2026-04-01,53
+A0215,Coronary Flow Analysis,2026-05-01,71
+A0215,Coronary Flow Analysis,2026-06-01,77
+A0215,Coronary Flow Analysis,2026-07-01,49
+A0215,Coronary Flow Analysis,2026-08-01,54
+A0215,Coronary Flow Analysis,2026-09-01,62
+A0216,Coronary Flow Analysis,2025-12-01,42
+A0216,Coronary Flow Analysis,2026-01-01,42
+A0216,Coronary Flow Analysis,2026-02-01,37
+A0216,Coronary Flow Analysis,2026-03-01,36
+A0216,Coronary Flow Analysis,2026-04-01,39
+A0216,Coronary Flow Analysis,2026-05-01,38
+A0216,Coronary Flow Analysis,2026-06-01,39
+A0216,Coronary Flow Analysis,2026-07-01,37
+A0216,Coronary Flow Analysis,2026-08-01,42
+A0216,Coronary Flow Analysis,2026-09-01,24
+A0216,Plaque Quantification,2025-10-01,19
+A0216,Plaque Quantification,2025-11-01,16
+A0216,Plaque Quantification,2025-12-01,9
+A0216,Plaque Quantification,2026-01-01,11
+A0216,Plaque Quantification,2026-02-01,23
+A0216,Plaque Quantification,2026-03-01,13
+A0216,Plaque Quantification,2026-04-01,21
+A0216,Plaque Quantification,2026-05-01,13
+A0216,Plaque Quantification,2026-06-01,16
+A0216,Plaque Quantification,2026-07-01,19
+A0216,Plaque Quantification,2026-08-01,14
+A0216,Plaque Quantification,2026-09-01,22
+A0216,Stenosis Mapping,2025-01-01,30
+A0216,Stenosis Mapping,2025-02-01,40
+A0216,Stenosis Mapping,2025-03-01,25
+A0216,Stenosis Mapping,2025-04-01,28
+A0216,Stenosis Mapping,2025-05-01,35
+A0216,Stenosis Mapping,2025-06-01,40
+A0216,Stenosis Mapping,2025-07-01,43
+A0216,Stenosis Mapping,2025-08-01,33
+A0216,Stenosis Mapping,2025-09-01,45
+A0216,Stenosis Mapping,2025-10-01,31
+A0216,Stenosis Mapping,2025-11-01,40
+A0216,Stenosis Mapping,2025-12-01,26
+A0216,Stenosis Mapping,2026-01-01,35
+A0216,Stenosis Mapping,2026-02-01,17
+A0216,Stenosis Mapping,2026-03-01,25
+A0216,Stenosis Mapping,2026-04-01,36
+A0216,Stenosis Mapping,2026-05-01,24
+A0216,Stenosis Mapping,2026-06-01,35
+A0216,Stenosis Mapping,2026-07-01,38
+A0216,Stenosis Mapping,2026-08-01,29
+A0216,Stenosis Mapping,2026-09-01,26
+A0218,Plaque Quantification,2026-06-01,50
+A0218,Plaque Quantification,2026-07-01,57
+A0218,Plaque Quantification,2026-08-01,41
+A0218,Plaque Quantification,2026-09-01,45
+A0218,Stenosis Mapping,2026-04-01,13
+A0218,Stenosis Mapping,2026-05-01,15
+A0218,Stenosis Mapping,2026-06-01,16
+A0218,Stenosis Mapping,2026-07-01,14
+A0218,Stenosis Mapping,2026-08-01,11
+A0218,Stenosis Mapping,2026-09-01,12
+A0222,Coronary Flow Analysis,2026-07-01,43
+A0222,Coronary Flow Analysis,2026-08-01,44
+A0222,Coronary Flow Analysis,2026-09-01,41
+A0223,Coronary Flow Analysis,2026-04-01,51
+A0223,Coronary Flow Analysis,2026-05-01,57
+A0223,Coronary Flow Analysis,2026-06-01,48
+A0223,Coronary Flow Analysis,2026-07-01,46
+A0223,Coronary Flow Analysis,2026-08-01,49
+A0223,Coronary Flow Analysis,2026-09-01,50
+A0224,Coronary Flow Analysis,2025-11-01,14
+A0224,Coronary Flow Analysis,2025-12-01,15
+A0224,Coronary Flow Analysis,2026-01-01,20
+A0224,Coronary Flow Analysis,2026-02-01,21
+A0224,Coronary Flow Analysis,2026-03-01,15
+A0224,Coronary Flow Analysis,2026-04-01,19
+A0224,Coronary Flow Analysis,2026-05-01,20
+A0224,Coronary Flow Analysis,2026-06-01,20
+A0224,Coronary Flow Analysis,2026-07-01,22
+A0224,Coronary Flow Analysis,2026-08-01,19
+A0224,Coronary Flow Analysis,2026-09-01,28
+A0225,Coronary Flow Analysis,2025-12-01,5
+A0225,Coronary Flow Analysis,2026-01-01,6
+A0225,Coronary Flow Analysis,2026-02-01,5
+A0225,Coronary Flow Analysis,2026-03-01,7
+A0225,Coronary Flow Analysis,2026-04-01,5
+A0225,Coronary Flow Analysis,2026-05-01,5
+A0225,Coronary Flow Analysis,2026-06-01,6
+A0225,Coronary Flow Analysis,2026-07-01,8
+A0225,Coronary Flow Analysis,2026-08-01,7
+A0225,Coronary Flow Analysis,2026-09-01,6
+A0225,Stenosis Mapping,2025-05-01,59
+A0225,Stenosis Mapping,2025-06-01,73
+A0225,Stenosis Mapping,2025-07-01,60
+A0225,Stenosis Mapping,2025-08-01,37
+A0225,Stenosis Mapping,2025-09-01,39
+A0225,Stenosis Mapping,2025-10-01,49
+A0225,Stenosis Mapping,2025-11-01,51
+A0225,Stenosis Mapping,2025-12-01,35
+A0225,Stenosis Mapping,2026-01-01,62
+A0225,Stenosis Mapping,2026-02-01,42
+A0225,Stenosis Mapping,2026-03-01,70
+A0225,Stenosis Mapping,2026-04-01,73
+A0225,Stenosis Mapping,2026-05-01,51
+A0225,Stenosis Mapping,2026-06-01,58
+A0225,Stenosis Mapping,2026-07-01,40
+A0225,Stenosis Mapping,2026-08-01,60
+A0225,Stenosis Mapping,2026-09-01,48
+A0226,Stenosis Mapping,2026-01-01,15
+A0226,Stenosis Mapping,2026-02-01,26
+A0226,Stenosis Mapping,2026-03-01,27
+A0226,Stenosis Mapping,2026-04-01,11
+A0226,Stenosis Mapping,2026-05-01,19
+A0226,Stenosis Mapping,2026-06-01,22
+A0226,Stenosis Mapping,2026-07-01,26
+A0226,Stenosis Mapping,2026-08-01,20
+A0226,Stenosis Mapping,2026-09-01,19
+A0227,Coronary Flow Analysis,2026-03-01,54
+A0227,Coronary Flow Analysis,2026-04-01,50
+A0227,Coronary Flow Analysis,2026-05-01,62
+A0227,Coronary Flow Analysis,2026-06-01,53
+A0227,Coronary Flow Analysis,2026-07-01,46
+A0227,Coronary Flow Analysis,2026-08-01,134
+A0227,Coronary Flow Analysis,2026-09-01,122
+A0228,Stenosis Mapping,2025-11-01,5
+A0228,Stenosis Mapping,2025-12-01,5
+A0228,Stenosis Mapping,2026-01-01,4
+A0228,Stenosis Mapping,2026-02-01,6
+A0228,Stenosis Mapping,2026-03-01,5
+A0228,Stenosis Mapping,2026-04-01,6
+A0228,Stenosis Mapping,2026-05-01,6
+A0228,Stenosis Mapping,2026-06-01,6
+A0228,Stenosis Mapping,2026-07-01,4
+A0228,Stenosis Mapping,2026-08-01,6
+A0228,Stenosis Mapping,2026-09-01,5
+A0229,Coronary Flow Analysis,2026-06-01,34
+A0229,Coronary Flow Analysis,2026-07-01,39
+A0229,Coronary Flow Analysis,2026-08-01,18
+A0229,Coronary Flow Analysis,2026-09-01,25
+A0229,Plaque Quantification,2026-08-01,4
+A0229,Plaque Quantification,2026-09-01,4
+A0229,Stenosis Mapping,2026-01-01,24
+A0229,Stenosis Mapping,2026-02-01,11
+A0229,Stenosis Mapping,2026-03-01,32
+A0229,Stenosis Mapping,2026-04-01,27
+A0229,Stenosis Mapping,2026-05-01,35
+A0229,Stenosis Mapping,2026-06-01,19
+A0229,Stenosis Mapping,2026-07-01,28
+A0229,Stenosis Mapping,2026-08-01,36
+A0229,Stenosis Mapping,2026-09-01,26
+A0230,Coronary Flow Analysis,2025-09-01,27
+A0230,Coronary Flow Analysis,2025-10-01,15
+A0230,Coronary Flow Analysis,2025-11-01,24
+A0230,Coronary Flow Analysis,2025-12-01,30
+A0230,Coronary Flow Analysis,2026-01-01,31
+A0230,Coronary Flow Analysis,2026-02-01,41
+A0230,Coronary Flow Analysis,2026-03-01,34
+A0230,Coronary Flow Analysis,2026-04-01,31
+A0230,Coronary Flow Analysis,2026-05-01,30
+A0230,Coronary Flow Analysis,2026-06-01,37
+A0230,Coronary Flow Analysis,2026-07-01,27
+A0230,Coronary Flow Analysis,2026-08-01,30
+A0230,Coronary Flow Analysis,2026-09-01,24
+A0230,Stenosis Mapping,2026-08-01,47
+A0230,Stenosis Mapping,2026-09-01,38
+A0232,Coronary Flow Analysis,2025-12-01,49
+A0232,Coronary Flow Analysis,2026-01-01,35
+A0232,Coronary Flow Analysis,2026-02-01,39
+A0232,Coronary Flow Analysis,2026-03-01,64
+A0232,Coronary Flow Analysis,2026-04-01,42
+A0232,Coronary Flow Analysis,2026-05-01,38
+A0232,Coronary Flow Analysis,2026-06-01,55
+A0232,Coronary Flow Analysis,2026-07-01,36
+A0232,Coronary Flow Analysis,2026-08-01,67
+A0232,Coronary Flow Analysis,2026-09-01,84
+A0232,Plaque Quantification,2026-05-01,60
+A0232,Plaque Quantification,2026-06-01,59
+A0232,Plaque Quantification,2026-07-01,47
+A0232,Plaque Quantification,2026-08-01,50
+A0232,Plaque Quantification,2026-09-01,46
+A0232,Stenosis Mapping,2026-01-01,54
+A0232,Stenosis Mapping,2026-02-01,51
+A0232,Stenosis Mapping,2026-03-01,51
+A0232,Stenosis Mapping,2026-04-01,45
+A0232,Stenosis Mapping,2026-05-01,33
+A0232,Stenosis Mapping,2026-06-01,39
+A0232,Stenosis Mapping,2026-07-01,43
+A0232,Stenosis Mapping,2026-08-01,40
+A0232,Stenosis Mapping,2026-09-01,44
+A0234,Coronary Flow Analysis,2025-08-01,23
+A0234,Coronary Flow Analysis,2025-09-01,29
+A0234,Coronary Flow Analysis,2025-10-01,24
+A0234,Coronary Flow Analysis,2025-11-01,24
+A0234,Coronary Flow Analysis,2025-12-01,38
+A0234,Coronary Flow Analysis,2026-01-01,42
+A0234,Coronary Flow Analysis,2026-02-01,38
+A0234,Coronary Flow Analysis,2026-03-01,43
+A0234,Coronary Flow Analysis,2026-04-01,41
+A0234,Coronary Flow Analysis,2026-05-01,58
+A0234,Coronary Flow Analysis,2026-06-01,37
+A0234,Coronary Flow Analysis,2026-07-01,38
+A0234,Coronary Flow Analysis,2026-08-01,48
+A0234,Coronary Flow Analysis,2026-09-01,44
+A0234,Plaque Quantification,2026-03-01,21
+A0234,Plaque Quantification,2026-04-01,82
+A0234,Plaque Quantification,2026-05-01,87
+A0234,Plaque Quantification,2026-06-01,90
+A0234,Plaque Quantification,2026-07-01,95
+A0234,Plaque Quantification,2026-08-01,84
+A0234,Plaque Quantification,2026-09-01,73
+A0235,Coronary Flow Analysis,2025-12-01,8
+A0235,Coronary Flow Analysis,2026-01-01,7
+A0235,Coronary Flow Analysis,2026-02-01,10
+A0235,Coronary Flow Analysis,2026-03-01,8
+A0235,Coronary Flow Analysis,2026-04-01,9
+A0235,Coronary Flow Analysis,2026-05-01,6
+A0235,Coronary Flow Analysis,2026-06-01,7
+A0235,Coronary Flow Analysis,2026-07-01,6
+A0235,Coronary Flow Analysis,2026-08-01,6
+A0235,Coronary Flow Analysis,2026-09-01,10
+A0235,Plaque Quantification,2026-03-01,8
+A0235,Plaque Quantification,2026-04-01,9
+A0235,Plaque Quantification,2026-05-01,5
+A0235,Plaque Quantification,2026-06-01,9
+A0235,Plaque Quantification,2026-07-01,3
+A0235,Plaque Quantification,2026-08-01,6
+A0235,Plaque Quantification,2026-09-01,6
+A0235,Stenosis Mapping,2025-05-01,7
+A0235,Stenosis Mapping,2025-06-01,5
+A0235,Stenosis Mapping,2025-07-01,4
+A0235,Stenosis Mapping,2025-08-01,3
+A0235,Stenosis Mapping,2025-09-01,3
+A0235,Stenosis Mapping,2025-10-01,6
+A0235,Stenosis Mapping,2025-11-01,4
+A0235,Stenosis Mapping,2025-12-01,6
+A0235,Stenosis Mapping,2026-01-01,9
+A0235,Stenosis Mapping,2026-02-01,13
+A0235,Stenosis Mapping,2026-03-01,12
+A0235,Stenosis Mapping,2026-04-01,12
+A0235,Stenosis Mapping,2026-05-01,7
+A0235,Stenosis Mapping,2026-06-01,8
+A0235,Stenosis Mapping,2026-07-01,12
+A0235,Stenosis Mapping,2026-08-01,12
+A0235,Stenosis Mapping,2026-09-01,14
+A0236,Stenosis Mapping,2025-11-01,41
+A0236,Stenosis Mapping,2025-12-01,52
+A0236,Stenosis Mapping,2026-01-01,55
+A0236,Stenosis Mapping,2026-02-01,34
+A0236,Stenosis Mapping,2026-03-01,57
+A0236,Stenosis Mapping,2026-04-01,68
+A0236,Stenosis Mapping,2026-05-01,111
+A0236,Stenosis Mapping,2026-06-01,70
+A0236,Stenosis Mapping,2026-07-01,74
+A0236,Stenosis Mapping,2026-08-01,90
+A0236,Stenosis Mapping,2026-09-01,82
+A0237,Coronary Flow Analysis,2025-09-01,60
+A0237,Coronary Flow Analysis,2025-10-01,53
+A0237,Coronary Flow Analysis,2025-11-01,68
+A0237,Coronary Flow Analysis,2025-12-01,64
+A0237,Coronary Flow Analysis,2026-01-01,51
+A0237,Coronary Flow Analysis,2026-02-01,50
+A0237,Coronary Flow Analysis,2026-03-01,22
+A0237,Coronary Flow Analysis,2026-04-01,49
+A0237,Coronary Flow Analysis,2026-05-01,38
+A0237,Coronary Flow Analysis,2026-06-01,55
+A0237,Coronary Flow Analysis,2026-07-01,54
+A0237,Coronary Flow Analysis,2026-08-01,60
+A0237,Coronary Flow Analysis,2026-09-01,67
+A0238,Stenosis Mapping,2025-02-01,31
+A0238,Stenosis Mapping,2025-03-01,43
+A0238,Stenosis Mapping,2025-04-01,41
+A0238,Stenosis Mapping,2025-05-01,43
+A0238,Stenosis Mapping,2025-06-01,44
+A0238,Stenosis Mapping,2025-07-01,52
+A0238,Stenosis Mapping,2025-08-01,43
+A0238,Stenosis Mapping,2025-09-01,53
+A0238,Stenosis Mapping,2025-10-01,41
+A0238,Stenosis Mapping,2025-11-01,39
+A0238,Stenosis Mapping,2025-12-01,37
+A0238,Stenosis Mapping,2026-01-01,27
+A0238,Stenosis Mapping,2026-02-01,45
+A0238,Stenosis Mapping,2026-03-01,60
+A0238,Stenosis Mapping,2026-04-01,46
+A0238,Stenosis Mapping,2026-05-01,48
+A0238,Stenosis Mapping,2026-06-01,39
+A0238,Stenosis Mapping,2026-07-01,40
+A0238,Stenosis Mapping,2026-08-01,51
+A0238,Stenosis Mapping,2026-09-01,60
+A0241,Coronary Flow Analysis,2026-07-01,87
+A0241,Coronary Flow Analysis,2026-08-01,74
+A0241,Coronary Flow Analysis,2026-09-01,50
+A0242,Plaque Quantification,2026-03-01,11
+A0242,Plaque Quantification,2026-04-01,11
+A0242,Plaque Quantification,2026-05-01,9
+A0242,Plaque Quantification,2026-06-01,14
+A0242,Plaque Quantification,2026-07-01,10
+A0242,Plaque Quantification,2026-08-01,14
+A0242,Plaque Quantification,2026-09-01,9
+A0242,Stenosis Mapping,2025-10-01,25
+A0242,Stenosis Mapping,2025-11-01,37
+A0242,Stenosis Mapping,2025-12-01,31
+A0242,Stenosis Mapping,2026-01-01,22
+A0242,Stenosis Mapping,2026-02-01,49
+A0242,Stenosis Mapping,2026-03-01,33
+A0242,Stenosis Mapping,2026-04-01,24
+A0242,Stenosis Mapping,2026-05-01,43
+A0242,Stenosis Mapping,2026-06-01,31
+A0242,Stenosis Mapping,2026-07-01,45
+A0242,Stenosis Mapping,2026-08-01,31
+A0242,Stenosis Mapping,2026-09-01,32
+A0243,Coronary Flow Analysis,2026-01-01,13
+A0243,Coronary Flow Analysis,2026-02-01,12
+A0243,Coronary Flow Analysis,2026-03-01,12
+A0243,Coronary Flow Analysis,2026-04-01,12
+A0243,Coronary Flow Analysis,2026-05-01,7
+A0243,Coronary Flow Analysis,2026-06-01,9
+A0243,Coronary Flow Analysis,2026-07-01,10
+A0243,Coronary Flow Analysis,2026-08-01,9
+A0243,Coronary Flow Analysis,2026-09-01,8
+A0247,Coronary Flow Analysis,2025-08-01,15
+A0247,Coronary Flow Analysis,2025-09-01,12
+A0247,Coronary Flow Analysis,2025-10-01,15
+A0247,Coronary Flow Analysis,2025-11-01,17
+A0247,Coronary Flow Analysis,2025-12-01,14
+A0247,Coronary Flow Analysis,2026-01-01,19
+A0247,Coronary Flow Analysis,2026-02-01,16
+A0247,Coronary Flow Analysis,2026-03-01,14
+A0247,Coronary Flow Analysis,2026-04-01,14
+A0247,Coronary Flow Analysis,2026-05-01,14
+A0247,Coronary Flow Analysis,2026-06-01,10
+A0247,Coronary Flow Analysis,2026-07-01,13
+A0247,Coronary Flow Analysis,2026-08-01,14
+A0247,Coronary Flow Analysis,2026-09-01,12
+A0247,Stenosis Mapping,2026-06-01,48
+A0247,Stenosis Mapping,2026-07-01,38
+A0247,Stenosis Mapping,2026-08-01,46
+A0247,Stenosis Mapping,2026-09-01,22
+A0248,Coronary Flow Analysis,2026-01-01,27
+A0248,Coronary Flow Analysis,2026-02-01,27
+A0248,Coronary Flow Analysis,2026-03-01,35
+A0248,Coronary Flow Analysis,2026-04-01,19
+A0248,Coronary Flow Analysis,2026-05-01,22
+A0248,Coronary Flow Analysis,2026-06-01,42
+A0248,Coronary Flow Analysis,2026-07-01,25
+A0248,Coronary Flow Analysis,2026-08-01,16
+A0248,Coronary Flow Analysis,2026-09-01,23
+A0249,Coronary Flow Analysis,2025-05-01,40
+A0249,Coronary Flow Analysis,2025-06-01,57
+A0249,Coronary Flow Analysis,2025-07-01,64
+A0249,Coronary Flow Analysis,2025-08-01,52
+A0249,Coronary Flow Analysis,2025-09-01,50
+A0249,Coronary Flow Analysis,2025-10-01,56
+A0249,Coronary Flow Analysis,2025-11-01,31
+A0249,Coronary Flow Analysis,2025-12-01,58
+A0249,Coronary Flow Analysis,2026-01-01,85
+A0249,Coronary Flow Analysis,2026-02-01,51
+A0249,Coronary Flow Analysis,2026-03-01,51
+A0249,Coronary Flow Analysis,2026-04-01,60
+A0249,Coronary Flow Analysis,2026-05-01,70
+A0249,Coronary Flow Analysis,2026-06-01,63
+A0249,Coronary Flow Analysis,2026-07-01,30
+A0249,Coronary Flow Analysis,2026-08-01,58
+A0249,Coronary Flow Analysis,2026-09-01,80
+A0249,Plaque Quantification,2026-06-01,42
+A0249,Plaque Quantification,2026-07-01,27
+A0249,Plaque Quantification,2026-08-01,42
+A0249,Plaque Quantification,2026-09-01,57
+A0249,Stenosis Mapping,2025-03-01,27
+A0249,Stenosis Mapping,2025-04-01,21
+A0249,Stenosis Mapping,2025-05-01,15
+A0249,Stenosis Mapping,2025-06-01,15
+A0249,Stenosis Mapping,2025-07-01,21
+A0249,Stenosis Mapping,2025-08-01,16
+A0249,Stenosis Mapping,2025-09-01,14
+A0249,Stenosis Mapping,2025-10-01,23
+A0249,Stenosis Mapping,2025-11-01,23
+A0249,Stenosis Mapping,2025-12-01,19
+A0249,Stenosis Mapping,2026-01-01,22
+A0249,Stenosis Mapping,2026-02-01,21
+A0249,Stenosis Mapping,2026-03-01,23
+A0249,Stenosis Mapping,2026-04-01,23
+A0249,Stenosis Mapping,2026-05-01,10
+A0249,Stenosis Mapping,2026-06-01,19
+A0249,Stenosis Mapping,2026-07-01,23
+A0249,Stenosis Mapping,2026-08-01,19
+A0249,Stenosis Mapping,2026-09-01,21
+A0251,Plaque Quantification,2025-01-01,40
+A0251,Plaque Quantification,2025-02-01,30
+A0251,Plaque Quantification,2025-03-01,32
+A0251,Plaque Quantification,2025-04-01,35
+A0251,Plaque Quantification,2025-05-01,27
+A0251,Plaque Quantification,2025-06-01,33
+A0251,Plaque Quantification,2025-07-01,33
+A0251,Plaque Quantification,2025-08-01,22
+A0251,Plaque Quantification,2025-09-01,33
+A0251,Plaque Quantification,2025-10-01,31
+A0251,Plaque Quantification,2025-11-01,32
+A0251,Plaque Quantification,2025-12-01,32
+A0251,Plaque Quantification,2026-01-01,33
+A0251,Plaque Quantification,2026-02-01,40
+A0251,Plaque Quantification,2026-03-01,24
+A0251,Plaque Quantification,2026-04-01,29
+A0251,Plaque Quantification,2026-05-01,72
+A0251,Plaque Quantification,2026-06-01,76
+A0251,Plaque Quantification,2026-07-01,74
+A0251,Plaque Quantification,2026-08-01,90
+A0251,Plaque Quantification,2026-09-01,67
+A0252,Coronary Flow Analysis,2026-04-01,37
+A0252,Coronary Flow Analysis,2026-05-01,37
+A0252,Coronary Flow Analysis,2026-06-01,36
+A0252,Coronary Flow Analysis,2026-07-01,31
+A0252,Coronary Flow Analysis,2026-08-01,41
+A0252,Coronary Flow Analysis,2026-09-01,35
+A0253,Plaque Quantification,2026-04-01,22
+A0253,Plaque Quantification,2026-05-01,19
+A0253,Plaque Quantification,2026-06-01,14
+A0253,Plaque Quantification,2026-07-01,12
+A0253,Plaque Quantification,2026-08-01,17
+A0253,Plaque Quantification,2026-09-01,15
+A0255,Coronary Flow Analysis,2026-02-01,19
+A0255,Coronary Flow Analysis,2026-03-01,19
+A0255,Coronary Flow Analysis,2026-04-01,16
+A0255,Coronary Flow Analysis,2026-05-01,18
+A0255,Coronary Flow Analysis,2026-06-01,28
+A0255,Coronary Flow Analysis,2026-07-01,21
+A0255,Coronary Flow Analysis,2026-08-01,16
+A0255,Coronary Flow Analysis,2026-09-01,19
+A0255,Stenosis Mapping,2025-05-01,18
+A0255,Stenosis Mapping,2025-06-01,11
+A0255,Stenosis Mapping,2025-07-01,8
+A0255,Stenosis Mapping,2025-08-01,18
+A0255,Stenosis Mapping,2025-09-01,18
+A0255,Stenosis Mapping,2025-10-01,18
+A0255,Stenosis Mapping,2025-11-01,15
+A0255,Stenosis Mapping,2025-12-01,22
+A0255,Stenosis Mapping,2026-01-01,15
+A0255,Stenosis Mapping,2026-02-01,18
+A0255,Stenosis Mapping,2026-03-01,19
+A0255,Stenosis Mapping,2026-04-01,22
+A0255,Stenosis Mapping,2026-05-01,15
+A0255,Stenosis Mapping,2026-06-01,14
+A0255,Stenosis Mapping,2026-07-01,11
+A0255,Stenosis Mapping,2026-08-01,22
+A0255,Stenosis Mapping,2026-09-01,18
+A0256,Stenosis Mapping,2026-02-01,44
+A0256,Stenosis Mapping,2026-03-01,41
+A0256,Stenosis Mapping,2026-04-01,109
+A0256,Stenosis Mapping,2026-05-01,119
+A0256,Stenosis Mapping,2026-06-01,92
+A0256,Stenosis Mapping,2026-07-01,105
+A0256,Stenosis Mapping,2026-08-01,109
+A0256,Stenosis Mapping,2026-09-01,142
+A0257,Coronary Flow Analysis,2026-02-01,24
+A0257,Coronary Flow Analysis,2026-03-01,31
+A0257,Coronary Flow Analysis,2026-04-01,108
+A0257,Coronary Flow Analysis,2026-05-01,92
+A0257,Coronary Flow Analysis,2026-06-01,96
+A0257,Coronary Flow Analysis,2026-07-01,78
+A0257,Coronary Flow Analysis,2026-08-01,89
+A0257,Coronary Flow Analysis,2026-09-01,89
+A0257,Stenosis Mapping,2026-02-01,23
+A0257,Stenosis Mapping,2026-03-01,25
+A0257,Stenosis Mapping,2026-04-01,24
+A0257,Stenosis Mapping,2026-05-01,19
+A0257,Stenosis Mapping,2026-06-01,10
+A0257,Stenosis Mapping,2026-07-01,21
+A0257,Stenosis Mapping,2026-08-01,25
+A0257,Stenosis Mapping,2026-09-01,24
+A0258,Stenosis Mapping,2026-07-01,9
+A0258,Stenosis Mapping,2026-08-01,12
+A0258,Stenosis Mapping,2026-09-01,14
+A0259,Plaque Quantification,2026-09-01,11
+A0259,Stenosis Mapping,2026-08-01,38
+A0259,Stenosis Mapping,2026-09-01,46
+A0260,Stenosis Mapping,2026-04-01,39
+A0260,Stenosis Mapping,2026-05-01,49
+A0260,Stenosis Mapping,2026-06-01,60
+A0260,Stenosis Mapping,2026-07-01,48
+A0260,Stenosis Mapping,2026-08-01,48
+A0260,Stenosis Mapping,2026-09-01,49
+A0261,Coronary Flow Analysis,2025-10-01,36
+A0261,Coronary Flow Analysis,2025-11-01,47
+A0261,Coronary Flow Analysis,2025-12-01,48
+A0261,Coronary Flow Analysis,2026-01-01,48
+A0261,Coronary Flow Analysis,2026-02-01,68
+A0261,Coronary Flow Analysis,2026-03-01,43
+A0261,Coronary Flow Analysis,2026-04-01,60
+A0261,Coronary Flow Analysis,2026-05-01,97
+A0261,Coronary Flow Analysis,2026-06-01,96
+A0261,Coronary Flow Analysis,2026-07-01,132
+A0261,Coronary Flow Analysis,2026-08-01,145
+A0261,Coronary Flow Analysis,2026-09-01,120
+A0263,Coronary Flow Analysis,2026-01-01,12
+A0263,Coronary Flow Analysis,2026-02-01,32
+A0263,Coronary Flow Analysis,2026-03-01,29
+A0263,Coronary Flow Analysis,2026-04-01,29
+A0263,Coronary Flow Analysis,2026-05-01,26
+A0263,Coronary Flow Analysis,2026-06-01,25
+A0263,Coronary Flow Analysis,2026-07-01,26
+A0263,Coronary Flow Analysis,2026-08-01,31
+A0263,Coronary Flow Analysis,2026-09-01,32
+A0263,Stenosis Mapping,2026-01-01,15
+A0263,Stenosis Mapping,2026-02-01,17
+A0263,Stenosis Mapping,2026-03-01,19
+A0263,Stenosis Mapping,2026-04-01,18
+A0263,Stenosis Mapping,2026-05-01,23
+A0263,Stenosis Mapping,2026-06-01,19
+A0263,Stenosis Mapping,2026-07-01,22
+A0263,Stenosis Mapping,2026-08-01,16
+A0263,Stenosis Mapping,2026-09-01,15
+A0264,Coronary Flow Analysis,2026-04-01,16
+A0264,Coronary Flow Analysis,2026-05-01,24
+A0264,Coronary Flow Analysis,2026-06-01,22
+A0264,Coronary Flow Analysis,2026-07-01,18
+A0264,Coronary Flow Analysis,2026-08-01,24
+A0264,Coronary Flow Analysis,2026-09-01,21
+A0264,Stenosis Mapping,2026-09-01,34
+A0266,Plaque Quantification,2026-04-01,11
+A0266,Plaque Quantification,2026-05-01,8
+A0266,Plaque Quantification,2026-06-01,7
+A0266,Plaque Quantification,2026-07-01,8
+A0266,Plaque Quantification,2026-08-01,10
+A0266,Plaque Quantification,2026-09-01,9
+A0267,Coronary Flow Analysis,2025-06-01,59
+A0267,Coronary Flow Analysis,2025-07-01,47
+A0267,Coronary Flow Analysis,2025-08-01,66
+A0267,Coronary Flow Analysis,2025-09-01,63
+A0267,Coronary Flow Analysis,2025-10-01,68
+A0267,Coronary Flow Analysis,2025-11-01,43
+A0267,Coronary Flow Analysis,2025-12-01,36
+A0267,Coronary Flow Analysis,2026-01-01,55
+A0267,Coronary Flow Analysis,2026-02-01,88
+A0267,Coronary Flow Analysis,2026-03-01,70
+A0267,Coronary Flow Analysis,2026-04-01,49
+A0267,Coronary Flow Analysis,2026-05-01,60
+A0267,Coronary Flow Analysis,2026-06-01,64
+A0267,Coronary Flow Analysis,2026-07-01,40
+A0267,Coronary Flow Analysis,2026-08-01,71
+A0267,Coronary Flow Analysis,2026-09-01,54
+A0267,Stenosis Mapping,2025-03-01,13
+A0267,Stenosis Mapping,2025-04-01,13
+A0267,Stenosis Mapping,2025-05-01,16
+A0267,Stenosis Mapping,2025-06-01,11
+A0267,Stenosis Mapping,2025-07-01,11
+A0267,Stenosis Mapping,2025-08-01,11
+A0267,Stenosis Mapping,2025-09-01,12
+A0267,Stenosis Mapping,2025-10-01,12
+A0267,Stenosis Mapping,2025-11-01,10
+A0267,Stenosis Mapping,2025-12-01,7
+A0267,Stenosis Mapping,2026-01-01,11
+A0267,Stenosis Mapping,2026-02-01,13
+A0267,Stenosis Mapping,2026-03-01,13
+A0267,Stenosis Mapping,2026-04-01,16
+A0267,Stenosis Mapping,2026-05-01,18
+A0267,Stenosis Mapping,2026-06-01,14
+A0267,Stenosis Mapping,2026-07-01,16
+A0267,Stenosis Mapping,2026-08-01,14
+A0267,Stenosis Mapping,2026-09-01,17
+A0268,Coronary Flow Analysis,2025-06-01,13
+A0268,Coronary Flow Analysis,2025-07-01,10
+A0268,Coronary Flow Analysis,2025-08-01,16
+A0268,Coronary Flow Analysis,2025-09-01,20
+A0268,Coronary Flow Analysis,2025-10-01,14
+A0268,Coronary Flow Analysis,2025-11-01,11
+A0268,Coronary Flow Analysis,2025-12-01,23
+A0268,Coronary Flow Analysis,2026-01-01,19
+A0268,Coronary Flow Analysis,2026-02-01,27
+A0268,Coronary Flow Analysis,2026-03-01,26
+A0268,Coronary Flow Analysis,2026-04-01,21
+A0268,Coronary Flow Analysis,2026-05-01,29
+A0268,Coronary Flow Analysis,2026-06-01,30
+A0268,Coronary Flow Analysis,2026-07-01,29
+A0268,Coronary Flow Analysis,2026-08-01,24
+A0268,Coronary Flow Analysis,2026-09-01,27
+A0268,Plaque Quantification,2026-05-01,36
+A0268,Plaque Quantification,2026-06-01,39
+A0268,Plaque Quantification,2026-07-01,37
+A0268,Plaque Quantification,2026-08-01,64
+A0268,Plaque Quantification,2026-09-01,56
+A0268,Stenosis Mapping,2026-07-01,49
+A0268,Stenosis Mapping,2026-08-01,45
+A0268,Stenosis Mapping,2026-09-01,52
+A0269,Stenosis Mapping,2026-05-01,12
+A0269,Stenosis Mapping,2026-06-01,9
+A0269,Stenosis Mapping,2026-07-01,7
+A0269,Stenosis Mapping,2026-08-01,12
+A0269,Stenosis Mapping,2026-09-01,9
+A0270,Coronary Flow Analysis,2026-05-01,9
+A0270,Coronary Flow Analysis,2026-06-01,10
+A0270,Coronary Flow Analysis,2026-07-01,8
+A0270,Coronary Flow Analysis,2026-08-01,11
+A0270,Coronary Flow Analysis,2026-09-01,7
+A0271,Coronary Flow Analysis,2026-09-01,21
+A0272,Stenosis Mapping,2024-08-01,39
+A0272,Stenosis Mapping,2024-09-01,41
+A0272,Stenosis Mapping,2024-10-01,29
+A0272,Stenosis Mapping,2024-11-01,24
+A0272,Stenosis Mapping,2024-12-01,27
+A0272,Stenosis Mapping,2025-01-01,34
+A0272,Stenosis Mapping,2025-02-01,26
+A0272,Stenosis Mapping,2025-03-01,30
+A0272,Stenosis Mapping,2025-04-01,28
+A0272,Stenosis Mapping,2025-05-01,25
+A0272,Stenosis Mapping,2025-06-01,25
+A0272,Stenosis Mapping,2025-07-01,30
+A0272,Stenosis Mapping,2025-08-01,23
+A0272,Stenosis Mapping,2025-09-01,31
+A0272,Stenosis Mapping,2025-10-01,26
+A0272,Stenosis Mapping,2025-11-01,29
+A0272,Stenosis Mapping,2025-12-01,37
+A0272,Stenosis Mapping,2026-01-01,28
+A0272,Stenosis Mapping,2026-02-01,79
+A0272,Stenosis Mapping,2026-03-01,62
+A0272,Stenosis Mapping,2026-04-01,64
+A0272,Stenosis Mapping,2026-05-01,72
+A0272,Stenosis Mapping,2026-06-01,92
+A0272,Stenosis Mapping,2026-07-01,58
+A0272,Stenosis Mapping,2026-08-01,74
+A0272,Stenosis Mapping,2026-09-01,79
+A0274,Plaque Quantification,2024-12-01,36
+A0274,Plaque Quantification,2025-01-01,33
+A0274,Plaque Quantification,2025-02-01,31
+A0274,Plaque Quantification,2025-03-01,36
+A0274,Plaque Quantification,2025-04-01,35
+A0274,Plaque Quantification,2025-05-01,32
+A0274,Plaque Quantification,2025-06-01,37
+A0274,Plaque Quantification,2025-07-01,15
+A0274,Plaque Quantification,2025-08-01,28
+A0274,Plaque Quantification,2025-09-01,28
+A0274,Plaque Quantification,2025-10-01,36
+A0274,Plaque Quantification,2025-11-01,39
+A0274,Plaque Quantification,2025-12-01,21
+A0274,Plaque Quantification,2026-01-01,38
+A0274,Plaque Quantification,2026-02-01,22
+A0274,Plaque Quantification,2026-03-01,23
+A0274,Plaque Quantification,2026-04-01,28
+A0274,Plaque Quantification,2026-05-01,28
+A0274,Plaque Quantification,2026-06-01,20
+A0274,Plaque Quantification,2026-07-01,33
+A0274,Plaque Quantification,2026-08-01,34
+A0274,Plaque Quantification,2026-09-01,36
+A0274,Stenosis Mapping,2025-07-01,32
+A0274,Stenosis Mapping,2025-08-01,30
+A0274,Stenosis Mapping,2025-09-01,38
+A0274,Stenosis Mapping,2025-10-01,34
+A0274,Stenosis Mapping,2025-11-01,28
+A0274,Stenosis Mapping,2025-12-01,33
+A0274,Stenosis Mapping,2026-01-01,35
+A0274,Stenosis Mapping,2026-02-01,44
+A0274,Stenosis Mapping,2026-03-01,38
+A0274,Stenosis Mapping,2026-04-01,41
+A0274,Stenosis Mapping,2026-05-01,28
+A0274,Stenosis Mapping,2026-06-01,29
+A0274,Stenosis Mapping,2026-07-01,31
+A0274,Stenosis Mapping,2026-08-01,32
+A0274,Stenosis Mapping,2026-09-01,26
+A0275,Coronary Flow Analysis,2025-10-01,46
+A0275,Coronary Flow Analysis,2025-11-01,43
+A0275,Coronary Flow Analysis,2025-12-01,48
+A0275,Coronary Flow Analysis,2026-01-01,56
+A0275,Coronary Flow Analysis,2026-02-01,49
+A0275,Coronary Flow Analysis,2026-03-01,31
+A0275,Coronary Flow Analysis,2026-04-01,43
+A0275,Coronary Flow Analysis,2026-05-01,35
+A0275,Coronary Flow Analysis,2026-06-01,53
+A0275,Coronary Flow Analysis,2026-07-01,56
+A0275,Coronary Flow Analysis,2026-08-01,53
+A0275,Coronary Flow Analysis,2026-09-01,42
+A0275,Stenosis Mapping,2025-05-01,10
+A0275,Stenosis Mapping,2025-06-01,11
+A0275,Stenosis Mapping,2025-07-01,6
+A0275,Stenosis Mapping,2025-08-01,11
+A0275,Stenosis Mapping,2025-09-01,6
+A0275,Stenosis Mapping,2025-10-01,9
+A0275,Stenosis Mapping,2025-11-01,7
+A0275,Stenosis Mapping,2025-12-01,12
+A0275,Stenosis Mapping,2026-01-01,7
+A0275,Stenosis Mapping,2026-02-01,6
+A0275,Stenosis Mapping,2026-03-01,10
+A0275,Stenosis Mapping,2026-04-01,9
+A0275,Stenosis Mapping,2026-05-01,6
+A0275,Stenosis Mapping,2026-06-01,11
+A0275,Stenosis Mapping,2026-07-01,6
+A0275,Stenosis Mapping,2026-08-01,7
+A0275,Stenosis Mapping,2026-09-01,8
+A0278,Coronary Flow Analysis,2026-08-01,14
+A0278,Coronary Flow Analysis,2026-09-01,14
+A0279,Coronary Flow Analysis,2025-02-01,36
+A0279,Coronary Flow Analysis,2025-03-01,52
+A0279,Coronary Flow Analysis,2025-04-01,48
+A0279,Coronary Flow Analysis,2025-05-01,40
+A0279,Coronary Flow Analysis,2025-06-01,39
+A0279,Coronary Flow Analysis,2025-07-01,43
+A0279,Coronary Flow Analysis,2025-08-01,49
+A0279,Coronary Flow Analysis,2025-09-01,45
+A0279,Coronary Flow Analysis,2025-10-01,36
+A0279,Coronary Flow Analysis,2025-11-01,40
+A0279,Coronary Flow Analysis,2025-12-01,58
+A0279,Coronary Flow Analysis,2026-01-01,44
+A0279,Coronary Flow Analysis,2026-02-01,49
+A0279,Coronary Flow Analysis,2026-03-01,46
+A0279,Coronary Flow Analysis,2026-04-01,44
+A0279,Coronary Flow Analysis,2026-05-01,42
+A0279,Coronary Flow Analysis,2026-06-01,49
+A0279,Coronary Flow Analysis,2026-07-01,48
+A0279,Coronary Flow Analysis,2026-08-01,44
+A0279,Coronary Flow Analysis,2026-09-01,36
+A0279,Plaque Quantification,2024-11-01,23
+A0279,Plaque Quantification,2024-12-01,18
+A0279,Plaque Quantification,2025-01-01,19
+A0279,Plaque Quantification,2025-02-01,25
+A0279,Plaque Quantification,2025-03-01,25
+A0279,Plaque Quantification,2025-04-01,18
+A0279,Plaque Quantification,2025-05-01,17
+A0279,Plaque Quantification,2025-06-01,38
+A0279,Plaque Quantification,2025-07-01,40
+A0279,Plaque Quantification,2025-08-01,34
+A0279,Plaque Quantification,2025-09-01,31
+A0279,Plaque Quantification,2025-10-01,33
+A0279,Plaque Quantification,2025-11-01,32
+A0279,Plaque Quantification,2025-12-01,33
+A0279,Plaque Quantification,2026-01-01,32
+A0279,Plaque Quantification,2026-02-01,36
+A0279,Plaque Quantification,2026-03-01,29
+A0279,Plaque Quantification,2026-04-01,39
+A0279,Plaque Quantification,2026-05-01,36
+A0279,Plaque Quantification,2026-06-01,39
+A0279,Plaque Quantification,2026-07-01,32
+A0279,Plaque Quantification,2026-08-01,40
+A0279,Plaque Quantification,2026-09-01,30
+A0281,Coronary Flow Analysis,2024-09-01,7
+A0281,Coronary Flow Analysis,2024-10-01,5
+A0281,Coronary Flow Analysis,2024-11-01,7
+A0281,Coronary Flow Analysis,2024-12-01,7
+A0281,Coronary Flow Analysis,2025-01-01,7
+A0281,Coronary Flow Analysis,2025-02-01,3
+A0281,Coronary Flow Analysis,2025-03-01,4
+A0281,Coronary Flow Analysis,2025-04-01,6
+A0281,Coronary Flow Analysis,2025-05-01,2
+A0281,Coronary Flow Analysis,2025-06-01,6
+A0281,Coronary Flow Analysis,2025-07-01,7
+A0281,Coronary Flow Analysis,2025-08-01,5
+A0281,Coronary Flow Analysis,2025-09-01,5
+A0281,Coronary Flow Analysis,2025-10-01,4
+A0281,Coronary Flow Analysis,2025-11-01,5
+A0281,Coronary Flow Analysis,2025-12-01,5
+A0281,Coronary Flow Analysis,2026-01-01,5
+A0281,Coronary Flow Analysis,2026-02-01,5
+A0281,Coronary Flow Analysis,2026-03-01,5
+A0281,Coronary Flow Analysis,2026-04-01,5
+A0281,Coronary Flow Analysis,2026-05-01,8
+A0281,Coronary Flow Analysis,2026-06-01,5
+A0281,Coronary Flow Analysis,2026-07-01,6
+A0281,Coronary Flow Analysis,2026-08-01,5
+A0281,Coronary Flow Analysis,2026-09-01,5
+A0281,Stenosis Mapping,2025-01-01,17
+A0281,Stenosis Mapping,2025-02-01,18
+A0281,Stenosis Mapping,2025-03-01,17
+A0281,Stenosis Mapping,2025-04-01,27
+A0281,Stenosis Mapping,2025-05-01,19
+A0281,Stenosis Mapping,2025-06-01,26
+A0281,Stenosis Mapping,2025-07-01,28
+A0281,Stenosis Mapping,2025-08-01,14
+A0281,Stenosis Mapping,2025-09-01,22
+A0281,Stenosis Mapping,2025-10-01,17
+A0281,Stenosis Mapping,2025-11-01,19
+A0281,Stenosis Mapping,2025-12-01,18
+A0281,Stenosis Mapping,2026-01-01,25
+A0281,Stenosis Mapping,2026-02-01,17
+A0281,Stenosis Mapping,2026-03-01,25
+A0281,Stenosis Mapping,2026-04-01,17
+A0281,Stenosis Mapping,2026-05-01,23
+A0281,Stenosis Mapping,2026-06-01,22
+A0281,Stenosis Mapping,2026-07-01,17
+A0281,Stenosis Mapping,2026-08-01,25
+A0281,Stenosis Mapping,2026-09-01,15
+A0284,Coronary Flow Analysis,2025-03-01,58
+A0284,Coronary Flow Analysis,2025-04-01,38
+A0284,Coronary Flow Analysis,2025-05-01,26
+A0284,Coronary Flow Analysis,2025-06-01,34
+A0284,Coronary Flow Analysis,2025-07-01,28
+A0284,Coronary Flow Analysis,2025-08-01,33
+A0284,Coronary Flow Analysis,2025-09-01,33
+A0284,Coronary Flow Analysis,2025-10-01,31
+A0284,Coronary Flow Analysis,2025-11-01,25
+A0284,Coronary Flow Analysis,2025-12-01,47
+A0284,Coronary Flow Analysis,2026-01-01,38
+A0284,Coronary Flow Analysis,2026-02-01,34
+A0284,Coronary Flow Analysis,2026-03-01,41
+A0284,Coronary Flow Analysis,2026-04-01,39
+A0284,Coronary Flow Analysis,2026-05-01,37
+A0284,Coronary Flow Analysis,2026-06-01,40
+A0284,Coronary Flow Analysis,2026-07-01,36
+A0284,Coronary Flow Analysis,2026-08-01,40
+A0284,Coronary Flow Analysis,2026-09-01,41
+A0285,Coronary Flow Analysis,2025-11-01,41
+A0285,Coronary Flow Analysis,2025-12-01,28
+A0285,Coronary Flow Analysis,2026-01-01,38
+A0285,Coronary Flow Analysis,2026-02-01,31
+A0285,Coronary Flow Analysis,2026-03-01,35
+A0285,Coronary Flow Analysis,2026-04-01,36
+A0285,Coronary Flow Analysis,2026-05-01,29
+A0285,Coronary Flow Analysis,2026-06-01,38
+A0285,Coronary Flow Analysis,2026-07-01,27
+A0285,Coronary Flow Analysis,2026-08-01,36
+A0285,Coronary Flow Analysis,2026-09-01,29
+A0288,Stenosis Mapping,2026-08-01,11
+A0288,Stenosis Mapping,2026-09-01,15
+A0290,Coronary Flow Analysis,2026-05-01,42
+A0290,Coronary Flow Analysis,2026-06-01,55
+A0290,Coronary Flow Analysis,2026-07-01,52
+A0290,Coronary Flow Analysis,2026-08-01,56
+A0290,Coronary Flow Analysis,2026-09-01,67
+A0290,Plaque Quantification,2026-05-01,20
+A0290,Plaque Quantification,2026-06-01,16
+A0290,Plaque Quantification,2026-07-01,20
+A0290,Plaque Quantification,2026-08-01,16
+A0290,Plaque Quantification,2026-09-01,23
+A0291,Plaque Quantification,2024-11-01,8
+A0291,Plaque Quantification,2024-12-01,6
+A0291,Plaque Quantification,2025-01-01,6
+A0291,Plaque Quantification,2025-02-01,7
+A0291,Plaque Quantification,2025-03-01,6
+A0291,Plaque Quantification,2025-04-01,3
+A0291,Plaque Quantification,2025-05-01,2
+A0291,Plaque Quantification,2025-06-01,8
+A0291,Plaque Quantification,2025-07-01,8
+A0291,Plaque Quantification,2025-08-01,9
+A0291,Plaque Quantification,2025-09-01,6
+A0291,Plaque Quantification,2025-10-01,5
+A0291,Plaque Quantification,2025-11-01,6
+A0291,Plaque Quantification,2025-12-01,7
+A0291,Plaque Quantification,2026-01-01,5
+A0291,Plaque Quantification,2026-02-01,9
+A0291,Plaque Quantification,2026-03-01,10
+A0291,Plaque Quantification,2026-04-01,7
+A0291,Plaque Quantification,2026-05-01,6
+A0291,Plaque Quantification,2026-06-01,5
+A0291,Plaque Quantification,2026-07-01,9
+A0291,Plaque Quantification,2026-08-01,7
+A0291,Plaque Quantification,2026-09-01,6
+A0291,Stenosis Mapping,2025-01-01,24
+A0291,Stenosis Mapping,2025-02-01,24
+A0291,Stenosis Mapping,2025-03-01,23
+A0291,Stenosis Mapping,2025-04-01,17
+A0291,Stenosis Mapping,2025-05-01,25
+A0291,Stenosis Mapping,2025-06-01,23
+A0291,Stenosis Mapping,2025-07-01,32
+A0291,Stenosis Mapping,2025-08-01,19
+A0291,Stenosis Mapping,2025-09-01,22
+A0291,Stenosis Mapping,2025-10-01,21
+A0291,Stenosis Mapping,2025-11-01,33
+A0291,Stenosis Mapping,2025-12-01,21
+A0291,Stenosis Mapping,2026-01-01,28
+A0291,Stenosis Mapping,2026-02-01,31
+A0291,Stenosis Mapping,2026-03-01,25
+A0291,Stenosis Mapping,2026-04-01,18
+A0291,Stenosis Mapping,2026-05-01,18
+A0291,Stenosis Mapping,2026-06-01,30
+A0291,Stenosis Mapping,2026-07-01,19
+A0291,Stenosis Mapping,2026-08-01,28
+A0291,Stenosis Mapping,2026-09-01,26
+A0292,Coronary Flow Analysis,2025-09-01,5
+A0292,Coronary Flow Analysis,2025-10-01,14
+A0292,Coronary Flow Analysis,2025-11-01,17
+A0292,Coronary Flow Analysis,2025-12-01,12
+A0292,Coronary Flow Analysis,2026-01-01,20
+A0292,Coronary Flow Analysis,2026-02-01,13
+A0292,Coronary Flow Analysis,2026-03-01,19
+A0292,Coronary Flow Analysis,2026-04-01,14
+A0292,Coronary Flow Analysis,2026-05-01,15
+A0292,Coronary Flow Analysis,2026-06-01,14
+A0292,Coronary Flow Analysis,2026-07-01,16
+A0292,Coronary Flow Analysis,2026-08-01,33
+A0292,Coronary Flow Analysis,2026-09-01,23
+A0292,Stenosis Mapping,2026-03-01,11
+A0292,Stenosis Mapping,2026-04-01,10
+A0292,Stenosis Mapping,2026-05-01,14
+A0292,Stenosis Mapping,2026-06-01,16
+A0292,Stenosis Mapping,2026-07-01,10
+A0292,Stenosis Mapping,2026-08-01,17
+A0292,Stenosis Mapping,2026-09-01,17
+A0293,Coronary Flow Analysis,2026-07-01,34
+A0293,Coronary Flow Analysis,2026-08-01,40
+A0293,Coronary Flow Analysis,2026-09-01,58
+A0294,Coronary Flow Analysis,2026-02-01,34
+A0294,Coronary Flow Analysis,2026-03-01,25
+A0294,Coronary Flow Analysis,2026-04-01,23
+A0294,Coronary Flow Analysis,2026-05-01,25
+A0294,Coronary Flow Analysis,2026-06-01,35
+A0294,Coronary Flow Analysis,2026-07-01,28
+A0294,Coronary Flow Analysis,2026-08-01,24
+A0294,Coronary Flow Analysis,2026-09-01,34
+A0294,Plaque Quantification,2026-07-01,51
+A0294,Plaque Quantification,2026-08-01,62
+A0294,Plaque Quantification,2026-09-01,60
+A0295,Stenosis Mapping,2026-09-01,58
+A0296,Coronary Flow Analysis,2026-08-01,50
+A0296,Coronary Flow Analysis,2026-09-01,58
+A0296,Stenosis Mapping,2025-10-01,45
+A0296,Stenosis Mapping,2025-11-01,38
+A0296,Stenosis Mapping,2025-12-01,53
+A0296,Stenosis Mapping,2026-01-01,37
+A0296,Stenosis Mapping,2026-02-01,37
+A0296,Stenosis Mapping,2026-03-01,37
+A0296,Stenosis Mapping,2026-04-01,28
+A0296,Stenosis Mapping,2026-05-01,30
+A0296,Stenosis Mapping,2026-06-01,34
+A0296,Stenosis Mapping,2026-07-01,47
+A0296,Stenosis Mapping,2026-08-01,38
+A0296,Stenosis Mapping,2026-09-01,35
+A0297,Coronary Flow Analysis,2025-01-01,47
+A0297,Coronary Flow Analysis,2025-02-01,68
+A0297,Coronary Flow Analysis,2025-03-01,32
+A0297,Coronary Flow Analysis,2025-04-01,59
+A0297,Coronary Flow Analysis,2025-05-01,48
+A0297,Coronary Flow Analysis,2025-06-01,46
+A0297,Coronary Flow Analysis,2025-07-01,36
+A0297,Coronary Flow Analysis,2025-08-01,55
+A0297,Coronary Flow Analysis,2025-09-01,70
+A0297,Coronary Flow Analysis,2025-10-01,83
+A0297,Coronary Flow Analysis,2025-11-01,72
+A0297,Coronary Flow Analysis,2025-12-01,59
+A0297,Coronary Flow Analysis,2026-01-01,52
+A0297,Coronary Flow Analysis,2026-02-01,54
+A0297,Coronary Flow Analysis,2026-03-01,79
+A0297,Coronary Flow Analysis,2026-04-01,58
+A0297,Coronary Flow Analysis,2026-05-01,71
+A0297,Coronary Flow Analysis,2026-06-01,68
+A0297,Coronary Flow Analysis,2026-07-01,68
+A0297,Coronary Flow Analysis,2026-08-01,60
+A0297,Coronary Flow Analysis,2026-09-01,72
+A0297,Plaque Quantification,2026-07-01,40
+A0297,Plaque Quantification,2026-08-01,37
+A0297,Plaque Quantification,2026-09-01,54
+A0298,Plaque Quantification,2025-10-01,63
+A0298,Plaque Quantification,2025-11-01,48
+A0298,Plaque Quantification,2025-12-01,58
+A0298,Plaque Quantification,2026-01-01,73
+A0298,Plaque Quantification,2026-02-01,47
+A0298,Plaque Quantification,2026-03-01,58
+A0298,Plaque Quantification,2026-04-01,54
+A0298,Plaque Quantification,2026-05-01,56
+A0298,Plaque Quantification,2026-06-01,38
+A0298,Plaque Quantification,2026-07-01,73
+A0298,Plaque Quantification,2026-08-01,48
+A0298,Plaque Quantification,2026-09-01,68
+A0299,Coronary Flow Analysis,2025-06-01,56
+A0299,Coronary Flow Analysis,2025-07-01,51
+A0299,Coronary Flow Analysis,2025-08-01,48
+A0299,Coronary Flow Analysis,2025-09-01,38
+A0299,Coronary Flow Analysis,2025-10-01,48
+A0299,Coronary Flow Analysis,2025-11-01,38
+A0299,Coronary Flow Analysis,2025-12-01,26
+A0299,Coronary Flow Analysis,2026-01-01,50
+A0299,Coronary Flow Analysis,2026-02-01,47
+A0299,Coronary Flow Analysis,2026-03-01,38
+A0299,Coronary Flow Analysis,2026-04-01,29
+A0299,Coronary Flow Analysis,2026-05-01,34
+A0299,Coronary Flow Analysis,2026-06-01,24
+A0299,Coronary Flow Analysis,2026-07-01,46
+A0299,Coronary Flow Analysis,2026-08-01,26
+A0299,Coronary Flow Analysis,2026-09-01,41
+A0300,Plaque Quantification,2025-09-01,7
+A0300,Plaque Quantification,2025-10-01,5
+A0300,Plaque Quantification,2025-11-01,6
+A0300,Plaque Quantification,2025-12-01,6
+A0300,Plaque Quantification,2026-01-01,6
+A0300,Plaque Quantification,2026-02-01,5
+A0300,Plaque Quantification,2026-03-01,4
+A0300,Plaque Quantification,2026-04-01,7
+A0300,Plaque Quantification,2026-05-01,8
+A0300,Plaque Quantification,2026-06-01,4
+A0300,Plaque Quantification,2026-07-01,7
+A0300,Plaque Quantification,2026-08-01,8
+A0300,Plaque Quantification,2026-09-01,7

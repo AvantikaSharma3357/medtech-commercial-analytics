@@ -1,0 +1,113 @@
+# Semantic model: the single, version-controlled source of truth for business
+# metric definitions. The app and tests query metrics by name through
+# src/mca/semantic.py and never write their own aggregation SQL.
+#
+# Concepts follow semantic layers such as Cube: each cube has a base table,
+# joins, measures (aggregations) and dimensions (ways to slice them).
+# Changes to this file go through pull request review like any other code.
+
+cubes:
+  opportunities:
+    description: Sales opportunities (Salesforce Opportunity object).
+    sql_table: opportunities
+    joins:
+      accounts: opportunities.AccountId = accounts.Id
+    measures:
+      opportunity_count:
+        type: count
+        sql: opportunities.Id
+        description: Number of opportunities.
+      open_pipeline:
+        type: sum
+        sql: opportunities.Amount
+        filter: NOT opportunities.IsClosed
+        format: currency
+        description: Total amount of opportunities that are still open.
+      open_opportunity_count:
+        type: count
+        sql: opportunities.Id
+        filter: NOT opportunities.IsClosed
+        description: Number of open opportunities.
+      closed_won_amount:
+        type: sum
+        sql: opportunities.Amount
+        filter: opportunities.IsWon
+        format: currency
+        description: Total amount of Closed Won opportunities (bookings).
+      closed_won_count:
+        type: count
+        sql: opportunities.Id
+        filter: opportunities.IsWon
+        description: Number of Closed Won opportunities.
+      closed_count:
+        type: count
+        sql: opportunities.Id
+        filter: opportunities.IsClosed
+        description: Number of closed opportunities (won or lost).
+      win_rate:
+        type: ratio
+        numerator: closed_won_count
+        denominator: closed_count
+        format: percent
+        description: Closed Won / all closed opportunities.
+      avg_deal_size:
+        type: ratio
+        numerator: closed_won_amount
+        denominator: closed_won_count
+        format: currency
+        description: Average amount of a Closed Won opportunity.
+    dimensions:
+      stage:
+        sql: opportunities.StageName
+      product:
+        sql: opportunities.Product
+      close_month:
+        sql: date_trunc('month', opportunities.CloseDate)
+        type: time
+      close_date:
+        sql: opportunities.CloseDate
+        type: time
+      region:
+        sql: accounts.Region
+      account_type:
+        sql: accounts.Type
+      account_name:
+        sql: accounts.Name
+      account_owner:
+        sql: accounts.OwnerId
+
+  orders:
+    description: Monthly analysis volume ordered by customer accounts.
+    sql_table: orders
+    joins:
+      accounts: orders.AccountId = accounts.Id
+    measures:
+      analyses:
+        type: sum
+        sql: orders.AnalysesOrdered
+        description: Number of analyses ordered.
+      active_accounts:
+        type: count_distinct
+        sql: orders.AccountId
+        filter: orders.AnalysesOrdered > 0
+        description: Accounts with at least one analysis ordered.
+      analyses_per_account:
+        type: ratio
+        numerator: analyses
+        denominator: active_accounts
+        format: decimal
+        description: Average analyses per active account.
+    dimensions:
+      month:
+        sql: orders.Month
+        type: time
+      product:
+        sql: orders.Product
+      region:
+        sql: accounts.Region
+      account_type:
+        sql: accounts.Type
+      account_name:
+        sql: accounts.Name
+      account_owner:
+        sql: accounts.OwnerId
